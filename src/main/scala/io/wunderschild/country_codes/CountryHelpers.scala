@@ -4,6 +4,9 @@ import scala.reflect._
 import scala.reflect.runtime.universe._
 
 object CountryHelpers {
+  /*
+   *
+   */
   implicit class RichMapToCaseClass(val m: Map[String, Any]) {
     def toCaseClass[T: TypeTag : ClassTag]: T = {
       val tpe = typeOf[T]

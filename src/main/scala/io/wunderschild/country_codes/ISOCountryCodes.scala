@@ -1,27 +1,24 @@
 package io.wunderschild.country_codes
 
+import java.awt.image.LookupTable
+
 import scala.io.Source
 import java.nio.file.Paths
 
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.dataformat.yaml.YAMLFactory
 import com.fasterxml.jackson.module.scala.DefaultScalaModule
-
 import CountryHelpers._
 
-object ISOClassify {
+object ISOCountryCodes {
   def using[A, B <: {def close(): Unit}] (closeable: B) (f: B => A): A =
     try { f(closeable) } finally { closeable.close() }
-
-  def main(args: Array[String]): Unit = {
-    init("ru")
-  }
 
   /*
    *
    * @param localization language to be used for the country names
    */
-  def init(localization: String = "en") {
+  def apply(localization: String = "en") {
     type mT = Map[String, Map[String, Any]]
 
     val mapper = new ObjectMapper(new YAMLFactory())
@@ -43,7 +40,7 @@ object ISOClassify {
        (data ++ localizationMap(data("alpha2").asInstanceOf[String])).toCaseClass[Country]
       })
     }
-  }
 
-//  private def transformData()
+    new LookupTable(countryDataMap.flatMap(_.values).toSeq)
+  }
 }
