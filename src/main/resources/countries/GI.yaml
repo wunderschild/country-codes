@@ -1,0 +1,44 @@
+---
+GI:
+  continent: Europe
+  alpha2: GI
+  alpha3: GIB
+  countryCode: '350'
+  internationalNumberLengths: '00'
+  ioc: 
+  gec: GI
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: None
+  number: '292'
+  region: Europe
+  subregion: Southern Europe
+  worldRegion: EMEA
+  unLocode: GI
+  nationality: Gibraltar
+  postalCode: true
+  postalCodeFormat: GX11 1AA
+  officialLanguages:
+  - en
+  spokenLanguages:
+  - en
+  geo:
+    latitude: 36.140751
+    latitudeDec: '36.135841369628906'
+    longitude: -5.353585
+    longitudeDec: "-5.349248886108398"
+    maxLatitude: 36.1551188
+    maxLongitude: -5.334499999999999
+    minLatitude: 36.1038999
+    minLongitude: -5.3721
+    bounds:
+      northeast:
+        lat: 36.1551188
+        lng: -5.334499999999999
+      southwest:
+        lat: 36.1038999
+        lng: -5.3721
+  currencyCode: GIP
+  startOfWeek: monday

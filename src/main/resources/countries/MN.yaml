@@ -1,0 +1,47 @@
+---
+MN:
+  continent: Asia
+  alpha2: MN
+  alpha3: MNG
+  countryCode: '976'
+  internationalNumberLengths: '001'
+  ioc: MGL
+  gec: MG
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  - 8
+  - 9
+  - 10
+  nationalPrefix: '0'
+  number: '496'
+  region: Asia
+  subregion: Eastern Asia
+  worldRegion: APAC
+  unLocode: MN
+  nationality: Mongolian
+  postalCode: true
+  postalCodeFormat: "\\d{5}"
+  officialLanguages:
+  - mn
+  spokenLanguages:
+  - mn
+  geo:
+    latitude: 46.862496
+    latitudeDec: '46.83647918701172'
+    longitude: 103.846656
+    longitudeDec: '103.06689453125'
+    maxLatitude: 52.1486965
+    maxLongitude: 119.9319489
+    minLatitude: 41.5815201
+    minLongitude: 87.73761999999999
+    bounds:
+      northeast:
+        lat: 52.1486965
+        lng: 119.9319489
+      southwest:
+        lat: 41.5815201
+        lng: 87.73761999999999
+  currencyCode: MNT
+  startOfWeek: monday

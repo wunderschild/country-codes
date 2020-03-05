@@ -1,0 +1,43 @@
+---
+SR:
+  continent: South America
+  alpha2: SR
+  alpha3: SUR
+  countryCode: '597'
+  internationalNumberLengths: '00'
+  ioc: SUR
+  gec: NS
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 6
+  nationalPrefix: '0'
+  number: '740'
+  region: Americas
+  subregion: South America
+  worldRegion: AMER
+  unLocode: SR
+  nationality: Surinamer
+  postalCode: false
+  officialLanguages:
+  - nl
+  spokenLanguages:
+  - nl
+  geo:
+    latitude: 3.919305
+    latitudeDec: '4.216928958892822'
+    longitude: -56.027783
+    longitudeDec: "-55.889217376708984"
+    maxLatitude: 6.1295999
+    maxLongitude: -53.94289999999999
+    minLatitude: 1.837306
+    minLongitude: -58.07050590000001
+    bounds:
+      northeast:
+        lat: 6.1295999
+        lng: -53.94289999999999
+      southwest:
+        lat: 1.837306
+        lng: -58.07050590000001
+  currencyCode: SRD
+  startOfWeek: monday

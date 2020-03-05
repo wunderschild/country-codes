@@ -1,0 +1,49 @@
+---
+FJ:
+  continent: Australia
+  alpha2: FJ
+  alpha3: FJI
+  countryCode: '679'
+  internationalNumberLengths: '00'
+  ioc: FIJ
+  gec: FJ
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  nationalPrefix: None
+  number: '242'
+  region: Oceania
+  subregion: Melanesia
+  worldRegion: APAC
+  unLocode: FJ
+  nationality: Fijian
+  postalCode: false
+  officialLanguages:
+  - en
+  - fj
+  - hi
+  - ur
+  spokenLanguages:
+  - en
+  - fj
+  - hi
+  - ur
+  geo:
+    latitude: -17.713371
+    latitudeDec: "-17.658161163330078"
+    longitude: 178.065032
+    longitudeDec: '178.1472625732422'
+    maxLatitude: -12.2084957
+    maxLongitude: -177.8686523
+    minLatitude: -20.8998713
+    minLongitude: 176.7919922
+    bounds:
+      northeast:
+        lat: -12.2084957
+        lng: -177.8686523
+      southwest:
+        lat: -20.8998713
+        lng: 176.7919922
+  currencyCode: FJD
+  startOfWeek: monday

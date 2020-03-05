@@ -1,0 +1,53 @@
+---
+AR:
+  continent: South America
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{postalcode}} {{city}}
+    {{region}}
+    {{country}}
+  alpha2: AR
+  alpha3: ARG
+  countryCode: '54'
+  internationalNumberLengths: '00'
+  ioc: ARG
+  gec: AR
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  - 9
+  nationalPrefix: '0'
+  number: '032'
+  region: Americas
+  subregion: South America
+  worldRegion: AMER
+  unLocode: AR
+  nationality: Argentinean
+  postalCode: true
+  postalCodeFormat: "((?:[A-HJ-NP-Z])?\\d{4})([A-Z]{3})?"
+  officialLanguages:
+  - es
+  - gn
+  spokenLanguages:
+  - es
+  - gn
+  geo:
+    latitude: -38.416097
+    latitudeDec: "-37.071964263916016"
+    longitude: -63.61667199999999
+    longitudeDec: "-64.85450744628906"
+    maxLatitude: -21.7810459
+    maxLongitude: -53.637481
+    minLatitude: -55.1250224
+    minLongitude: -73.5603601
+    bounds:
+      northeast:
+        lat: -21.7810459
+        lng: -53.637481
+      southwest:
+        lat: -55.1250224
+        lng: -73.5603601
+  currencyCode: ARS
+  startOfWeek: monday

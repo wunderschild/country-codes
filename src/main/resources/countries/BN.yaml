@@ -1,0 +1,44 @@
+---
+BN:
+  continent: Asia
+  alpha2: BN
+  alpha3: BRN
+  countryCode: '673'
+  internationalNumberLengths: '00'
+  ioc: BRU
+  gec: BX
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  nationalPrefix: '0'
+  number: '096'
+  region: Asia
+  subregion: South-Eastern Asia
+  worldRegion: APAC
+  unLocode: BN
+  nationality: Bruneian
+  postalCode: true
+  postalCodeFormat: "[A-Z]{2} ?\\d{4}"
+  officialLanguages:
+  - ms
+  spokenLanguages:
+  - ms
+  geo:
+    latitude: 4.535277
+    latitudeDec: '4.5703840255737305'
+    longitude: 114.727669
+    longitudeDec: '114.74818420410156'
+    maxLatitude: 5.0978001
+    maxLongitude: 115.3639552
+    minLatitude: 4.002460999999999
+    minLongitude: 114.0752
+    bounds:
+      northeast:
+        lat: 5.0978001
+        lng: 115.3639552
+      southwest:
+        lat: 4.002460999999999
+        lng: 114.0752
+  currencyCode: BND
+  startOfWeek: monday

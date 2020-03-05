@@ -1,0 +1,45 @@
+---
+BF:
+  continent: Africa
+  alpha2: BF
+  alpha3: BFA
+  countryCode: '226'
+  internationalNumberLengths: '00'
+  ioc: BUR
+  gec: UV
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: None
+  number: '854'
+  region: Africa
+  subregion: Western Africa
+  worldRegion: EMEA
+  unLocode: BF
+  nationality: Burkinabe
+  postalCode: false
+  officialLanguages:
+  - fr
+  - ff
+  spokenLanguages:
+  - fr
+  - ff
+  geo:
+    latitude: 12.238333
+    latitudeDec: '12.284985542297363'
+    longitude: -1.561593
+    longitudeDec: "-1.745560646057129"
+    maxLatitude: 15.0840032
+    maxLongitude: 2.4043598
+    minLatitude: 9.4104719
+    minLongitude: -5.5157196
+    bounds:
+      northeast:
+        lat: 15.0840032
+        lng: 2.4043598
+      southwest:
+        lat: 9.4104719
+        lng: -5.5157196
+  currencyCode: XOF
+  startOfWeek: monday

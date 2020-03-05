@@ -1,0 +1,47 @@
+---
+AD:
+  continent: Europe
+  alpha2: AD
+  alpha3: AND
+  countryCode: '376'
+  internationalNumberLengths: '00'
+  ioc: AND
+  gec: AN
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 6
+  - 7
+  - 8
+  - 9
+  nationalPrefix: None
+  number: '020'
+  region: Europe
+  subregion: Southern Europe
+  worldRegion: EMEA
+  unLocode: AD
+  nationality: Andorran
+  postalCode: true
+  postalCodeFormat: AD[1-7]0\d
+  officialLanguages:
+  - ca
+  spokenLanguages:
+  - ca
+  geo:
+    latitude: 42.506285
+    latitudeDec: '42.5506591796875'
+    longitude: 1.521801
+    longitudeDec: '1.5762332677841187'
+    maxLatitude: 42.655791
+    maxLongitude: 1.786639
+    minLatitude: 42.4287488
+    minLongitude: 1.4087052
+    bounds:
+      northeast:
+        lat: 42.655791
+        lng: 1.786639
+      southwest:
+        lat: 42.4287488
+        lng: 1.4087052
+  currencyCode: EUR
+  startOfWeek: monday

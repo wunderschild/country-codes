@@ -1,0 +1,58 @@
+---
+SE:
+  continent: Europe
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{postalcode}} {{city}}
+    {{country}}
+  alpha2: SE
+  alpha3: SWE
+  countryCode: '46'
+  internationalNumberLengths: '00'
+  ioc: SWE
+  gec: SW
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 9
+  nationalPrefix: '0'
+  number: '752'
+  region: Europe
+  subregion: Northern Europe
+  worldRegion: EMEA
+  unLocode: SE
+  nationality: Swedish
+  euMember: true
+  eeaMember: true
+  vatRates:
+    standard: 25
+    reduced:
+    - 6
+    - 12
+    superReduced:
+    parking: 
+  postalCode: true
+  postalCodeFormat: "\\d{3} ?\\d{2}"
+  officialLanguages:
+  - sv
+  spokenLanguages:
+  - sv
+  geo:
+    latitude: 60.12816100000001
+    latitudeDec: '62.67497253417969'
+    longitude: 18.643501
+    longitudeDec: '16.798059463500977'
+    maxLatitude: 69.0599709
+    maxLongitude: 24.1773102
+    minLatitude: 55.0059799
+    minLongitude: 10.5798
+    bounds:
+      northeast:
+        lat: 69.0599709
+        lng: 24.1773102
+      southwest:
+        lat: 55.0059799
+        lng: 10.5798
+  currencyCode: SEK
+  startOfWeek: monday

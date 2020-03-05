@@ -1,0 +1,55 @@
+---
+NP:
+  continent: Asia
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{city}}
+    {{region}} {{postalcode}}
+    {{country}}
+  alpha2: NP
+  alpha3: NPL
+  countryCode: '977'
+  internationalNumberLengths: '00'
+  ioc: NEP
+  gec: NP
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  - 8
+  nationalPrefix: '0'
+  number: '524'
+  region: Asia
+  subregion: Southern Asia
+  worldRegion: APAC
+  unLocode: NP
+  nationality: Nepalese
+  postalCode: true
+  postalCodeFormat: "\\d{5}"
+  officialLanguages:
+  - ne
+  spokenLanguages:
+  - ne
+  - mai
+  - bho
+  - new
+  - urd
+  geo:
+    latitude: 28.394857
+    latitudeDec: '28.259138107299805'
+    longitude: 84.12400799999999
+    longitudeDec: '83.94416046142578'
+    maxLatitude: 30.4469452
+    maxLongitude: 88.20152569999999
+    minLatitude: 26.3479661
+    minLongitude: 80.05846980000001
+    bounds:
+      northeast:
+        lat: 30.4469452
+        lng: 88.20152569999999
+      southwest:
+        lat: 26.3479661
+        lng: 80.05846980000001
+  currencyCode: NPR
+  startOfWeek: sunday

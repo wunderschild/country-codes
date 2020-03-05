@@ -1,0 +1,55 @@
+---
+MT:
+  continent: Europe
+  alpha2: MT
+  alpha3: MLT
+  countryCode: '356'
+  internationalNumberLengths: '00'
+  ioc: MLT
+  gec: MT
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: '21'
+  number: '470'
+  region: Europe
+  subregion: Southern Europe
+  worldRegion: EMEA
+  unLocode: MT
+  nationality: Maltese
+  euMember: true
+  eeaMember: true
+  vatRates:
+    standard: 18
+    reduced:
+    - 5
+    - 7
+    superReduced:
+    parking: 
+  postalCode: true
+  postalCodeFormat: "[A-Z]{3} ?\\d{2,4}"
+  officialLanguages:
+  - mt
+  - en
+  spokenLanguages:
+  - mt
+  - en
+  geo:
+    latitude: 35.937496
+    latitudeDec: '35.93336486816406'
+    longitude: 14.375416
+    longitudeDec: '14.381033897399902'
+    maxLatitude: 36.0853
+    maxLongitude: 14.5765999
+    minLatitude: 35.79960000000001
+    minLongitude: 14.1801001
+    bounds:
+      northeast:
+        lat: 36.0853
+        lng: 14.5765999
+      southwest:
+        lat: 35.79960000000001
+        lng: 14.1801001
+  currencyCode: EUR
+  startOfWeek: monday

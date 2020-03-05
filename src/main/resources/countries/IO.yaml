@@ -1,0 +1,42 @@
+---
+IO:
+  continent: Asia
+  alpha2: IO
+  alpha3: IOT
+  countryCode: '246'
+  internationalNumberLengths: ''
+  ioc: 
+  gec: IO
+  nationalDestinationCodeLengths: []
+  nationalNumberLengths: []
+  nationalPrefix: ''
+  number: '086'
+  region: Africa
+  subregion: Eastern Africa
+  worldRegion: APAC
+  unLocode: IO
+  nationality: Indian
+  postalCode: true
+  postalCodeFormat: BBND 1ZZ
+  officialLanguages:
+  - en
+  spokenLanguages:
+  - en
+  geo:
+    latitude: -7.3346232
+    latitudeDec: "-6.196269989013672"
+    longitude: 72.4242508
+    longitudeDec: '71.34793090820312'
+    maxLatitude: -5.1401857
+    maxLongitude: 72.5880433
+    minLatitude: -7.4891118
+    minLongitude: 71.1859131
+    bounds:
+      northeast:
+        lat: -5.1401857
+        lng: 72.5880433
+      southwest:
+        lat: -7.4891118
+        lng: 71.1859131
+  currencyCode: USD
+  startOfWeek: monday

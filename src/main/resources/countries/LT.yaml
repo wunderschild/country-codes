@@ -1,0 +1,53 @@
+---
+LT:
+  continent: Europe
+  alpha2: LT
+  alpha3: LTU
+  countryCode: '370'
+  internationalNumberLengths: '00'
+  ioc: LTU
+  gec: LH
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: '8'
+  number: '440'
+  region: Europe
+  subregion: Northern Europe
+  worldRegion: EMEA
+  unLocode: LT
+  nationality: Lithuanian
+  euMember: true
+  eeaMember: true
+  vatRates:
+    standard: 21
+    reduced:
+    - 5
+    - 9
+    superReduced:
+    parking: 
+  postalCode: true
+  postalCodeFormat: "\\d{5}"
+  officialLanguages:
+  - lt
+  spokenLanguages:
+  - lt
+  geo:
+    latitude: 55.169438
+    latitudeDec: '55.33871841430664'
+    longitude: 23.881275
+    longitudeDec: '23.87092399597168'
+    maxLatitude: 56.45032089999999
+    maxLongitude: 26.8355913
+    minLatitude: 53.89687869999999
+    minLongitude: 20.931
+    bounds:
+      northeast:
+        lat: 56.45032089999999
+        lng: 26.8355913
+      southwest:
+        lat: 53.89687869999999
+        lng: 20.931
+  currencyCode: EUR
+  startOfWeek: monday

@@ -1,0 +1,44 @@
+---
+NI:
+  continent: North America
+  alpha2: NI
+  alpha3: NIC
+  countryCode: '505'
+  internationalNumberLengths: '00'
+  ioc: NCA
+  gec: NU
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: None
+  number: '558'
+  region: Americas
+  subregion: Central America
+  worldRegion: AMER
+  unLocode: NI
+  nationality: Nicaraguan
+  postalCode: true
+  postalCodeFormat: "\\d{5}"
+  officialLanguages:
+  - es
+  spokenLanguages:
+  - es
+  geo:
+    latitude: 12.865416
+    latitudeDec: '12.903773307800293'
+    longitude: -85.207229
+    longitudeDec: "-84.92182159423828"
+    maxLatitude: 15.0302755
+    maxLongitude: -82.2766
+    minLatitude: 10.7080549
+    minLongitude: -87.7588
+    bounds:
+      northeast:
+        lat: 15.0302755
+        lng: -82.2766
+      southwest:
+        lat: 10.7080549
+        lng: -87.7588
+  currencyCode: NIO
+  startOfWeek: monday

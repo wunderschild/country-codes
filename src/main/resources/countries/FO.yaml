@@ -1,0 +1,44 @@
+---
+FO:
+  continent: Europe
+  alpha2: FO
+  alpha3: FRO
+  countryCode: '298'
+  internationalNumberLengths: '00'
+  ioc: FRO
+  gec: FO
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 6
+  nationalPrefix: None
+  number: '234'
+  region: Europe
+  subregion: Northern Europe
+  worldRegion: EMEA
+  unLocode: FO
+  nationality: Faroese
+  postalCode: true
+  postalCodeFormat: "\\d{3}"
+  officialLanguages:
+  - fo
+  spokenLanguages:
+  - fo
+  geo:
+    latitude: 61.89263500000001
+    latitudeDec: '62.009559631347656'
+    longitude: -6.911805999999999
+    longitudeDec: "-6.818255424499512"
+    maxLatitude: 62.4310742
+    maxLongitude: -6.190795899999999
+    minLatitude: 61.3677776
+    minLongitude: -7.717895500000001
+    bounds:
+      northeast:
+        lat: 62.4310742
+        lng: -6.190795899999999
+      southwest:
+        lat: 61.3677776
+        lng: -7.717895500000001
+  currencyCode: DKK
+  startOfWeek: monday

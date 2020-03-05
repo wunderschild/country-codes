@@ -1,0 +1,44 @@
+---
+MA:
+  continent: Africa
+  alpha2: MA
+  alpha3: MAR
+  countryCode: '212'
+  internationalNumberLengths: '00'
+  ioc: MAR
+  gec: MO
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: '0'
+  number: '504'
+  region: Africa
+  subregion: Northern Africa
+  worldRegion: EMEA
+  unLocode: MA
+  nationality: Moroccan
+  postalCode: true
+  postalCodeFormat: "\\d{5}"
+  officialLanguages:
+  - ar
+  spokenLanguages:
+  - ar
+  geo:
+    latitude: 31.791702
+    latitudeDec: '29.14059066772461'
+    longitude: -7.092619999999999
+    longitudeDec: "-8.953388214111328"
+    maxLatitude: 35.9344
+    maxLongitude: -0.996976
+    minLatitude: 27.6672694
+    minLongitude: -13.3044001
+    bounds:
+      northeast:
+        lat: 35.9344
+        lng: -0.996976
+      southwest:
+        lat: 27.6672694
+        lng: -13.3044001
+  currencyCode: MAD
+  startOfWeek: monday

@@ -1,6 +1,59 @@
 ---
 FR:
+  continent: Europe
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{postalcode}} {{city}}
+    {{country}}
   alpha2: FR
   alpha3: FRA
+  countryCode: '33'
+  internationalNumberLengths: '00'
+  ioc: FRA
+  gec: FR
+  nationalDestinationCodeLengths:
+  - 1
+  nationalNumberLengths:
+  - 9
+  - 10
+  nationalPrefix: '0'
+  number: '250'
+  region: Europe
+  subregion: Western Europe
+  worldRegion: EMEA
+  unLocode: FR
   nationality: French
-  sovereignty: ~
+  euMember: true
+  eeaMember: true
+  vatRates:
+    standard: 20
+    reduced:
+    - 5.5
+    - 10
+    superReduced: 2.1
+    parking: 
+  postalCode: true
+  postalCodeFormat: "\\d{2} ?\\d{3}"
+  officialLanguages:
+  - fr
+  spokenLanguages:
+  - fr
+  geo:
+    latitude: 46.227638
+    latitudeDec: '46.63727951049805'
+    longitude: 2.213749
+    longitudeDec: '2.3382623195648193'
+    maxLatitude: 51.1241999
+    maxLongitude: 9.6624999
+    minLatitude: 41.3253001
+    minLongitude: -5.5591
+    bounds:
+      northeast:
+        lat: 51.1241999
+        lng: 9.6624999
+      southwest:
+        lat: 41.3253001
+        lng: -5.5591
+  currencyCode: EUR
+  startOfWeek: monday

@@ -1,0 +1,49 @@
+---
+US:
+  continent: North America
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{city}} {{regionShort}} {{postalcode}}
+    {{country}}
+  alpha2: US
+  alpha3: USA
+  countryCode: '1'
+  internationalNumberLengths: '011'
+  ioc: USA
+  gec: US
+  nationalDestinationCodeLengths:
+  - 3
+  nationalNumberLengths:
+  - 10
+  nationalPrefix: '1'
+  number: '840'
+  region: Americas
+  subregion: Northern America
+  worldRegion: AMER
+  unLocode: US
+  nationality: American
+  postalCode: true
+  postalCodeFormat: "(\\d{5})(?:[ \\-](\\d{4}))?"
+  officialLanguages:
+  - en
+  spokenLanguages:
+  - en
+  geo:
+    latitude: 37.09024
+    latitudeDec: '39.44325637817383'
+    longitude: -95.712891
+    longitudeDec: "-98.95733642578125"
+    maxLatitude: 71.5388001
+    maxLongitude: -66.885417
+    minLatitude: 18.7763
+    minLongitude: 170.5957
+    bounds:
+      northeast:
+        lat: 71.5388001
+        lng: -66.885417
+      southwest:
+        lat: 18.7763
+        lng: 170.5957
+  currencyCode: USD
+  startOfWeek: sunday

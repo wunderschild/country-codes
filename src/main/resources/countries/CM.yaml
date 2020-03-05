@@ -1,0 +1,45 @@
+---
+CM:
+  continent: Africa
+  alpha2: CM
+  alpha3: CMR
+  countryCode: '237'
+  internationalNumberLengths: '00'
+  ioc: CMR
+  gec: CM
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: None
+  number: '120'
+  region: Africa
+  subregion: Middle Africa
+  worldRegion: EMEA
+  unLocode: CM
+  nationality: Cameroonian
+  postalCode: false
+  officialLanguages:
+  - en
+  - fr
+  spokenLanguages:
+  - en
+  - fr
+  geo:
+    latitude: 7.369721999999999
+    latitudeDec: '5.685476779937744'
+    longitude: 12.354722
+    longitudeDec: '12.722877502441406'
+    maxLatitude: 13.083335
+    maxLongitude: 16.1944081
+    minLatitude: 1.6559
+    minLongitude: 8.3936001
+    bounds:
+      northeast:
+        lat: 13.083335
+        lng: 16.1944081
+      southwest:
+        lat: 1.6559
+        lng: 8.3936001
+  currencyCode: XAF
+  startOfWeek: monday

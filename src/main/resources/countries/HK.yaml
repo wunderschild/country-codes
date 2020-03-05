@@ -1,0 +1,50 @@
+---
+HK:
+  continent: Asia
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{postalcode}} {{city}} {{regionShort}}
+    {{country}}
+  alpha2: HK
+  alpha3: HKG
+  countryCode: '852'
+  internationalNumberLengths: '001'
+  ioc: HKG
+  gec: HK
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: None
+  number: '344'
+  region: Asia
+  subregion: Eastern Asia
+  worldRegion: APAC
+  unLocode: HK
+  nationality: Hong Kongese
+  postalCode: false
+  officialLanguages:
+  - en
+  - zh
+  spokenLanguages:
+  - en
+  - zh
+  geo:
+    latitude: 22.396428
+    latitudeDec: '22.336156845092773'
+    longitude: 114.109497
+    longitudeDec: '114.18696594238281'
+    maxLatitude: 22.561968
+    maxLongitude: 114.4294999
+    minLatitude: 22.1435
+    minLongitude: 113.8259001
+    bounds:
+      northeast:
+        lat: 22.561968
+        lng: 114.4294999
+      southwest:
+        lat: 22.1435
+        lng: 113.8259001
+  currencyCode: HKD
+  startOfWeek: monday

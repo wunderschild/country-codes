@@ -1,0 +1,43 @@
+---
+TL:
+  continent: Asia
+  alpha2: TL
+  alpha3: TLS
+  countryCode: '670'
+  internationalNumberLengths: None
+  ioc: TLS
+  gec: TT
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  nationalPrefix: None
+  number: '626'
+  region: Asia
+  subregion: South-Eastern Asia
+  worldRegion: APAC
+  unLocode: TL
+  nationality: East Timorese
+  postalCode: false
+  officialLanguages:
+  - pt
+  spokenLanguages:
+  - pt
+  geo:
+    latitude: -8.874217
+    latitudeDec: "-8.804786682128906"
+    longitude: 125.727539
+    longitudeDec: '126.07902526855469'
+    maxLatitude: -8.048399999999999
+    maxLongitude: 127.4249
+    minLatitude: -9.5303001
+    minLongitude: 124.0332
+    bounds:
+      northeast:
+        lat: -8.048399999999999
+        lng: 127.4249
+      southwest:
+        lat: -9.5303001
+        lng: 124.0332
+  currencyCode: IDR
+  startOfWeek: monday

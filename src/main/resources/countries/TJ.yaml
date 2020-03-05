@@ -1,0 +1,47 @@
+---
+TJ:
+  continent: Asia
+  alpha2: TJ
+  alpha3: TJK
+  altCurrency: RUB
+  countryCode: '992'
+  internationalNumberLengths: '810'
+  ioc: TJK
+  gec: TI
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 9
+  nationalPrefix: '8'
+  number: '762'
+  region: Asia
+  subregion: Central Asia
+  worldRegion: EMEA
+  unLocode: TJ
+  nationality: Tadzhik
+  postalCode: true
+  postalCodeFormat: "\\d{6}"
+  officialLanguages:
+  - tg
+  - ru
+  spokenLanguages:
+  - tg
+  - ru
+  geo:
+    latitude: 38.861034
+    latitudeDec: '38.879764556884766'
+    longitude: 71.276093
+    longitudeDec: '70.89906311035156'
+    maxLatitude: 41.044367
+    maxLongitude: 75.1539564
+    minLatitude: 36.6719898
+    minLongitude: 67.34201209999999
+    bounds:
+      northeast:
+        lat: 41.044367
+        lng: 75.1539564
+      southwest:
+        lat: 36.6719898
+        lng: 67.34201209999999
+  currencyCode: TJS
+  startOfWeek: monday

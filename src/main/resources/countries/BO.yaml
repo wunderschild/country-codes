@@ -1,0 +1,47 @@
+---
+BO:
+  continent: South America
+  alpha2: BO
+  alpha3: BOL
+  countryCode: '591'
+  internationalNumberLengths: '0010'
+  ioc: BOL
+  gec: BL
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: '010'
+  number: '068'
+  region: Americas
+  subregion: South America
+  worldRegion: AMER
+  unLocode: BO
+  nationality: Bolivian
+  postalCode: false
+  officialLanguages:
+  - es
+  - ay
+  - qu
+  spokenLanguages:
+  - es
+  - ay
+  - qu
+  geo:
+    latitude: -16.290154
+    latitudeDec: "-16.713054656982422"
+    longitude: -63.58865299999999
+    longitudeDec: "-64.6666488647461"
+    maxLatitude: -9.669323
+    maxLongitude: -57.453803
+    minLatitude: -22.8980899
+    minLongitude: -69.64498999999999
+    bounds:
+      northeast:
+        lat: -9.669323
+        lng: -57.453803
+      southwest:
+        lat: -22.8980899
+        lng: -69.64498999999999
+  currencyCode: BOB
+  startOfWeek: monday

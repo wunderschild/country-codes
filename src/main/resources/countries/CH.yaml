@@ -1,0 +1,62 @@
+---
+CH:
+  continent: Europe
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{postalcode}} {{city}}
+    {{country}}
+  alpha2: CH
+  alpha3: CHE
+  countryCode: '41'
+  internationalNumberLengths: '00'
+  ioc: SUI
+  gec: SZ
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 9
+  - 10
+  nationalPrefix: '0'
+  number: '756'
+  region: Europe
+  subregion: Western Europe
+  worldRegion: EMEA
+  unLocode: CH
+  nationality: Swiss
+  eeaMember: true
+  vatRates:
+    standard: 7.7
+    reduced:
+    - 2.5
+    - 3.7
+    superReduced:
+    parking: 
+  postalCode: true
+  postalCodeFormat: "\\d{4}"
+  officialLanguages:
+  - de
+  - fr
+  - it
+  spokenLanguages:
+  - de
+  - fr
+  - it
+  geo:
+    latitude: 46.818188
+    latitudeDec: '46.80379867553711'
+    longitude: 8.227511999999999
+    longitudeDec: '8.222854614257812'
+    maxLatitude: 47.8084546
+    maxLongitude: 10.4923401
+    minLatitude: 45.81792
+    minLongitude: 5.95608
+    bounds:
+      northeast:
+        lat: 47.8084546
+        lng: 10.4923401
+      southwest:
+        lat: 45.81792
+        lng: 5.95608
+  currencyCode: CHF
+  startOfWeek: monday

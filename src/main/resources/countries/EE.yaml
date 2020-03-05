@@ -1,0 +1,53 @@
+---
+EE:
+  continent: Europe
+  alpha2: EE
+  alpha3: EST
+  countryCode: '372'
+  internationalNumberLengths: '00'
+  ioc: EST
+  gec: EN
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  - 8
+  nationalPrefix: None
+  number: '233'
+  region: Europe
+  subregion: Northern Europe
+  worldRegion: EMEA
+  unLocode: EE
+  nationality: Estonian
+  euMember: true
+  eeaMember: true
+  vatRates:
+    standard: 20
+    reduced:
+    - 9
+    superReduced:
+    parking: 
+  postalCode: true
+  postalCodeFormat: "\\d{5}"
+  officialLanguages:
+  - et
+  spokenLanguages:
+  - et
+  geo:
+    latitude: 58.595272
+    latitudeDec: '58.69374465942383'
+    longitude: 25.013607
+    longitudeDec: '25.24162483215332'
+    maxLatitude: 59.7315
+    maxLongitude: 28.2101389
+    minLatitude: 57.50931600000001
+    minLongitude: 21.6540999
+    bounds:
+      northeast:
+        lat: 59.7315
+        lng: 28.2101389
+      southwest:
+        lat: 57.50931600000001
+        lng: 21.6540999
+  currencyCode: EUR
+  startOfWeek: monday

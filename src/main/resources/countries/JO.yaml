@@ -1,0 +1,50 @@
+---
+JO:
+  continent: Asia
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{postalcode}} {{city}}
+    {{country}}
+  alpha2: JO
+  alpha3: JOR
+  countryCode: '962'
+  internationalNumberLengths: '00'
+  ioc: JOR
+  gec: JO
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  - 9
+  nationalPrefix: '0'
+  number: '400'
+  region: Asia
+  subregion: Western Asia
+  worldRegion: EMEA
+  unLocode: JO
+  nationality: Jordanian
+  postalCode: true
+  postalCodeFormat: "\\d{5}"
+  officialLanguages:
+  - ar
+  spokenLanguages:
+  - ar
+  geo:
+    latitude: 30.585164
+    latitudeDec: '31.2757625579834'
+    longitude: 36.238414
+    longitudeDec: '36.82838821411133'
+    maxLatitude: 33.3746878
+    maxLongitude: 39.301154
+    minLatitude: 29.1850361
+    minLongitude: 34.9441001
+    bounds:
+      northeast:
+        lat: 33.3746878
+        lng: 39.301154
+      southwest:
+        lat: 29.1850361
+        lng: 34.9441001
+  currencyCode: JOD
+  startOfWeek: sunday

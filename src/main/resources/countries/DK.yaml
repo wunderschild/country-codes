@@ -1,0 +1,57 @@
+---
+DK:
+  continent: Europe
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{postalcode}} {{city}}
+    {{region}}
+    {{country}}
+  alpha2: DK
+  alpha3: DNK
+  countryCode: '45'
+  internationalNumberLengths: '00'
+  ioc: DEN
+  gec: DA
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: None
+  number: '208'
+  region: Europe
+  subregion: Northern Europe
+  worldRegion: EMEA
+  unLocode: DK
+  nationality: Danish
+  euMember: true
+  eeaMember: true
+  vatRates:
+    standard: 25
+    reduced: []
+    superReduced:
+    parking: 
+  postalCode: true
+  postalCodeFormat: "\\d{4}"
+  officialLanguages:
+  - da
+  spokenLanguages:
+  - da
+  geo:
+    latitude: 56.26392
+    latitudeDec: '56.10176086425781'
+    longitude: 9.501785
+    longitudeDec: '9.555907249450684'
+    maxLatitude: 58.02846
+    maxLongitude: 15.2298
+    minLatitude: 54.4317001
+    minLongitude: 7.855200099999999
+    bounds:
+      northeast:
+        lat: 58.02846
+        lng: 15.2298
+      southwest:
+        lat: 54.4317001
+        lng: 7.855200099999999
+  currencyCode: DKK
+  startOfWeek: monday

@@ -1,0 +1,46 @@
+---
+PW:
+  continent: Australia
+  alpha2: PW
+  alpha3: PLW
+  countryCode: '680'
+  internationalNumberLengths: '00'
+  ioc: PLW
+  gec: PS
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  nationalPrefix: None
+  number: '585'
+  region: Oceania
+  subregion: Micronesia
+  worldRegion: APAC
+  unLocode: PW
+  nationality: Palauan
+  postalCode: true
+  postalCodeFormat: "(969(?:39|40))(?:[ \\-](\\d{4}))?"
+startOfWeek
+  - パラオ
+  officialLanguages:
+  - en
+  spokenLanguages:
+  - en
+  geo:
+    latitude: 7.514979999999999
+    latitudeDec: '7.441900730133057'
+    longitude: 134.58252
+    longitudeDec: '134.54205322265625'
+    maxLatitude: 8.238674
+    maxLongitude: 135.0769
+    minLatitude: 2.6394
+    minLongitude: 131.0115
+    bounds:
+      northeast:
+        lat: 8.238674
+        lng: 135.0769
+      southwest:
+        lat: 2.6394
+        lng: 131.0115
+  currencyCode: USD
+  startOfWeek: monday

@@ -1,0 +1,43 @@
+---
+BQ:
+  continent: North America
+  alpha2: BQ
+  alpha3: BES
+  countryCode: '599'
+  internationalNumberLengths: '00'
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  nationalPrefix: '0'
+  number: '535'
+  region: Americas
+  subregion: Caribbean
+  worldRegion: APAC
+  unLocode: BQ
+  nationality: Dutch
+  postalCode: false
+  officialLanguages:
+  - nl
+  - en
+  spokenLanguages:
+  - nl
+  - en
+  geo:
+    latitude: 12.1783611
+    latitudeDec: '12.178361'
+    longitude: -68.2385339
+    longitudeDec: "-68.238534"
+    maxLatitude: 17.6606999
+    maxLongitude: -62.9228
+    minLatitude: 11.9641
+    minLongitude: -68.5149
+    bounds:
+      northeast:
+        lat: 17.6606999
+        lng: -62.9228
+      southwest:
+        lat: 11.9641
+        lng: -68.5149
+  currencyCode: USD
+  startOfWeek: monday

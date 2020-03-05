@@ -1,0 +1,46 @@
+---
+SX:
+  continent: North America
+  alpha2: SX
+  alpha3: SXM
+  countryCode: '1'
+  nanpPrefix: '1721'
+  internationalNumberLengths: '011'
+  ioc: 
+  gec: NN
+  nationalDestinationCodeLengths:
+  - 3
+  nationalNumberLengths:
+  - 10
+  nationalPrefix: '0'
+  number: '534'
+  region: Americas
+  subregion: Caribbean
+  worldRegion: AMER
+  unLocode: SX
+  nationality: Dutch
+  postalCode: false
+  officialLanguages:
+  - nl
+  - en
+  spokenLanguages:
+  - nl
+  - en
+  geo:
+    latitude: 18.04248
+    latitudeDec: '18.042224884033203'
+    longitude: -63.05483
+    longitudeDec: "-63.06623458862305"
+    maxLatitude: 18.0641707
+    maxLongitude: -62.9784
+    minLatitude: 17.9941
+    minLongitude: -63.13979990000001
+    bounds:
+      northeast:
+        lat: 18.0641707
+        lng: -62.9784
+      southwest:
+        lat: 17.9941
+        lng: -63.13979990000001
+  currencyCode: ANG
+  startOfWeek: monday

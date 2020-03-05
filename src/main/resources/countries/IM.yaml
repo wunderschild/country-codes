@@ -1,0 +1,44 @@
+---
+IM:
+  continent: Europe
+  alpha2: IM
+  alpha3: IMN
+  countryCode: '44'
+  internationalNumberLengths: ''
+  ioc: 
+  gec: IM
+  nationalDestinationCodeLengths: []
+  nationalNumberLengths: []
+  nationalPrefix: ''
+  number: '833'
+  region: Europe
+  subregion: Northern Europe
+  worldRegion: EMEA
+  unLocode: IM
+  nationality: Manx
+  postalCode: true
+  postalCodeFormat: IM\d[\dA-Z]? ?\d[ABD-HJLN-UW-Z]{2}
+  officialLanguages:
+  - en
+  - gv
+  spokenLanguages:
+  - en
+  - gv
+  geo:
+    latitude: 54.236107
+    latitudeDec: '54.22451400756836'
+    longitude: -4.548056
+    longitudeDec: "-4.562133312225342"
+    maxLatitude: 54.418247
+    maxLongitude: -4.308327999999999
+    minLatitude: 54.04463999999999
+    minLongitude: -4.8301808
+    bounds:
+      northeast:
+        lat: 54.418247
+        lng: -4.308327999999999
+      southwest:
+        lat: 54.04463999999999
+        lng: -4.8301808
+  currencyCode: IMP
+  startOfWeek: monday

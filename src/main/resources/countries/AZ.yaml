@@ -1,0 +1,47 @@
+---
+AZ:
+  continent: Asia
+  alpha2: AZ
+  alpha3: AZE
+  countryCode: '994'
+  internationalNumberLengths: '810'
+  ioc: AZE
+  gec: AJ
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  - 9
+  nationalPrefix: '8'
+  number: '031'
+  region: Asia
+  subregion: Western Asia
+  worldRegion: EMEA
+  unLocode: AZ
+  nationality: Azerbaijani
+  postalCode: true
+  postalCodeFormat: "\\d{4}"
+  officialLanguages:
+  - az
+  - hy
+  spokenLanguages:
+  - az
+  - hy
+  geo:
+    latitude: 40.143105
+    latitudeDec: '40.33100509643555'
+    longitude: 47.576927
+    longitudeDec: '47.80820083618164'
+    maxLatitude: 41.9594999
+    maxLongitude: 50.7458001
+    minLatitude: 38.3922171
+    minLongitude: 44.7632599
+    bounds:
+      northeast:
+        lat: 41.9594999
+        lng: 50.7458001
+      southwest:
+        lat: 38.3922171
+        lng: 44.7632599
+  currencyCode: AZN
+  startOfWeek: monday

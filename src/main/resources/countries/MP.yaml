@@ -1,0 +1,46 @@
+---
+MP:
+  continent: Australia
+  alpha2: MP
+  alpha3: MNP
+  countryCode: '1'
+  internationalNumberLengths: '011'
+  ioc: 
+  gec: CQ
+  nationalDestinationCodeLengths:
+  - 3
+  nationalNumberLengths:
+  - 10
+  nationalPrefix: '1'
+  number: '580'
+  region: Oceania
+  subregion: Micronesia
+  worldRegion: APAC
+  unLocode: MP
+  nationality: American
+  postalCode: true
+  postalCodeFormat: "(9695[012])(?:[ \\-](\\d{4}))?"
+  officialLanguages:
+  - en
+  - ch
+  spokenLanguages:
+  - en
+  - ch
+  geo:
+    latitude: 15.0979
+    latitudeDec: '15.262779235839844'
+    longitude: 145.6739
+    longitudeDec: '145.8045654296875'
+    maxLatitude: 20.6584862
+    maxLongitude: 146.2060546
+    minLatitude: 13.9713848
+    minLongitude: 144.7668457
+    bounds:
+      northeast:
+        lat: 20.6584862
+        lng: 146.2060546
+      southwest:
+        lat: 13.9713848
+        lng: 144.7668457
+  currencyCode: USD
+  startOfWeek: monday

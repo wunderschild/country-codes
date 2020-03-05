@@ -1,0 +1,45 @@
+---
+MW:
+  continent: Africa
+  alpha2: MW
+  alpha3: MWI
+  countryCode: '265'
+  internationalNumberLengths: '00'
+  ioc: MAW
+  gec: MI
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: None
+  number: '454'
+  region: Africa
+  subregion: Eastern Africa
+  worldRegion: EMEA
+  unLocode: MW
+  nationality: Malawian
+  postalCode: false
+  officialLanguages:
+  - en
+  - ny
+  spokenLanguages:
+  - en
+  - ny
+  geo:
+    latitude: -13.254308
+    latitudeDec: "-13.523577690124512"
+    longitude: 34.301525
+    longitudeDec: '33.83546447753906'
+    maxLatitude: -9.367227399999999
+    maxLongitude: 35.91857299999999
+    minLatitude: -17.1295216
+    minLongitude: 32.6725205
+    bounds:
+      northeast:
+        lat: -9.367227399999999
+        lng: 35.91857299999999
+      southwest:
+        lat: -17.1295216
+        lng: 32.6725205
+  currencyCode: MWK
+  startOfWeek: monday

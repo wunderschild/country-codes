@@ -1,0 +1,43 @@
+---
+CI:
+  continent: Africa
+  alpha2: CI
+  alpha3: CIV
+  countryCode: '225'
+  internationalNumberLengths: '00'
+  ioc: CIV
+  gec: IV
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: '0'
+  number: '384'
+  region: Africa
+  subregion: Western Africa
+  worldRegion: EMEA
+  unLocode: CI
+  nationality: Ivorian
+  postalCode: false
+  officialLanguages:
+  - fr
+  spokenLanguages:
+  - fr
+  geo:
+    latitude: 7.539988999999999
+    latitudeDec: '7.598755359649658'
+    longitude: -5.547079999999999
+    longitudeDec: "-5.552574634552002"
+    maxLatitude: 10.7400151
+    maxLongitude: -2.493031
+    minLatitude: 4.193
+    minLongitude: -8.6020589
+    bounds:
+      northeast:
+        lat: 10.7400151
+        lng: -2.493031
+      southwest:
+        lat: 4.193
+        lng: -8.6020589
+  currencyCode: XOF
+  startOfWeek: monday

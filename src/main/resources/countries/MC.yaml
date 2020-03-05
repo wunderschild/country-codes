@@ -1,0 +1,45 @@
+---
+MC:
+  continent: Europe
+  alpha2: MC
+  alpha3: MCO
+  countryCode: '377'
+  internationalNumberLengths: '00'
+  ioc: MON
+  gec: MN
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  - 9
+  nationalPrefix: '0'
+  number: '492'
+  region: Europe
+  subregion: Western Europe
+  worldRegion: EMEA
+  unLocode: MC
+  nationality: Monegasque
+  postalCode: true
+  postalCodeFormat: 980\d{2}
+  officialLanguages:
+  - fr
+  spokenLanguages:
+  - fr
+  geo:
+    latitude: 43.73841760000001
+    latitudeDec: '43.738929748535156'
+    longitude: 7.424615799999999
+    longitudeDec: '7.425483226776123'
+    maxLatitude: 43.7519029
+    maxLongitude: 7.4426
+    minLatitude: 43.7237999
+    minLongitude: 7.4091049
+    bounds:
+      northeast:
+        lat: 43.7519029
+        lng: 7.4426
+      southwest:
+        lat: 43.7237999
+        lng: 7.4091049
+  currencyCode: EUR
+  startOfWeek: monday

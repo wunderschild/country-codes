@@ -1,0 +1,45 @@
+---
+MR:
+  continent: Africa
+  alpha2: MR
+  alpha3: MRT
+  countryCode: '222'
+  internationalNumberLengths: '00'
+  ioc: MTN
+  gec: MR
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  nationalPrefix: '0'
+  number: '478'
+  region: Africa
+  subregion: Western Africa
+  worldRegion: EMEA
+  unLocode: MR
+  nationality: Mauritanian
+  postalCode: false
+  officialLanguages:
+  - ar
+  - fr
+  spokenLanguages:
+  - ar
+  - fr
+  geo:
+    latitude: 21.00789
+    latitudeDec: '20.258995056152344'
+    longitude: -10.940835
+    longitudeDec: "-10.364437103271484"
+    maxLatitude: 27.3158916
+    maxLongitude: -4.8336008
+    minLatitude: 14.721273
+    minLongitude: -17.0687276
+    bounds:
+      northeast:
+        lat: 27.3158916
+        lng: -4.8336008
+      southwest:
+        lat: 14.721273
+        lng: -17.0687276
+  currencyCode: MRU
+  startOfWeek: monday

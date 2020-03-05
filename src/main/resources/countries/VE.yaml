@@ -1,0 +1,44 @@
+---
+VE:
+  continent: South America
+  alpha2: VE
+  alpha3: VEN
+  countryCode: '58'
+  internationalNumberLengths: '00'
+  ioc: VEN
+  gec: VE
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 10
+  nationalPrefix: '0'
+  number: '862'
+  region: Americas
+  subregion: South America
+  worldRegion: AMER
+  unLocode: VE
+  nationality: Venezuelan
+  postalCode: true
+  postalCodeFormat: "\\d{4}"
+  officialLanguages:
+  - es
+  spokenLanguages:
+  - es
+  geo:
+    latitude: 6.42375
+    latitudeDec: '7.665388584136963'
+    longitude: -66.58973
+    longitudeDec: "-66.14541625976562"
+    maxLatitude: 12.6886
+    maxLongitude: -59.805666
+    minLatitude: 0.6475291
+    minLongitude: -73.35155809999999
+    bounds:
+      northeast:
+        lat: 12.6886
+        lng: -59.805666
+      southwest:
+        lat: 0.6475291
+        lng: -73.35155809999999
+  currencyCode: VES
+  startOfWeek: monday

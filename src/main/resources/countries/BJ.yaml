@@ -1,0 +1,43 @@
+---
+BJ:
+  continent: Africa
+  alpha2: BJ
+  alpha3: BEN
+  countryCode: '229'
+  internationalNumberLengths: '00'
+  ioc: BEN
+  gec: BN
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: None
+  number: '204'
+  region: Africa
+  subregion: Western Africa
+  worldRegion: EMEA
+  unLocode: BJ
+  nationality: Beninese
+  postalCode: false
+  officialLanguages:
+  - fr
+  spokenLanguages:
+  - fr
+  geo:
+    latitude: 9.30769
+    latitudeDec: '9.624112129211426'
+    longitude: 2.315834
+    longitudeDec: '2.3377387523651123'
+    maxLatitude: 12.4086111
+    maxLongitude: 3.8433429
+    minLatitude: 6.2061001
+    minLongitude: 0.7765055
+    bounds:
+      northeast:
+        lat: 12.4086111
+        lng: 3.8433429
+      southwest:
+        lat: 6.2061001
+        lng: 0.7765055
+  currencyCode: XOF
+  startOfWeek: monday

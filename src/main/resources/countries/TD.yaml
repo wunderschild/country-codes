@@ -1,0 +1,45 @@
+---
+TD:
+  continent: Africa
+  alpha2: TD
+  alpha3: TCD
+  countryCode: '235'
+  internationalNumberLengths: '15'
+  ioc: CHA
+  gec: CD
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  nationalPrefix: None
+  number: '148'
+  region: Africa
+  subregion: Middle Africa
+  worldRegion: EMEA
+  unLocode: TD
+  nationality: Chadian
+  postalCode: false
+  officialLanguages:
+  - ar
+  - fr
+  spokenLanguages:
+  - ar
+  - fr
+  geo:
+    latitude: 15.454166
+    latitudeDec: '15.367652893066406'
+    longitude: 18.732207
+    longitudeDec: '18.66758155822754'
+    maxLatitude: 23.449228
+    maxLongitude: 24.0000011
+    minLatitude: 7.442975
+    minLongitude: 13.4699999
+    bounds:
+      northeast:
+        lat: 23.449228
+        lng: 24.0000011
+      southwest:
+        lat: 7.442975
+        lng: 13.4699999
+  currencyCode: XAF
+  startOfWeek: monday

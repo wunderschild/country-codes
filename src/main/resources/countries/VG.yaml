@@ -1,0 +1,45 @@
+---
+VG:
+  continent: North America
+  alpha2: VG
+  alpha3: VGB
+  countryCode: '1'
+  nanpPrefix: '1284'
+  internationalNumberLengths: '011'
+  ioc: IVB
+  gec: VI
+  nationalDestinationCodeLengths:
+  - 3
+  nationalNumberLengths:
+  - 10
+  nationalPrefix: '1'
+  number: '092'
+  region: Americas
+  subregion: Caribbean
+  worldRegion: AMER
+  unLocode: VG
+  nationality: Virgin Islander
+  postalCode: true
+  postalCodeFormat: VG\d{4}
+  officialLanguages:
+  - en
+  spokenLanguages:
+  - en
+  geo:
+    latitude: 18.420695
+    latitudeDec: '18.443071365356445'
+    longitude: -64.639968
+    longitudeDec: "-64.57130432128906"
+    maxLatitude: 18.7539999
+    maxLongitude: -64.2651999
+    minLatitude: 18.2899998
+    minLongitude: -64.8775
+    bounds:
+      northeast:
+        lat: 18.7539999
+        lng: -64.2651999
+      southwest:
+        lat: 18.2899998
+        lng: -64.8775
+  currencyCode: USD
+  startOfWeek: monday

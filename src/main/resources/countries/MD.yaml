@@ -1,0 +1,44 @@
+---
+MD:
+  continent: Europe
+  alpha2: MD
+  alpha3: MDA
+  countryCode: '373'
+  internationalNumberLengths: '00'
+  ioc: MDA
+  gec: MD
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: '0'
+  number: '498'
+  region: Europe
+  subregion: Eastern Europe
+  worldRegion: EMEA
+  unLocode: MD
+  nationality: Moldovan
+  postalCode: true
+  postalCodeFormat: "\\d{4}"
+  officialLanguages:
+  - ro
+  spokenLanguages:
+  - ro
+  geo:
+    latitude: 47.411631
+    latitudeDec: '47.203704833984375'
+    longitude: 28.369885
+    longitudeDec: '28.46834373474121'
+    maxLatitude: 48.491944
+    maxLongitude: 30.162538
+    minLatitude: 45.466904
+    minLongitude: 26.6168559
+    bounds:
+      northeast:
+        lat: 48.491944
+        lng: 30.162538
+      southwest:
+        lat: 45.466904
+        lng: 26.6168559
+  currencyCode: MDL
+  startOfWeek: monday

@@ -1,0 +1,45 @@
+---
+MO:
+  continent: Asia
+  alpha2: MO
+  alpha3: MAC
+  countryCode: '853'
+  internationalNumberLengths: '00'
+  ioc: 
+  gec: MC
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: '0'
+  number: '446'
+  region: Asia
+  subregion: Eastern Asia
+  worldRegion: APAC
+  unLocode: MO
+  nationality: Chinese
+  postalCode: false
+  officialLanguages:
+  - zh
+  - pt
+  spokenLanguages:
+  - zh
+  - pt
+  geo:
+    latitude: 22.198745
+    latitudeDec: '22.140748977661133'
+    longitude: 113.543873
+    longitudeDec: '113.56034088134766'
+    maxLatitude: 22.2170639
+    maxLongitude: 113.6127001
+    minLatitude: 22.1066001
+    minLongitude: 113.5276053
+    bounds:
+      northeast:
+        lat: 22.2170639
+        lng: 113.6127001
+      southwest:
+        lat: 22.1066001
+        lng: 113.5276053
+  currencyCode: MOP
+  startOfWeek: monday

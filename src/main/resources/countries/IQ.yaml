@@ -1,0 +1,46 @@
+---
+IQ:
+  continent: Asia
+  alpha2: IQ
+  alpha3: IRQ
+  countryCode: '964'
+  internationalNumberLengths: '00'
+  ioc: IRQ
+  gec: IZ
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  - 9
+  - 10
+  nationalPrefix: None
+  number: '368'
+  region: Asia
+  subregion: Western Asia
+  worldRegion: EMEA
+  unLocode: IQ
+  nationality: Iraqi
+  postalCode: true
+  postalCodeFormat: "\\d{5}"
+  officialLanguages:
+  - ar
+  spokenLanguages:
+  - ar
+  geo:
+    latitude: 33.223191
+    latitudeDec: '33.044586181640625'
+    longitude: 43.679291
+    longitudeDec: '43.77495574951172'
+    maxLatitude: 37.380645
+    maxLongitude: 48.6350999
+    minLatitude: 29.0612079
+    minLongitude: 38.7936029
+    bounds:
+      northeast:
+        lat: 37.380645
+        lng: 48.6350999
+      southwest:
+        lat: 29.0612079
+        lng: 38.7936029
+  currencyCode: IQD
+  startOfWeek: sunday

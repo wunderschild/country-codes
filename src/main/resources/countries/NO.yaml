@@ -1,0 +1,57 @@
+---
+'NO':
+  continent: Europe
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{postalcode}} {{city}}
+    {{country}}
+  alpha2: 'NO'
+  alpha3: NOR
+  countryCode: '47'
+  internationalNumberLengths: '00'
+  ioc: NOR
+  gec: 'NO'
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: None
+  number: '578'
+  region: Europe
+  subregion: Northern Europe
+  worldRegion: EMEA
+  unLocode: 'NO'
+  nationality: Norwegian
+  eeaMember: true
+  vatRates:
+    standard: 25
+    reduced: []
+    superReduced:
+    parking: 
+  postalCode: true
+  postalCodeFormat: "\\d{4}"
+  officialLanguages:
+  - nb
+  - nn
+  spokenLanguages:
+  - nb
+  - nn
+  geo:
+    latitude: 60.47202399999999
+    latitudeDec: '66.76667022705078'
+    longitude: 8.468945999999999
+    longitudeDec: '14.899925231933594'
+    maxLatitude: 71.30780000000001
+    maxLongitude: 31.3549998
+    minLatitude: 57.8097
+    minLongitude: 4.0649
+    bounds:
+      northeast:
+        lat: 71.30780000000001
+        lng: 31.3549998
+      southwest:
+        lat: 57.8097
+        lng: 4.0649
+  currencyCode: NOK
+  startOfWeek: monday

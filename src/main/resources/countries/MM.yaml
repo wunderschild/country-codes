@@ -1,0 +1,45 @@
+---
+MM:
+  continent: Asia
+  alpha2: MM
+  alpha3: MMR
+  countryCode: '95'
+  internationalNumberLengths: '00'
+  ioc: MYA
+  gec: BM
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  - 8
+  nationalPrefix: None
+  number: '104'
+  region: Asia
+  subregion: South-Eastern Asia
+  worldRegion: APAC
+  unLocode: MM
+  nationality: Myanmarian
+  postalCode: true
+  postalCodeFormat: "\\d{5}"
+  officialLanguages:
+  - my
+  spokenLanguages:
+  - my
+  geo:
+    latitude: 21.916221
+    latitudeDec: '20.330142974853516'
+    longitude: 95.955974
+    longitudeDec: '96.52182006835938'
+    maxLatitude: 28.5478351
+    maxLongitude: 101.1702717
+    minLatitude: 9.4518
+    minLongitude: 92.171808
+    bounds:
+      northeast:
+        lat: 28.5478351
+        lng: 101.1702717
+      southwest:
+        lat: 9.4518
+        lng: 92.171808
+  currencyCode: MMK
+  startOfWeek: monday

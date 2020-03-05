@@ -1,0 +1,43 @@
+---
+CW:
+  continent: North America
+  alpha2: CW
+  alpha3: CUW
+  countryCode: '599'
+  internationalNumberLengths: '00'
+  ioc: 
+  gec: UC
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  nationalPrefix: '0'
+  number: '531'
+  region: Americas
+  subregion: Caribbean
+  worldRegion: AMER
+  unLocode: CW
+  nationality: Dutch
+  postalCode: false
+  officialLanguages:
+  - nl
+  spokenLanguages:
+  - nl
+  geo:
+    latitude: 12.16957
+    latitudeDec: '12.163220405578613'
+    longitude: -68.99002
+    longitudeDec: "-68.94505310058594"
+    maxLatitude: 12.4941999
+    maxLongitude: -68.5670001
+    minLatitude: 11.9224
+    minLongitude: -69.29899999999999
+    bounds:
+      northeast:
+        lat: 12.4941999
+        lng: -68.5670001
+      southwest:
+        lat: 11.9224
+        lng: -69.29899999999999
+  currencyCode: ANG
+  startOfWeek: monday

@@ -1,0 +1,46 @@
+---
+GN:
+  continent: Africa
+  alpha2: GN
+  alpha3: GIN
+  countryCode: '224'
+  internationalNumberLengths: '00'
+  ioc: GUI
+  gec: GV
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: None
+  number: '324'
+  region: Africa
+  subregion: Western Africa
+  worldRegion: EMEA
+  unLocode: GN
+  nationality: Guinean
+  postalCode: true
+  postalCodeFormat: "\\d{3}"
+  officialLanguages:
+  - fr
+  - ff
+  spokenLanguages:
+  - fr
+  - ff
+  geo:
+    latitude: 9.945587
+    latitudeDec: '10.429302215576172'
+    longitude: -9.696645
+    longitudeDec: "-10.98954963684082"
+    maxLatitude: 12.6746159
+    maxLongitude: -7.637853
+    minLatitude: 7.190909099999999
+    minLongitude: -15.282
+    bounds:
+      northeast:
+        lat: 12.6746159
+        lng: -7.637853
+      southwest:
+        lat: 7.190909099999999
+        lng: -15.282
+  currencyCode: GNF
+  startOfWeek: monday

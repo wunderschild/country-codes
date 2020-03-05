@@ -1,0 +1,44 @@
+---
+ST:
+  continent: Africa
+  alpha2: ST
+  alpha3: STP
+  countryCode: '239'
+  internationalNumberLengths: '00'
+  ioc: STP
+  gec: TP
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 6
+  - 7
+  nationalPrefix: '0'
+  number: '678'
+  region: Africa
+  subregion: Middle Africa
+  worldRegion: EMEA
+  unLocode: ST
+  nationality: Sao Tomean
+  postalCode: false
+  officialLanguages:
+  - pt
+  spokenLanguages:
+  - pt
+  geo:
+    latitude: 0.18636
+    latitudeDec: '0.275555282831192'
+    longitude: 6.613080999999999
+    longitudeDec: '6.631628036499023'
+    maxLatitude: 1.8961687
+    maxLongitude: 7.658843900000001
+    minLatitude: -0.09887689999999999
+    minLongitude: 6.328125
+    bounds:
+      northeast:
+        lat: 1.8961687
+        lng: 7.658843900000001
+      southwest:
+        lat: -0.09887689999999999
+        lng: 6.328125
+  currencyCode: STD
+  startOfWeek: monday

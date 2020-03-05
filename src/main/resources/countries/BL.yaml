@@ -1,0 +1,42 @@
+---
+BL:
+  continent: North America
+  alpha2: BL
+  alpha3: BLM
+  countryCode: '590'
+  internationalNumberLengths: ''
+  ioc: 
+  gec: TB
+  nationalDestinationCodeLengths: []
+  nationalNumberLengths: []
+  nationalPrefix: ''
+  number: '652'
+  region: Americas
+  subregion: Caribbean
+  worldRegion: APAC
+  unLocode: BL
+  nationality: Saint Barthélemy Islander
+  postalCode: true
+  postalCodeFormat: 9[78][01]\d{2}
+  officialLanguages:
+  - fr
+  spokenLanguages:
+  - fr
+  geo:
+    latitude: 17.9
+    latitudeDec: '17.89626121520996'
+    longitude: -62.833333
+    longitudeDec: "-62.83061218261719"
+    maxLatitude: 17.978
+    maxLongitude: -62.7869
+    minLatitude: 17.8663
+    minLongitude: -62.9559999
+    bounds:
+      northeast:
+        lat: 17.978
+        lng: -62.7869
+      southwest:
+        lat: 17.8663
+        lng: -62.9559999
+  currencyCode: EUR
+  startOfWeek: monday

@@ -1,0 +1,45 @@
+---
+BM:
+  continent: North America
+  alpha2: BM
+  alpha3: BMU
+  countryCode: '1'
+  nanpPrefix: '1441'
+  internationalNumberLengths: '011'
+  ioc: BER
+  gec: BD
+  nationalDestinationCodeLengths:
+  - 3
+  nationalNumberLengths:
+  - 10
+  nationalPrefix: '1'
+  number: '060'
+  region: Americas
+  subregion: Northern America
+  worldRegion: AMER
+  unLocode: BM
+  nationality: Bermudian
+  postalCode: true
+  postalCodeFormat: "[A-Z]{2} ?[A-Z0-9]{2}"
+  officialLanguages:
+  - en
+  spokenLanguages:
+  - en
+  geo:
+    latitude: 32.3078
+    latitudeDec: '32.302669525146484'
+    longitude: -64.7505
+    longitudeDec: "-64.7516860961914"
+    maxLatitude: 32.3961
+    maxLongitude: -64.6413999
+    minLatitude: 32.2424975
+    minLongitude: -64.89139999999999
+    bounds:
+      northeast:
+        lat: 32.3961
+        lng: -64.6413999
+      southwest:
+        lat: 32.2424975
+        lng: -64.89139999999999
+  currencyCode: BMD
+  startOfWeek: monday

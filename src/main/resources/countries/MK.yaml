@@ -1,0 +1,50 @@
+---
+MK:
+  continent: Europe
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{city}} {{postalcode}}
+    {{country}}
+  alpha2: MK
+  alpha3: MKD
+  countryCode: '389'
+  internationalNumberLengths: '00'
+  ioc: MKD
+  gec: MK
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  - 8
+  nationalPrefix: '0'
+  number: '807'
+  region: Europe
+  subregion: Southern Europe
+  worldRegion: EMEA
+  unLocode: MK
+  nationality: Macedonian
+  postalCode: true
+  postalCodeFormat: "\\d{4}"
+  officialLanguages:
+  - mk
+  spokenLanguages:
+  - mk
+  geo:
+    latitude: 41.608635
+    latitudeDec: '41.60045623779297'
+    longitude: 21.745275
+    longitudeDec: '21.700895309448242'
+    maxLatitude: 42.373646
+    maxLongitude: 23.034093
+    minLatitude: 40.8537826
+    minLongitude: 20.452423
+    bounds:
+      northeast:
+        lat: 42.373646
+        lng: 23.034093
+      southwest:
+        lat: 40.8537826
+        lng: 20.452423
+  currencyCode: MKD
+  startOfWeek: monday

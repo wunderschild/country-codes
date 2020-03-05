@@ -1,0 +1,60 @@
+---
+IE:
+  continent: Europe
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{city}} {{regionShort}} {{postalcode}}
+    {{country}}
+  alpha2: IE
+  alpha3: IRL
+  countryCode: '353'
+  internationalNumberLengths: '00'
+  ioc: IRL
+  gec: EI
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 9
+  nationalPrefix: '0'
+  number: '372'
+  region: Europe
+  subregion: Northern Europe
+  worldRegion: EMEA
+  unLocode: IE
+  nationality: Irish
+  euMember: true
+  eeaMember: true
+  vatRates:
+    standard: 23
+    reduced:
+    - 9
+    - 13.5
+    superReduced: 4.8
+    parking: 13.5
+  postalCode: true
+  postalCodeFormat: "[\\dA-Z]{3} ?[\\dA-Z]{4}"
+  officialLanguages:
+  - en
+  - ga
+  spokenLanguages:
+  - en
+  - ga
+  geo:
+    latitude: 53.41291
+    latitudeDec: '53.1827278137207'
+    longitude: -8.24389
+    longitudeDec: "-8.196102142333984"
+    maxLatitude: 55.4602
+    maxLongitude: -5.668900100000001
+    minLatitude: 51.3066
+    minLongitude: -10.7666001
+    bounds:
+      northeast:
+        lat: 55.4602
+        lng: -5.668900100000001
+      southwest:
+        lat: 51.3066
+        lng: -10.7666001
+  currencyCode: EUR
+  startOfWeek: monday

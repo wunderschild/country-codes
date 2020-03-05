@@ -1,0 +1,44 @@
+---
+GY:
+  continent: South America
+  alpha2: GY
+  alpha3: GUY
+  countryCode: '592'
+  internationalNumberLengths: '00'
+  ioc: GUY
+  gec: GY
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 6
+  - 7
+  nationalPrefix: None
+  number: '328'
+  region: Americas
+  subregion: South America
+  worldRegion: AMER
+  unLocode: GY
+  nationality: Guyanese
+  postalCode: false
+  officialLanguages:
+  - en
+  spokenLanguages:
+  - en
+  geo:
+    latitude: 4.860416
+    latitudeDec: '4.917311191558838'
+    longitude: -58.93018
+    longitudeDec: "-58.94346237182617"
+    maxLatitude: 8.722199999999999
+    maxLongitude: -56.49112
+    minLatitude: 1.164724
+    minLongitude: -61.414905
+    bounds:
+      northeast:
+        lat: 8.722199999999999
+        lng: -56.49112
+      southwest:
+        lat: 1.164724
+        lng: -61.414905
+  currencyCode: GYD
+  startOfWeek: monday

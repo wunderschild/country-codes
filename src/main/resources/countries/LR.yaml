@@ -1,0 +1,46 @@
+---
+LR:
+  continent: Africa
+  alpha2: LR
+  alpha3: LBR
+  countryCode: '231'
+  internationalNumberLengths: '00'
+  ioc: LBR
+  gec: LI
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 6
+  - 7
+  - 8
+  nationalPrefix: '22'
+  number: '430'
+  region: Africa
+  subregion: Western Africa
+  worldRegion: EMEA
+  unLocode: LR
+  nationality: Liberian
+  postalCode: true
+  postalCodeFormat: "\\d{4}"
+  officialLanguages:
+  - en
+  spokenLanguages:
+  - en
+  geo:
+    latitude: 6.428055
+    latitudeDec: '6.411512851715088'
+    longitude: -9.429499000000002
+    longitudeDec: "-9.323492050170898"
+    maxLatitude: 8.551986
+    maxLongitude: -7.3692549
+    minLatitude: 4.269699999999999
+    minLongitude: -11.5355999
+    bounds:
+      northeast:
+        lat: 8.551986
+        lng: -7.3692549
+      southwest:
+        lat: 4.269699999999999
+        lng: -11.5355999
+  currencyCode: LRD
+  startOfWeek: monday

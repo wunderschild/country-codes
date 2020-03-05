@@ -1,0 +1,44 @@
+---
+CC:
+  continent: Asia
+  alpha2: CC
+  alpha3: CCK
+  countryCode: '61'
+  internationalNumberLengths: '0011'
+  ioc: 
+  gec: CK
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 9
+  nationalPrefix: '0'
+  number: '166'
+  region: Oceania
+  subregion: Australia and New Zealand
+  worldRegion: APAC
+  unLocode: CC
+  nationality: Cocos Islander
+  postalCode: true
+  postalCodeFormat: '6799'
+  officialLanguages:
+  - en
+  spokenLanguages:
+  - en
+  geo:
+    latitude: -12.1706919
+    latitudeDec: "-12.200602531433105"
+    longitude: 96.841748
+    longitudeDec: '96.85894012451172'
+    maxLatitude: -11.819973
+    maxLongitude: 96.93271639999999
+    minLatitude: -12.2118513
+    minLongitude: 96.8134118
+    bounds:
+      northeast:
+        lat: -11.819973
+        lng: 96.93271639999999
+      southwest:
+        lat: -12.2118513
+        lng: 96.8134118
+  currencyCode: AUD
+  startOfWeek: monday

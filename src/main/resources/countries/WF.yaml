@@ -1,0 +1,44 @@
+---
+WF:
+  continent: Australia
+  alpha2: WF
+  alpha3: WLF
+  countryCode: '681'
+  internationalNumberLengths: '19'
+  ioc: 
+  gec: WF
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 6
+  nationalPrefix: None
+  number: '876'
+  region: Oceania
+  subregion: Polynesia
+  worldRegion: APAC
+  unLocode: WF
+  nationality: Wallis and Futuna Islander
+  postalCode: true
+  postalCodeFormat: 986\d{2}
+  officialLanguages:
+  - fr
+  spokenLanguages:
+  - fr
+  geo:
+    latitude: -14.2938
+    latitudeDec: "-13.299612045288086"
+    longitude: -178.1165
+    longitudeDec: "-176.1701202392578"
+    maxLatitude: -13.1303042
+    maxLongitude: -176.0971068
+    minLatitude: -14.4187203
+    minLongitude: -178.2284546
+    bounds:
+      northeast:
+        lat: -13.1303042
+        lng: -176.0971068
+      southwest:
+        lat: -14.4187203
+        lng: -178.2284546
+  currencyCode: XPF
+  startOfWeek: monday

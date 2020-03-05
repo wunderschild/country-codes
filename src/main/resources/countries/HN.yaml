@@ -1,0 +1,45 @@
+---
+HN:
+  continent: North America
+  alpha2: HN
+  alpha3: HND
+  countryCode: '504'
+  internationalNumberLengths: '00'
+  ioc: HON
+  gec: HO
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  - 8
+  nationalPrefix: None
+  number: '340'
+  region: Americas
+  subregion: Central America
+  worldRegion: AMER
+  unLocode: HN
+  nationality: Honduran
+  postalCode: true
+  postalCodeFormat: "\\d{5}"
+  officialLanguages:
+  - es
+  spokenLanguages:
+  - es
+  geo:
+    latitude: 15.199999
+    latitudeDec: '14.975032806396484'
+    longitude: -86.241905
+    longitudeDec: "-86.2647705078125"
+    maxLatitude: 17.4677999
+    maxLongitude: -83.0621001
+    minLatitude: 12.9842246
+    minLongitude: -89.3564822
+    bounds:
+      northeast:
+        lat: 17.4677999
+        lng: -83.0621001
+      southwest:
+        lat: 12.9842246
+        lng: -89.3564822
+  currencyCode: HNL
+  startOfWeek: monday

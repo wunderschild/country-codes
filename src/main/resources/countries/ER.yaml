@@ -1,0 +1,47 @@
+---
+ER:
+  continent: Africa
+  alpha2: ER
+  alpha3: ERI
+  countryCode: '291'
+  internationalNumberLengths: '00'
+  ioc: ERI
+  gec: ER
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  nationalPrefix: '0'
+  number: '232'
+  region: Africa
+  subregion: Eastern Africa
+  worldRegion: EMEA
+  unLocode: ER
+  nationality: Eritrean
+  postalCode: false
+  officialLanguages:
+  - en
+  - ar
+  - ti
+  spokenLanguages:
+  - en
+  - ar
+  - ti
+  geo:
+    latitude: 15.179384
+    latitudeDec: '15.397199630737305'
+    longitude: 39.782334
+    longitudeDec: '39.087188720703125'
+    maxLatitude: 18.0204137
+    maxLongitude: 43.2312
+    minLatitude: 12.354723
+    minLongitude: 36.433348
+    bounds:
+      northeast:
+        lat: 18.0204137
+        lng: 43.2312
+      southwest:
+        lat: 12.354723
+        lng: 36.433348
+  currencyCode: ETB
+  startOfWeek: monday

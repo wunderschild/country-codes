@@ -1,0 +1,44 @@
+---
+PM:
+  continent: North America
+  alpha2: PM
+  alpha3: SPM
+  countryCode: '508'
+  internationalNumberLengths: '00'
+  ioc: 
+  gec: SB
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 6
+  nationalPrefix: '0'
+  number: '666'
+  region: Americas
+  subregion: Northern America
+  worldRegion: AMER
+  unLocode: PM
+  nationality: French
+  postalCode: true
+  postalCodeFormat: 9[78]5\d{2}
+  officialLanguages:
+  - fr
+  spokenLanguages:
+  - fr
+  geo:
+    latitude: 46.8852
+    latitudeDec: '46.90594482421875'
+    longitude: -56.3159
+    longitudeDec: "-56.336585998535156"
+    maxLatitude: 47.21579999999999
+    maxLongitude: -55.98249999999999
+    minLatitude: 46.7003
+    minLongitude: -56.5233
+    bounds:
+      northeast:
+        lat: 47.21579999999999
+        lng: -55.98249999999999
+      southwest:
+        lat: 46.7003
+        lng: -56.5233
+  currencyCode: EUR
+  startOfWeek: monday

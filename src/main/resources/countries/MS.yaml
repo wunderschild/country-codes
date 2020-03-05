@@ -1,0 +1,44 @@
+---
+MS:
+  continent: North America
+  alpha2: MS
+  alpha3: MSR
+  countryCode: '1'
+  nanpPrefix: '1664'
+  internationalNumberLengths: '011'
+  ioc: 
+  gec: MH
+  nationalDestinationCodeLengths:
+  - 3
+  nationalNumberLengths:
+  - 10
+  nationalPrefix: '1'
+  number: '500'
+  region: Americas
+  subregion: Caribbean
+  worldRegion: EMEA
+  unLocode: MS
+  nationality: Montserratian
+  postalCode: false
+  officialLanguages:
+  - en
+  spokenLanguages:
+  - en
+  geo:
+    latitude: 16.742498
+    latitudeDec: '16.735998153686523'
+    longitude: -62.187366
+    longitudeDec: "-62.188819885253906"
+    maxLatitude: 16.8260672
+    maxLongitude: -62.14262009999999
+    minLatitude: 16.671007
+    minLongitude: -62.242584
+    bounds:
+      northeast:
+        lat: 16.8260672
+        lng: -62.14262009999999
+      southwest:
+        lat: 16.671007
+        lng: -62.242584
+  currencyCode: XCD
+  startOfWeek: monday

@@ -1,0 +1,44 @@
+---
+CR:
+  continent: North America
+  alpha2: CR
+  alpha3: CRI
+  countryCode: '506'
+  internationalNumberLengths: '00'
+  ioc: CRC
+  gec: CS
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: None
+  number: '188'
+  region: Americas
+  subregion: Central America
+  worldRegion: AMER
+  unLocode: CR
+  nationality: Costa Rican
+  postalCode: true
+  postalCodeFormat: "\\d{4,5}|\\d{3}-\\d{4}"
+  officialLanguages:
+  - es
+  spokenLanguages:
+  - es
+  geo:
+    latitude: 9.748916999999999
+    latitudeDec: '9.884991645812988'
+    longitude: -83.753428
+    longitudeDec: "-84.22723388671875"
+    maxLatitude: 11.2196808
+    maxLongitude: -82.51830009999999
+    minLatitude: 5.496099999999999
+    minLongitude: -87.09899999999999
+    bounds:
+      northeast:
+        lat: 11.2196808
+        lng: -82.51830009999999
+      southwest:
+        lat: 5.496099999999999
+        lng: -87.09899999999999
+  currencyCode: CRC
+  startOfWeek: monday

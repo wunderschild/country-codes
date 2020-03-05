@@ -1,0 +1,51 @@
+---
+LB:
+  continent: Asia
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{postalcode}} {{city}}
+    {{country}}
+  alpha2: LB
+  alpha3: LBN
+  countryCode: '961'
+  internationalNumberLengths: '00'
+  ioc: LIB
+  gec: LE
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: '0'
+  number: '422'
+  region: Asia
+  subregion: Western Asia
+  worldRegion: EMEA
+  unLocode: LB
+  nationality: Lebanese
+  postalCode: true
+  postalCodeFormat: "(?:\\d{4})(?: ?(?:\\d{4}))?"
+  officialLanguages:
+  - ar
+  - fr
+  spokenLanguages:
+  - ar
+  - fr
+  geo:
+    latitude: 33.854721
+    latitudeDec: '33.925411224365234'
+    longitude: 35.862285
+    longitudeDec: '35.89972686767578'
+    maxLatitude: 34.69209
+    maxLongitude: 36.62372
+    minLatitude: 33.0550256
+    minLongitude: 35.0711001
+    bounds:
+      northeast:
+        lat: 34.69209
+        lng: 36.62372
+      southwest:
+        lat: 33.0550256
+        lng: 35.0711001
+  currencyCode: LBP
+  startOfWeek: monday

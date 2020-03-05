@@ -1,0 +1,44 @@
+---
+SV:
+  continent: North America
+  alpha2: SV
+  alpha3: SLV
+  countryCode: '503'
+  internationalNumberLengths: '00'
+  ioc: ESA
+  gec: ES
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: None
+  number: '222'
+  region: Americas
+  subregion: Central America
+  worldRegion: AMER
+  unLocode: SV
+  nationality: Salvadoran
+  postalCode: true
+  postalCodeFormat: CP [1-3][1-7][0-2]\d
+  officialLanguages:
+  - es
+  spokenLanguages:
+  - es
+  geo:
+    latitude: 13.794185
+    latitudeDec: '13.671636581420898'
+    longitude: -88.89653
+    longitudeDec: "-88.86363220214844"
+    maxLatitude: 14.4505567
+    maxLongitude: -87.6682
+    minLatitude: 13.0473999
+    minLongitude: -90.19229999999999
+    bounds:
+      northeast:
+        lat: 14.4505567
+        lng: -87.6682
+      southwest:
+        lat: 13.0473999
+        lng: -90.19229999999999
+  currencyCode: USD
+  startOfWeek: monday

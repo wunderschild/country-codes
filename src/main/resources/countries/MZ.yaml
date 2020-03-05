@@ -1,0 +1,45 @@
+---
+MZ:
+  continent: Africa
+  alpha2: MZ
+  alpha3: MOZ
+  countryCode: '258'
+  internationalNumberLengths: '00'
+  ioc: MOZ
+  gec: MZ
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  - 9
+  nationalPrefix: '0'
+  number: '508'
+  region: Africa
+  subregion: Eastern Africa
+  worldRegion: EMEA
+  unLocode: MZ
+  nationality: Mozambican
+  postalCode: true
+  postalCodeFormat: "\\d{4}"
+  officialLanguages:
+  - pt
+  spokenLanguages:
+  - pt
+  geo:
+    latitude: -18.665695
+    latitudeDec: "-17.555864334106445"
+    longitude: 35.529562
+    longitudeDec: '35.955692291259766'
+    maxLatitude: -10.3128929
+    maxLongitude: 41.3965
+    minLatitude: -26.9612
+    minLongitude: 30.2155501
+    bounds:
+      northeast:
+        lat: -10.3128929
+        lng: 41.3965
+      southwest:
+        lat: -26.9612
+        lng: 30.2155501
+  currencyCode: MZN
+  startOfWeek: monday

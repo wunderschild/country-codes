@@ -1,0 +1,42 @@
+---
+GS:
+  continent: Antarctica
+  alpha2: GS
+  alpha3: SGS
+  countryCode: '500'
+  internationalNumberLengths: ''
+  ioc: 
+  gec: SX
+  nationalDestinationCodeLengths: []
+  nationalNumberLengths: []
+  nationalPrefix: ''
+  number: '239'
+  region: Americas
+  subregion: South America
+  worldRegion: AMER
+  unLocode: GS
+  nationality: South Georgia and the South Sandwich Islander
+  postalCode: true
+  postalCodeFormat: SIQQ 1ZZ
+  officialLanguages:
+  - en
+  spokenLanguages:
+  - en
+  geo:
+    latitude: -54.429579
+    latitudeDec: "-54.459922790527344"
+    longitude: -36.587909
+    longitudeDec: "-36.354618072509766"
+    maxLatitude: -53.8525267
+    maxLongitude: -25.4663086
+    minLatitude: -59.91097600000001
+    minLongitude: -38.4301758
+    bounds:
+      northeast:
+        lat: -53.8525267
+        lng: -25.4663086
+      southwest:
+        lat: -59.91097600000001
+        lng: -38.4301758
+  currencyCode: GBP
+  startOfWeek: monday

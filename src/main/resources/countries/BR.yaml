@@ -1,0 +1,57 @@
+---
+BR:
+  continent: South America
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{postalcode}} {{city}} {{regionShort}}
+    {{country}}
+  alpha2: BR
+  alpha3: BRA
+  countryCode: '55'
+  internationalNumberLengths: '0014'
+  ioc: BRA
+  gec: BR
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 10
+  - 11
+  nationalPrefix: '014'
+  number: '076'
+  region: Americas
+  subregion: South America
+  worldRegion: AMER
+  unLocode: BR
+  nationality: Brazilian
+  vatRates:
+    standard: 17
+    reduced:
+    - 12
+    - 7
+    superReduced:
+    parking: 
+  postalCode: true
+  postalCodeFormat: "\\d{5}-?\\d{3}"
+  officialLanguages:
+  - pt
+  spokenLanguages:
+  - pt
+  geo:
+    latitude: -14.235004
+    latitudeDec: "-10.81045150756836"
+    longitude: -51.92528
+    longitudeDec: "-52.97311782836914"
+    maxLatitude: 5.2717863
+    maxLongitude: -29.3434
+    minLatitude: -34.0891
+    minLongitude: -73.982817
+    bounds:
+      northeast:
+        lat: 5.2717863
+        lng: -29.3434
+      southwest:
+        lat: -34.0891
+        lng: -73.982817
+  currencyCode: BRL
+  startOfWeek: monday

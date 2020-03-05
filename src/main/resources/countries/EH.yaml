@@ -1,0 +1,44 @@
+---
+EH:
+  continent: Africa
+  alpha2: EH
+  alpha3: ESH
+  countryCode: '212'
+  internationalNumberLengths: ''
+  ioc: 
+  gec: WI
+  nationalDestinationCodeLengths: []
+  nationalNumberLengths: []
+  nationalPrefix: ''
+  number: '732'
+  region: Africa
+  subregion: Northern Africa
+  worldRegion: EMEA
+  unLocode: EH
+  nationality: Sahrawi
+  postalCode: true
+  postalCodeFormat: "\\d{5}"
+  officialLanguages:
+  - es
+  - fr
+  spokenLanguages:
+  - es
+  - fr
+  geo:
+    latitude: 24.215527
+    latitudeDec: '25'
+    longitude: -12.885834
+    longitudeDec: "-13"
+    maxLatitude: 27.7223999
+    maxLongitude: -8.667525
+    minLatitude: 20.427
+    minLongitude: -17.4573001
+    bounds:
+      northeast:
+        lat: 27.7223999
+        lng: -8.667525
+      southwest:
+        lat: 20.427
+        lng: -17.4573001
+  currencyCode: MAD
+  startOfWeek: monday

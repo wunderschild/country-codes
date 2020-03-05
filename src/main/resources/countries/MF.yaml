@@ -1,0 +1,46 @@
+---
+MF:
+  continent: North America
+  alpha2: MF
+  alpha3: MAF
+  countryCode: '590'
+  internationalNumberLengths: ''
+  ioc: 
+  gec: RN
+  nationalDestinationCodeLengths: []
+  nationalNumberLengths: []
+  nationalPrefix: ''
+  number: '663'
+  region: Americas
+  subregion: Caribbean
+  worldRegion: AMER
+  unLocode: MF
+  nationality: Saint Martin Islander
+  postalCode: true
+  postalCodeFormat: 9[78][01]\d{2}
+  officialLanguages:
+  - en
+  - fr
+  - nl
+  spokenLanguages:
+  - en
+  - fr
+  - nl
+  geo:
+    latitude: 18.08255
+    latitudeDec: '18.042224884033203'
+    longitude: -63.05225100000001
+    longitudeDec: "-63.06623458862305"
+    maxLatitude: 18.1356001
+    maxLongitude: -62.9613001
+    minLatitude: 18.0462883
+    minLongitude: -63.1630001
+    bounds:
+      northeast:
+        lat: 18.1356001
+        lng: -62.9613001
+      southwest:
+        lat: 18.0462883
+        lng: -63.1630001
+  currencyCode: EUR
+  startOfWeek: monday

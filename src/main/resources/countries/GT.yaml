@@ -1,0 +1,44 @@
+---
+GT:
+  continent: North America
+  alpha2: GT
+  alpha3: GTM
+  countryCode: '502'
+  internationalNumberLengths: '00'
+  ioc: GUA
+  gec: GT
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: None
+  number: '320'
+  region: Americas
+  subregion: Central America
+  worldRegion: AMER
+  unLocode: GT
+  nationality: Guatemalan
+  postalCode: true
+  postalCodeFormat: "\\d{5}"
+  officialLanguages:
+  - es
+  spokenLanguages:
+  - es
+  geo:
+    latitude: 15.783471
+    latitudeDec: '15.670565605163574'
+    longitude: -90.23075899999999
+    longitudeDec: "-90.3486557006836"
+    maxLatitude: 17.8156973
+    maxLongitude: -88.1982001
+    minLatitude: 13.63
+    minLongitude: -92.2714
+    bounds:
+      northeast:
+        lat: 17.8156973
+        lng: -88.1982001
+      southwest:
+        lat: 13.63
+        lng: -92.2714
+  currencyCode: GTQ
+  startOfWeek: monday

@@ -1,0 +1,42 @@
+---
+UM:
+  continent: Australia
+  alpha2: UM
+  alpha3: UMI
+  countryCode: '1'
+  internationalNumberLengths: ''
+  ioc: 
+  gec: 
+  nationalDestinationCodeLengths: []
+  nationalNumberLengths: []
+  nationalPrefix: ''
+  number: '581'
+  region: Americas
+  subregion: Northern America
+  worldRegion: AMER
+  unLocode: UM
+  nationality: American
+  postalCode: true
+  postalCodeFormat: '96898'
+  officialLanguages:
+  - en
+  spokenLanguages:
+  - en
+  geo:
+    latitude: 19.2823192
+    latitudeDec: '19.282319'
+    longitude: 166.647047
+    longitudeDec: '166.647047'
+    maxLatitude: 28.3977184
+    maxLongitude: -159.9849071
+    minLatitude: -0.3824678
+    minLongitude: 166.5989221
+    bounds:
+      northeast:
+        lat: 28.3977184
+        lng: -159.9849071
+      southwest:
+        lat: -0.3824678
+        lng: 166.5989221
+  currencyCode: USD
+  startOfWeek: monday

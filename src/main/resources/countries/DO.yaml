@@ -1,0 +1,44 @@
+---
+DO:
+  continent: North America
+  alpha2: DO
+  alpha3: DOM
+  countryCode: '1'
+  internationalNumberLengths: '011'
+  ioc: DOM
+  gec: DR
+  nationalDestinationCodeLengths:
+  - 3
+  nationalNumberLengths:
+  - 10
+  nationalPrefix: '1'
+  number: '214'
+  region: Americas
+  subregion: Caribbean
+  worldRegion: AMER
+  unLocode: DO
+  nationality: Dominican
+  postalCode: true
+  postalCodeFormat: "\\d{5}"
+  officialLanguages:
+  - es
+  spokenLanguages:
+  - es
+  geo:
+    latitude: 18.735693
+    latitudeDec: '19.019824981689453'
+    longitude: -70.162651
+    longitudeDec: "-70.79285430908203"
+    maxLatitude: 19.9786989
+    maxLongitude: -68.25260010000001
+    minLatitude: 17.3611001
+    minLongitude: -72.0075099
+    bounds:
+      northeast:
+        lat: 19.9786989
+        lng: -68.25260010000001
+      southwest:
+        lat: 17.3611001
+        lng: -72.0075099
+  currencyCode: DOP
+  startOfWeek: monday

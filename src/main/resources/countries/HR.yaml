@@ -1,0 +1,58 @@
+---
+HR:
+  continent: Europe
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{postalcode}} {{city}}
+    {{country}}
+  alpha2: HR
+  alpha3: HRV
+  countryCode: '385'
+  internationalNumberLengths: '00'
+  ioc: CRO
+  gec: HR
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: '0'
+  number: '191'
+  region: Europe
+  subregion: Southern Europe
+  worldRegion: EMEA
+  unLocode: HR
+  nationality: Croatian
+  euMember: true
+  eeaMember: true
+  vatRates:
+    standard: 25
+    reduced:
+    - 5
+    - 13
+    superReduced:
+    parking: 
+  postalCode: true
+  postalCodeFormat: "\\d{5}"
+  officialLanguages:
+  - hr
+  spokenLanguages:
+  - hr
+  geo:
+    latitude: 45.1
+    latitudeDec: '45.444305419921875'
+    longitude: 15.2
+    longitudeDec: '15.734503746032715'
+    maxLatitude: 46.5549857
+    maxLongitude: 19.4480523
+    minLatitude: 42.3385087
+    minLongitude: 13.3649
+    bounds:
+      northeast:
+        lat: 46.5549857
+        lng: 19.4480523
+      southwest:
+        lat: 42.3385087
+        lng: 13.3649
+  currencyCode: HRK
+  startOfWeek: monday

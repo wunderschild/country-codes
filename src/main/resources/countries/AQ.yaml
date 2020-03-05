@@ -1,0 +1,39 @@
+---
+AQ:
+  continent: Antarctica
+  alpha2: AQ
+  alpha3: ATA
+  countryCode: '672'
+  internationalNumberLengths: ''
+  ioc: 
+  gec: AY
+  nationalDestinationCodeLengths: []
+  nationalNumberLengths: []
+  nationalPrefix: ''
+  worldRegion: AMER
+  number: '010'
+  region: ''
+  subregion: ''
+  unLocode: AQ
+  nationality: ''
+  postalCode: false
+  officialLanguages: []
+  spokenLanguages: []
+  geo:
+    latitude: -75.250973
+    latitudeDec: "-82.862752"
+    longitude: -0.071389
+    longitudeDec: "-135.0"
+    maxLatitude: -60.1086999
+    maxLongitude: 180
+    minLatitude: -90
+    minLongitude: -180
+    bounds:
+      northeast:
+        lat: -60.1086999
+        lng: 180
+      southwest:
+        lat: -90
+        lng: -180
+  currencyCode: USD
+  startOfWeek: monday

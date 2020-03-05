@@ -1,0 +1,44 @@
+---
+CV:
+  continent: Africa
+  alpha2: CV
+  alpha3: CPV
+  countryCode: '238'
+  internationalNumberLengths: '00'
+  ioc: CPV
+  gec: CV
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  nationalPrefix: None
+  number: '132'
+  region: Africa
+  subregion: Western Africa
+  worldRegion: EMEA
+  unLocode: CV
+  nationality: Cape Verdian
+  postalCode: true
+  postalCodeFormat: "\\d{4}"
+  officialLanguages:
+  - pt
+  spokenLanguages:
+  - pt
+  geo:
+    latitude: 15.120142
+    latitudeDec: '15.183002471923828'
+    longitude: -23.6051868
+    longitudeDec: "-23.70345115661621"
+    maxLatitude: 17.3191764
+    maxLongitude: -22.5933839
+    minLatitude: 14.7270733
+    minLongitude: -25.383911
+    bounds:
+      northeast:
+        lat: 17.3191764
+        lng: -22.5933839
+      southwest:
+        lat: 14.7270733
+        lng: -25.383911
+  currencyCode: CVE
+  startOfWeek: monday

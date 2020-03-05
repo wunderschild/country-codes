@@ -1,0 +1,50 @@
+---
+OM:
+  continent: Asia
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{postalcode}} {{city}}
+    {{region}}
+    {{country}}
+  alpha2: OM
+  alpha3: OMN
+  countryCode: '968'
+  internationalNumberLengths: '00'
+  ioc: OMA
+  gec: MU
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: None
+  number: '512'
+  region: Asia
+  subregion: Western Asia
+  worldRegion: EMEA
+  unLocode: OM
+  nationality: Omani
+  postalCode: true
+  postalCodeFormat: "(?:PC )?\\d{3}"
+  officialLanguages:
+  - ar
+  spokenLanguages:
+  - ar
+  geo:
+    latitude: 21.4735329
+    latitudeDec: '20.566621780395508'
+    longitude: 55.975413
+    longitudeDec: '56.157962799072266'
+    maxLatitude: 26.4361001
+    maxLongitude: 60.30399999999999
+    minLatitude: 16.4571999
+    minLongitude: 52.0000018
+    bounds:
+      northeast:
+        lat: 26.4361001
+        lng: 60.30399999999999
+      southwest:
+        lat: 16.4571999
+        lng: 52.0000018
+  currencyCode: OMR
+  startOfWeek: sunday

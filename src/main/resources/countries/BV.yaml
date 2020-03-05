@@ -1,0 +1,39 @@
+---
+BV:
+  continent: Antarctica
+  alpha2: BV
+  alpha3: BVT
+  countryCode: '47'
+  internationalNumberLengths: ''
+  ioc: 
+  gec: BV
+  nationalDestinationCodeLengths: []
+  nationalNumberLengths: []
+  nationalPrefix: ''
+  number: '074'
+  region: ''
+  subregion: ''
+  unLocode: BV
+  nationality: ''
+  postalCode: false
+  worldRegion: APAC
+  officialLanguages: []
+  spokenLanguages: []
+  geo:
+    latitude: -54.423199
+    latitudeDec: "-54.4342041015625"
+    longitude: 3.413194
+    longitudeDec: '3.4102511405944824'
+    maxLatitude: -54.38735519999999
+    maxLongitude: 3.4382056
+    minLatitude: -54.4592623
+    minLongitude: 3.2773591
+    bounds:
+      northeast:
+        lat: -54.38735519999999
+        lng: 3.4382056
+      southwest:
+        lat: -54.4592623
+        lng: 3.2773591
+  currencyCode: NOK
+  startOfWeek: monday

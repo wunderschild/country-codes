@@ -1,0 +1,45 @@
+---
+CG:
+  continent: Africa
+  alpha2: CG
+  alpha3: COG
+  countryCode: '242'
+  internationalNumberLengths: '00'
+  ioc: CGO
+  gec: CF
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  nationalPrefix: None
+  number: '178'
+  region: Africa
+  subregion: Middle Africa
+  worldRegion: EMEA
+  unLocode: CG
+  nationality: Congolese
+  postalCode: false
+  officialLanguages:
+  - fr
+  - ln
+  spokenLanguages:
+  - fr
+  - ln
+  geo:
+    latitude: -0.228021
+    latitudeDec: "-2.879866123199463"
+    longitude: 15.827659
+    longitudeDec: '23.6563777923584'
+    maxLatitude: 3.707791
+    maxLongitude: 18.643611
+    minLatitude: -5.0964
+    minLongitude: 11.1182001
+    bounds:
+      northeast:
+        lat: 3.707791
+        lng: 18.643611
+      southwest:
+        lat: -5.0964
+        lng: 11.1182001
+  currencyCode: XAF
+  startOfWeek: monday

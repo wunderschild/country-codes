@@ -1,0 +1,44 @@
+---
+SN:
+  continent: Africa
+  alpha2: SN
+  alpha3: SEN
+  countryCode: '221'
+  internationalNumberLengths: '00'
+  ioc: SEN
+  gec: SG
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  nationalPrefix: None
+  number: '686'
+  region: Africa
+  subregion: Western Africa
+  worldRegion: EMEA
+  unLocode: SN
+  nationality: Senegalese
+  postalCode: true
+  postalCodeFormat: "\\d{5}"
+  officialLanguages:
+  - fr
+  spokenLanguages:
+  - fr
+  geo:
+    latitude: 14.497401
+    latitudeDec: '14.36251163482666'
+    longitude: -14.452362
+    longitudeDec: "-14.531643867492676"
+    maxLatitude: 16.6930539
+    maxLongitude: -11.348607
+    minLatitude: 12.2649001
+    minLongitude: -17.6879999
+    bounds:
+      northeast:
+        lat: 16.6930539
+        lng: -11.348607
+      southwest:
+        lat: 12.2649001
+        lng: -17.6879999
+  currencyCode: XOF
+  startOfWeek: monday

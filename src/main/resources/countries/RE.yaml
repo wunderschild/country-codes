@@ -1,0 +1,44 @@
+---
+RE:
+  continent: Africa
+  alpha2: RE
+  alpha3: REU
+  countryCode: '262'
+  internationalNumberLengths: '00'
+  ioc: 
+  gec: RE
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 10
+  nationalPrefix: None
+  number: '638'
+  region: Africa
+  subregion: Eastern Africa
+  worldRegion: EMEA
+  unLocode: RE
+  nationality: French
+  postalCode: true
+  postalCodeFormat: 9[78]4\d{2}
+  officialLanguages:
+  - fr
+  spokenLanguages:
+  - fr
+  geo:
+    latitude: -21.115141
+    latitudeDec: "-21.146299362182617"
+    longitude: 55.536384
+    longitudeDec: '55.631248474121094'
+    maxLatitude: -20.8671529
+    maxLongitude: 55.84487919999999
+    minLatitude: -21.4035321
+    minLongitude: 55.209732
+    bounds:
+      northeast:
+        lat: -20.8671529
+        lng: 55.84487919999999
+      southwest:
+        lat: -21.4035321
+        lng: 55.209732
+  currencyCode: EUR
+  startOfWeek: monday

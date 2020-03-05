@@ -1,0 +1,48 @@
+---
+QA:
+  continent: Asia
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{postalcode}} {{city}}
+    {{country}}
+  alpha2: QA
+  alpha3: QAT
+  countryCode: '974'
+  internationalNumberLengths: '00'
+  ioc: QAT
+  gec: QA
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  nationalPrefix: None
+  number: '634'
+  region: Asia
+  subregion: Western Asia
+  worldRegion: EMEA
+  unLocode: QA
+  nationality: Qatari
+  postalCode: false
+  officialLanguages:
+  - ar
+  spokenLanguages:
+  - ar
+  geo:
+    latitude: 25.354826
+    latitudeDec: '25.413625717163086'
+    longitude: 51.183884
+    longitudeDec: '51.2602653503418'
+    maxLatitude: 26.2171
+    maxLongitude: 51.6769
+    minLatitude: 24.471118
+    minLongitude: 50.7211001
+    bounds:
+      northeast:
+        lat: 26.2171
+        lng: 51.6769
+      southwest:
+        lat: 24.471118
+        lng: 50.7211001
+  currencyCode: QAR
+  startOfWeek: sunday

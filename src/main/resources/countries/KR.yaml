@@ -1,0 +1,51 @@
+---
+KR:
+  continent: Asia
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{city}} {{regionShort}}
+    {{postalcode}}
+    {{country}}
+  alpha2: KR
+  alpha3: KOR
+  countryCode: '82'
+  internationalNumberLengths: '001'
+  ioc: KOR
+  gec: KS
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  - 9
+  nationalPrefix: '0'
+  number: '410'
+  region: Asia
+  subregion: Eastern Asia
+  worldRegion: APAC
+  unLocode: KR
+  nationality: South Korean
+  postalCode: true
+  postalCodeFormat: "\\d{5}"
+  officialLanguages:
+  - ko
+  spokenLanguages:
+  - ko
+  geo:
+    latitude: 35.907757
+    latitudeDec: '40.077640533447266'
+    longitude: 127.766922
+    longitudeDec: '127.13385009765625'
+    maxLatitude: 38.63400000000001
+    maxLongitude: 131.1603
+    minLatitude: 33.0041
+    minLongitude: 124.5863
+    bounds:
+      northeast:
+        lat: 38.63400000000001
+        lng: 131.1603
+      southwest:
+        lat: 33.0041
+        lng: 124.5863
+  currencyCode: KRW
+  startOfWeek: monday

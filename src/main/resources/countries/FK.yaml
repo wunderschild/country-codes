@@ -1,0 +1,44 @@
+---
+FK:
+  continent: South America
+  alpha2: FK
+  alpha3: FLK
+  countryCode: '500'
+  internationalNumberLengths: '00'
+  ioc: 
+  gec: FK
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 5
+  nationalPrefix: None
+  number: '238'
+  region: Americas
+  subregion: South America
+  worldRegion: AMER
+  unLocode: FK
+  nationality: Falkland Islander
+  postalCode: true
+  postalCodeFormat: FIQQ 1ZZ
+  officialLanguages:
+  - en
+  spokenLanguages:
+  - en
+  geo:
+    latitude: -51.796253
+    latitudeDec: "-51.77312469482422"
+    longitude: -59.523613
+    longitudeDec: "-59.727909088134766"
+    maxLatitude: -50.9809115
+    maxLongitude: -57.6768495
+    minLatitude: -52.4744161
+    minLongitude: -61.379242
+    bounds:
+      northeast:
+        lat: -50.9809115
+        lng: -57.6768495
+      southwest:
+        lat: -52.4744161
+        lng: -61.379242
+  currencyCode: FKP
+  startOfWeek: monday

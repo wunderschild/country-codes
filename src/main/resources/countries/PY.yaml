@@ -1,0 +1,46 @@
+---
+PY:
+  continent: South America
+  alpha2: PY
+  alpha3: PRY
+  countryCode: '595'
+  internationalNumberLengths: '002'
+  ioc: PAR
+  gec: PA
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 9
+  nationalPrefix: '0'
+  number: '600'
+  region: Americas
+  subregion: South America
+  worldRegion: AMER
+  unLocode: PY
+  nationality: Paraguayan
+  postalCode: true
+  postalCodeFormat: "\\d{4}"
+  officialLanguages:
+  - es
+  - gn
+  spokenLanguages:
+  - es
+  - gn
+  geo:
+    latitude: -23.442503
+    latitudeDec: "-23.24028968811035"
+    longitude: -58.443832
+    longitudeDec: "-58.395172119140625"
+    maxLatitude: -19.2876589
+    maxLongitude: -54.258562
+    minLatitude: -27.5817594
+    minLongitude: -62.63813879999999
+    bounds:
+      northeast:
+        lat: -19.2876589
+        lng: -54.258562
+      southwest:
+        lat: -27.5817594
+        lng: -62.63813879999999
+  currencyCode: PYG
+  startOfWeek: monday

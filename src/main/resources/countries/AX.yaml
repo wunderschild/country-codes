@@ -1,0 +1,42 @@
+---
+AX:
+  continent: Europe
+  alpha2: AX
+  alpha3: ALA
+  countryCode: '358'
+  internationalNumberLengths: ''
+  ioc: 
+  gec: 
+  nationalDestinationCodeLengths: []
+  nationalNumberLengths: []
+  nationalPrefix: ''
+  number: '248'
+  region: Europe
+  subregion: Northern Europe
+  worldRegion: EMEA
+  unLocode: AX
+  nationality: Swedish
+  postalCode: true
+  postalCodeFormat: 22\d{3}
+  officialLanguages:
+  - sv
+  spokenLanguages:
+  - sv
+  geo:
+    latitude: 60.1785247
+    latitudeDec: '60.2023811340332'
+    longitude: 19.9156105
+    longitudeDec: '19.96520233154297'
+    maxLatitude: 60.8400009
+    maxLongitude: 21.4866841
+    minLatitude: 59.6872001
+    minLongitude: 19.2095998
+    bounds:
+      northeast:
+        lat: 60.8400009
+        lng: 21.4866841
+      southwest:
+        lat: 59.6872001
+        lng: 19.2095998
+  currencyCode: EUR
+  startOfWeek: monday

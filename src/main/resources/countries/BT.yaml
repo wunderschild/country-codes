@@ -1,0 +1,45 @@
+---
+BT:
+  continent: Asia
+  alpha2: BT
+  alpha3: BTN
+  countryCode: '975'
+  internationalNumberLengths: '00'
+  ioc: BHU
+  gec: BT
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  - 8
+  nationalPrefix: None
+  number: '064'
+  region: Asia
+  subregion: Southern Asia
+  worldRegion: APAC
+  unLocode: BT
+  nationality: Bhutanese
+  postalCode: true
+  postalCodeFormat: "\\d{5}"
+  officialLanguages:
+  - dz
+  spokenLanguages:
+  - dz
+  geo:
+    latitude: 27.514162
+    latitudeDec: '27.416879653930664'
+    longitude: 90.433601
+    longitudeDec: '90.43476104736328'
+    maxLatitude: 28.360825
+    maxLongitude: 92.12523209999999
+    minLatitude: 26.702016
+    minLongitude: 88.74647350000001
+    bounds:
+      northeast:
+        lat: 28.360825
+        lng: 92.12523209999999
+      southwest:
+        lat: 26.702016
+        lng: 88.74647350000001
+  currencyCode: BTN
+  startOfWeek: monday

@@ -1,0 +1,50 @@
+---
+ME:
+  continent: Europe
+  alpha2: ME
+  alpha3: MNE
+  countryCode: '382'
+  internationalNumberLengths: '99'
+  ioc: MNE
+  gec: MJ
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: '0'
+  number: '499'
+  region: Europe
+  subregion: Southern Europe
+  worldRegion: EMEA
+  unLocode: ME
+  nationality: Montenegrin
+  postalCode: true
+  postalCodeFormat: 8\d{4}
+  officialLanguages:
+  - sr
+  - bs
+  - sq
+  - hr
+  spokenLanguages:
+  - sr
+  - bs
+  - sq
+  - hr
+  geo:
+    latitude: 42.708678
+    latitudeDec: '42.752803802490234'
+    longitude: 19.37439
+    longitudeDec: '19.237918853759766'
+    maxLatitude: 43.558743
+    maxLongitude: 20.3574869
+    minLatitude: 41.8297
+    minLongitude: 18.4337921
+    bounds:
+      northeast:
+        lat: 43.558743
+        lng: 20.3574869
+      southwest:
+        lat: 41.8297
+        lng: 18.4337921
+  currencyCode: EUR
+  startOfWeek: monday

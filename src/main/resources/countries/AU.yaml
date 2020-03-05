@@ -1,0 +1,54 @@
+---
+AU:
+  continent: Australia
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{city}} {{regionShort}} {{postalcode}}
+    {{country}}
+  alpha2: AU
+  alpha3: AUS
+  countryCode: '61'
+  internationalNumberLengths: '0011'
+  ioc: AUS
+  gec: AS
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 9
+  nationalPrefix: '0'
+  number: '036'
+  region: Oceania
+  subregion: Australia and New Zealand
+  worldRegion: APAC
+  unLocode: AU
+  nationality: Australian
+  vatRates:
+    standard: 10
+    reduced: []
+    superReduced:
+    parking: 
+  postalCode: true
+  postalCodeFormat: "\\d{4}"
+  officialLanguages:
+  - en
+  spokenLanguages:
+  - en
+  geo:
+    latitude: -25.274398
+    latitudeDec: "-25.585241317749023"
+    longitude: 133.775136
+    longitudeDec: '134.50411987304688'
+    maxLatitude: -9.187026399999999
+    maxLongitude: 159.2872223
+    minLatitude: -54.83376579999999
+    minLongitude: 110.9510339
+    bounds:
+      northeast:
+        lat: -9.187026399999999
+        lng: 159.2872223
+      southwest:
+        lat: -54.83376579999999
+        lng: 110.9510339
+  currencyCode: AUD
+  startOfWeek: monday

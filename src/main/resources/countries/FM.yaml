@@ -1,0 +1,44 @@
+---
+FM:
+  continent: Australia
+  alpha2: FM
+  alpha3: FSM
+  countryCode: '691'
+  internationalNumberLengths: '011'
+  ioc: FSM
+  gec: FM
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  nationalPrefix: '1'
+  number: '583'
+  region: Oceania
+  subregion: Micronesia
+  worldRegion: APAC
+  unLocode: FM
+  nationality: Micronesian
+  postalCode: true
+  postalCodeFormat: "(9694[1-4])(?:[ \\-](\\d{4}))?"
+  officialLanguages:
+  - en
+  spokenLanguages:
+  - en
+  geo:
+    latitude: 6.8874813
+    latitudeDec: '6.869349002838135'
+    longitude: 158.2150717
+    longitudeDec: '158.187255859375'
+    maxLatitude: 10.2770863
+    maxLongitude: 163.5177612
+    minLatitude: 0.1538084
+    minLongitude: 136.9226075
+    bounds:
+      northeast:
+        lat: 10.2770863
+        lng: 163.5177612
+      southwest:
+        lat: 0.1538084
+        lng: 136.9226075
+  currencyCode: USD
+  startOfWeek: monday

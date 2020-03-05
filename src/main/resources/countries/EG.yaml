@@ -1,0 +1,49 @@
+---
+EG:
+  continent: Africa
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{postalcode}} {{city}}
+    {{country}}
+  alpha2: EG
+  alpha3: EGY
+  countryCode: '20'
+  internationalNumberLengths: '00'
+  ioc: EGY
+  gec: EG
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 9
+  nationalPrefix: '0'
+  number: '818'
+  region: Africa
+  subregion: Northern Africa
+  worldRegion: EMEA
+  unLocode: EG
+  nationality: Egyptian
+  postalCode: true
+  postalCodeFormat: "\\d{5}"
+  officialLanguages:
+  - ar
+  spokenLanguages:
+  - ar
+  geo:
+    latitude: 26.820553
+    latitudeDec: '26.756103515625'
+    longitude: 30.802498
+    longitudeDec: '29.86229705810547'
+    maxLatitude: 31.8122
+    maxLongitude: 37.0569
+    minLatitude: 21.9999999
+    minLongitude: 24.696775
+    bounds:
+      northeast:
+        lat: 31.8122
+        lng: 37.0569
+      southwest:
+        lat: 21.9999999
+        lng: 24.696775
+  currencyCode: EGP
+  startOfWeek: sunday

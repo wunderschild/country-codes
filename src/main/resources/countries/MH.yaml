@@ -1,0 +1,46 @@
+---
+MH:
+  continent: Australia
+  alpha2: MH
+  alpha3: MHL
+  countryCode: '692'
+  internationalNumberLengths: '00'
+  ioc: MHL
+  gec: RM
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  nationalPrefix: '1'
+  number: '584'
+  region: Oceania
+  subregion: Micronesia
+  worldRegion: APAC
+  unLocode: MH
+  nationality: Marshallese
+  postalCode: true
+  postalCodeFormat: "(969[67]\\d)(?:[ \\-](\\d{4}))?"
+  officialLanguages:
+  - en
+  - mh
+  spokenLanguages:
+  - en
+  - mh
+  geo:
+    latitude: 6.0683017
+    latitudeDec: '7.286207675933838'
+    longitude: 171.9425583
+    longitudeDec: '168.75140380859375'
+    maxLatitude: 15.0190749
+    maxLongitude: 172.5732421
+    minLatitude: 4.1601583
+    minLongitude: 159.8840332
+    bounds:
+      northeast:
+        lat: 15.0190749
+        lng: 172.5732421
+      southwest:
+        lat: 4.1601583
+        lng: 159.8840332
+  currencyCode: USD
+  startOfWeek: monday

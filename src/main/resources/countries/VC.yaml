@@ -1,0 +1,45 @@
+---
+VC:
+  continent: North America
+  alpha2: VC
+  alpha3: VCT
+  countryCode: '1'
+  nanpPrefix: '1784'
+  internationalNumberLengths: '011'
+  ioc: VIN
+  gec: VC
+  nationalDestinationCodeLengths:
+  - 3
+  nationalNumberLengths:
+  - 10
+  nationalPrefix: '1'
+  number: '670'
+  region: Americas
+  subregion: Caribbean
+  worldRegion: AMER
+  unLocode: VC
+  nationality: Saint Vincentian
+  postalCode: true
+  postalCodeFormat: VC\d{4}
+  officialLanguages:
+  - en
+  spokenLanguages:
+  - en
+  geo:
+    latitude: 13.2528179
+    latitudeDec: '13.217251777648926'
+    longitude: -61.19716279999999
+    longitudeDec: "-61.19344711303711"
+    maxLatitude: 13.4136657
+    maxLongitude: -61.0846
+    minLatitude: 12.5294999
+    minLongitude: -61.4822
+    bounds:
+      northeast:
+        lat: 13.4136657
+        lng: -61.0846
+      southwest:
+        lat: 12.5294999
+        lng: -61.4822
+  currencyCode: XCD
+  startOfWeek: monday

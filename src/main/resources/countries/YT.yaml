@@ -1,0 +1,44 @@
+---
+YT:
+  continent: Africa
+  alpha2: YT
+  alpha3: MYT
+  countryCode: '262'
+  internationalNumberLengths: '00'
+  ioc: 
+  gec: MF
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  nationalPrefix: None
+  number: '175'
+  region: Africa
+  subregion: Eastern Africa
+  worldRegion: EMEA
+  unLocode: YT
+  nationality: French
+  postalCode: true
+  postalCodeFormat: 976\d{2}
+  officialLanguages:
+  - fr
+  spokenLanguages:
+  - fr
+  geo:
+    latitude: -12.8275
+    latitudeDec: "-12.79636001586914"
+    longitude: 45.166244
+    longitudeDec: '45.14227294921875'
+    maxLatitude: -12.5772665
+    maxLongitude: 45.32014849999999
+    minLatitude: -13.0358332
+    minLongitude: 44.9914169
+    bounds:
+      northeast:
+        lat: -12.5772665
+        lng: 45.32014849999999
+      southwest:
+        lat: -13.0358332
+        lng: 44.9914169
+  currencyCode: EUR
+  startOfWeek: monday

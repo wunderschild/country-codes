@@ -1,0 +1,46 @@
+---
+SZ:
+  continent: Africa
+  alpha2: SZ
+  alpha3: SWZ
+  countryCode: '268'
+  internationalNumberLengths: '00'
+  ioc: SWZ
+  gec: WZ
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  nationalPrefix: None
+  number: '748'
+  region: Africa
+  subregion: Southern Africa
+  worldRegion: EMEA
+  unLocode: SZ
+  nationality: Swazi
+  postalCode: true
+  postalCodeFormat: "[HLMS]\\d{3}"
+  officialLanguages:
+  - en
+  - ss
+  spokenLanguages:
+  - en
+  - ss
+  geo:
+    latitude: -26.522503
+    latitudeDec: "-26.565134048461914"
+    longitude: 31.465866
+    longitudeDec: '31.49811363220215'
+    maxLatitude: -25.71792
+    maxLongitude: 32.1349067
+    minLatitude: -27.317402
+    minLongitude: 30.79064
+    bounds:
+      northeast:
+        lat: -25.71792
+        lng: 32.1349067
+      southwest:
+        lat: -27.317402
+        lng: 30.79064
+  currencyCode: SZL
+  startOfWeek: monday

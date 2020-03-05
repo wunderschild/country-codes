@@ -1,0 +1,53 @@
+---
+CN:
+  continent: Asia
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{postalcode}} {{city}} {{regionShort}}
+    {{country}}
+  alpha2: CN
+  alpha3: CHN
+  countryCode: '86'
+  internationalNumberLengths: '00'
+  ioc: CHN
+  gec: CH
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  nationalPrefix: '0'
+  number: '156'
+  region: Asia
+  subregion: Eastern Asia
+  worldRegion: APAC
+  unLocode: CN
+  nationality: Chinese
+  postalCode: true
+  postalCodeFormat: "\\d{6}"
+  officialLanguages:
+  - zh
+  spokenLanguages:
+  - zh
+  geo:
+    latitude: 35.86166
+    latitudeDec: '36.55308532714844'
+    longitude: 104.195397
+    longitudeDec: '103.97543334960938'
+    maxLatitude: 53.56097399999999
+    maxLongitude: 134.7728099
+    minLatitude: 17.9996
+    minLongitude: 73.4994136
+    bounds:
+      northeast:
+        lat: 53.56097399999999
+        lng: 134.7728099
+      southwest:
+        lat: 17.9996
+        lng: 73.4994136
+  currencyCode: CNY
+  startOfWeek: monday

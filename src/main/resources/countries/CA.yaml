@@ -1,0 +1,51 @@
+---
+CA:
+  continent: North America
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{city}} {{regionShort}} {{postalcode}}
+    {{country}}
+  alpha2: CA
+  alpha3: CAN
+  countryCode: '1'
+  internationalNumberLengths: '011'
+  ioc: CAN
+  gec: CA
+  nationalDestinationCodeLengths:
+  - 3
+  nationalNumberLengths:
+  - 10
+  nationalPrefix: '1'
+  number: '124'
+  region: Americas
+  subregion: Northern America
+  worldRegion: AMER
+  unLocode: CA
+  nationality: Canadian
+  postalCode: true
+  postalCodeFormat: "[ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJ-NPRSTV-Z] ?\\d[ABCEGHJ-NPRSTV-Z]\\d"
+  officialLanguages:
+  - en
+  - fr
+  spokenLanguages:
+  - en
+  - fr
+  geo:
+    latitude: 56.130366
+    latitudeDec: '62.832908630371094'
+    longitude: -106.346771
+    longitudeDec: "-95.91332244873047"
+    maxLatitude: 83.6381
+    maxLongitude: -50.9766
+    minLatitude: 41.6765559
+    minLongitude: -141.00187
+    bounds:
+      northeast:
+        lat: 83.6381
+        lng: -50.9766
+      southwest:
+        lat: 41.6765559
+        lng: -141.00187
+  currencyCode: CAD
+  startOfWeek: sunday

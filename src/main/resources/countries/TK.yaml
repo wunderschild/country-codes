@@ -1,0 +1,43 @@
+---
+TK:
+  continent: Australia
+  alpha2: TK
+  alpha3: TKL
+  countryCode: '690'
+  internationalNumberLengths: '00'
+  ioc: 
+  gec: TL
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 4
+  nationalPrefix: None
+  number: '772'
+  region: Oceania
+  subregion: Polynesia
+  worldRegion: APAC
+  unLocode: TK
+  nationality: Tokelauan
+  postalCode: false
+  officialLanguages:
+  - en
+  spokenLanguages:
+  - en
+  geo:
+    latitude: -9.200199999999999
+    latitudeDec: "-8.979207992553711"
+    longitude: -171.8484
+    longitudeDec: "-172.2017059326172"
+    maxLatitude: -8.4221116
+    maxLongitude: -171.0928346
+    minLatitude: -9.5059527
+    minLongitude: -172.6625061
+    bounds:
+      northeast:
+        lat: -8.4221116
+        lng: -171.0928346
+      southwest:
+        lat: -9.5059527
+        lng: -172.6625061
+  currencyCode: NZD
+  startOfWeek: monday

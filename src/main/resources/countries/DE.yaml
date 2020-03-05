@@ -1,0 +1,65 @@
+---
+DE:
+  continent: Europe
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{postalcode}} {{city}}
+    {{country}}
+  alpha2: DE
+  alpha3: DEU
+  countryCode: '49'
+  internationalNumberLengths: '00'
+  ioc: GER
+  gec: GM
+  nationalDestinationCodeLengths:
+  - 2
+  - 3
+  - 4
+  - 5
+  nationalNumberLengths:
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  nationalPrefix: '0'
+  number: '276'
+  region: Europe
+  subregion: Western Europe
+  worldRegion: EMEA
+  unLocode: DE
+  nationality: German
+  euMember: true
+  eeaMember: true
+  vatRates:
+    standard: 19
+    reduced:
+    - 7
+    superReduced:
+    parking: 
+  postalCode: true
+  postalCodeFormat: "\\d{5}"
+  officialLanguages:
+  - de
+  spokenLanguages:
+  - de
+  geo:
+    latitude: 51.165691
+    latitudeDec: '51.20246505737305'
+    longitude: 10.451526
+    longitudeDec: '10.382203102111816'
+    maxLatitude: 55.0815
+    maxLongitude: 15.0418962
+    minLatitude: 47.2701115
+    minLongitude: 5.8663425
+    bounds:
+      northeast:
+        lat: 55.0815
+        lng: 15.0418962
+      southwest:
+        lat: 47.2701115
+        lng: 5.8663425
+  currencyCode: EUR
+  startOfWeek: monday

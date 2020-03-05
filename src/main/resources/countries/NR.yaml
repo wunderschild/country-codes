@@ -1,0 +1,45 @@
+---
+NR:
+  continent: Australia
+  alpha2: NR
+  alpha3: NRU
+  countryCode: '674'
+  internationalNumberLengths: '00'
+  ioc: NRU
+  gec: NR
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  nationalPrefix: '0'
+  number: '520'
+  region: Oceania
+  subregion: Micronesia
+  worldRegion: APAC
+  unLocode: NR
+  nationality: Nauruan
+  postalCode: false
+  officialLanguages:
+  - en
+  - na
+  spokenLanguages:
+  - en
+  - na
+  geo:
+    latitude: -0.522778
+    latitudeDec: "-0.5316064953804016"
+    longitude: 166.931503
+    longitudeDec: '166.9364013671875'
+    maxLatitude: -0.4978976000000001
+    maxLongitude: 166.9631767
+    minLatitude: -0.5580623
+    minLongitude: 166.9071293
+    bounds:
+      northeast:
+        lat: -0.4978976000000001
+        lng: 166.9631767
+      southwest:
+        lat: -0.5580623
+        lng: 166.9071293
+  currencyCode: AUD
+  startOfWeek: monday

@@ -1,0 +1,57 @@
+---
+CY:
+  continent: Asia
+  alpha2: CY
+  alpha3: CYP
+  countryCode: '357'
+  internationalNumberLengths: '00'
+  ioc: CYP
+  gec: CY
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: None
+  number: '196'
+  region: Asia
+  subregion: Western Asia
+  worldRegion: EMEA
+  unLocode: CY
+  nationality: Cypriot
+  euMember: true
+  eeaMember: true
+  vatRates:
+    standard: 19
+    reduced:
+    - 5
+    - 9
+    superReduced:
+    parking: 
+  postalCode: true
+  postalCodeFormat: "\\d{4}"
+  officialLanguages:
+  - el
+  - tr
+  - hy
+  spokenLanguages:
+  - el
+  - tr
+  - hy
+  geo:
+    latitude: 35.126413
+    latitudeDec: '35.11473846435547'
+    longitude: 33.429859
+    longitudeDec: '33.486717224121094'
+    maxLatitude: 35.7071999
+    maxLongitude: 34.60450000000001
+    minLatitude: 34.6304001
+    minLongitude: 32.2459
+    bounds:
+      northeast:
+        lat: 35.7071999
+        lng: 34.60450000000001
+      southwest:
+        lat: 34.6304001
+        lng: 32.2459
+  currencyCode: EUR
+  startOfWeek: monday

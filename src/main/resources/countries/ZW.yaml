@@ -1,0 +1,50 @@
+---
+ZW:
+  continent: Africa
+  alpha2: ZW
+  alpha3: ZWE
+  countryCode: '263'
+  internationalNumberLengths: '00'
+  ioc: ZIM
+  gec: ZI
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  - 9
+  - 10
+  - 11
+  nationalPrefix: '0'
+  number: '716'
+  region: Africa
+  subregion: Eastern Africa
+  worldRegion: EMEA
+  unLocode: ZW
+  nationality: Zimbabwean
+  postalCode: false
+  officialLanguages:
+  - en
+  - sn
+  - nd
+  spokenLanguages:
+  - en
+  - sn
+  - nd
+  geo:
+    latitude: -19.015438
+    latitudeDec: "-19.000280380249023"
+    longitude: 29.154857
+    longitudeDec: '29.86876106262207'
+    maxLatitude: -15.609319
+    maxLongitude: 33.068236
+    minLatitude: -22.4223538
+    minLongitude: 25.237368
+    bounds:
+      northeast:
+        lat: -15.609319
+        lng: 33.068236
+      southwest:
+        lat: -22.4223538
+        lng: 25.237368
+  currencyCode: USD
+  startOfWeek: monday

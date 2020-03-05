@@ -1,0 +1,44 @@
+---
+AG:
+  continent: North America
+  alpha2: AG
+  alpha3: ATG
+  countryCode: '1'
+  nanpPrefix: '1268'
+  internationalNumberLengths: '011'
+  ioc: ANT
+  gec: AC
+  nationalDestinationCodeLengths:
+  - 3
+  nationalNumberLengths:
+  - 10
+  nationalPrefix: '1'
+  number: '028'
+  region: Americas
+  subregion: Caribbean
+  worldRegion: AMER
+  unLocode: AG
+  nationality: Antiguan, Barbudan
+  postalCode: false
+  officialLanguages:
+  - en
+  spokenLanguages:
+  - en
+  geo:
+    latitude: 17.060816
+    latitudeDec: '17.09273910522461'
+    longitude: -61.796428
+    longitudeDec: "-61.81040954589844"
+    maxLatitude: 17.7499946
+    maxLongitude: -61.6394
+    minLatitude: 16.9018
+    minLongitude: -62.38100009999999
+    bounds:
+      northeast:
+        lat: 17.7499946
+        lng: -61.6394
+      southwest:
+        lat: 16.9018
+        lng: -62.38100009999999
+  currencyCode: XCD
+  startOfWeek: monday

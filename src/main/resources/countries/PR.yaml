@@ -1,0 +1,46 @@
+---
+PR:
+  continent: North America
+  alpha2: PR
+  alpha3: PRI
+  countryCode: '1'
+  internationalNumberLengths: '011'
+  ioc: PUR
+  gec: RQ
+  nationalDestinationCodeLengths:
+  - 3
+  nationalNumberLengths:
+  - 10
+  nationalPrefix: '1'
+  number: '630'
+  region: Americas
+  subregion: Caribbean
+  worldRegion: AMER
+  unLocode: PR
+  nationality: Puerto Rican
+  postalCode: true
+  postalCodeFormat: "(00[679]\\d{2})(?:[ \\-](\\d{4}))?"
+  officialLanguages:
+  - es
+  - en
+  spokenLanguages:
+  - es
+  - en
+  geo:
+    latitude: 18.220833
+    latitudeDec: '18.2491397857666'
+    longitude: -66.590149
+    longitudeDec: "-66.62803649902344"
+    maxLatitude: 18.5160099
+    maxLongitude: -65.2211099
+    minLatitude: 17.88124
+    minLongitude: -67.95158169999999
+    bounds:
+      northeast:
+        lat: 18.5160099
+        lng: -65.2211099
+      southwest:
+        lat: 17.88124
+        lng: -67.95158169999999
+  currencyCode: USD
+  startOfWeek: monday

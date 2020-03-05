@@ -1,0 +1,49 @@
+---
+SY:
+  continent: Asia
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{postalcode}} {{city}}
+    {{country}}
+  alpha2: SY
+  alpha3: SYR
+  countryCode: '963'
+  internationalNumberLengths: '00'
+  ioc: SYR
+  gec: SY
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  - 8
+  nationalPrefix: '0'
+  number: '760'
+  region: Asia
+  subregion: Western Asia
+  worldRegion: EMEA
+  unLocode: SY
+  nationality: Syrian
+  postalCode: false
+  officialLanguages:
+  - ar
+  spokenLanguages:
+  - ar
+  geo:
+    latitude: 34.80207499999999
+    latitudeDec: '35.03312683105469'
+    longitude: 38.996815
+    longitudeDec: '38.473472595214844'
+    maxLatitude: 37.318693
+    maxLongitude: 42.376309
+    minLatitude: 32.311136
+    minLongitude: 35.62869999999999
+    bounds:
+      northeast:
+        lat: 37.318693
+        lng: 42.376309
+      southwest:
+        lat: 32.311136
+        lng: 35.62869999999999
+  currencyCode: SYP
+  startOfWeek: monday

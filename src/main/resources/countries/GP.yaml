@@ -1,0 +1,44 @@
+---
+GP:
+  continent: North America
+  alpha2: GP
+  alpha3: GLP
+  countryCode: '590'
+  internationalNumberLengths: '00'
+  ioc: 
+  gec: GP
+  nationalDestinationCodeLengths:
+  - 3
+  nationalNumberLengths:
+  - 10
+  nationalPrefix: None
+  number: '312'
+  region: Americas
+  subregion: Caribbean
+  worldRegion: AMER
+  unLocode: GP
+  nationality: Guadeloupian
+  postalCode: true
+  postalCodeFormat: 9[78][01]\d{2}
+  officialLanguages:
+  - fr
+  spokenLanguages:
+  - fr
+  geo:
+    latitude: 16.265
+    latitudeDec: '16.256731033325195'
+    longitude: -61.55099999999999
+    longitudeDec: "-61.56741714477539"
+    maxLatitude: 16.5572273
+    maxLongitude: -60.9473
+    minLatitude: 15.742032
+    minLongitude: -61.8468
+    bounds:
+      northeast:
+        lat: 16.5572273
+        lng: -60.9473
+      southwest:
+        lat: 15.742032
+        lng: -61.8468
+  currencyCode: EUR
+  startOfWeek: monday

@@ -1,0 +1,45 @@
+---
+CO:
+  continent: South America
+  alpha2: CO
+  alpha3: COL
+  countryCode: '57'
+  internationalNumberLengths: '005'
+  ioc: COL
+  gec: CO
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 9
+  - 10
+  nationalPrefix: '05'
+  number: '170'
+  region: Americas
+  subregion: South America
+  worldRegion: AMER
+  unLocode: CO
+  nationality: Colombian
+  postalCode: true
+  postalCodeFormat: "\\d{6}"
+  officialLanguages:
+  - es
+  spokenLanguages:
+  - es
+  geo:
+    latitude: 4.570868
+    latitudeDec: '3.9976072311401367'
+    longitude: -74.297333
+    longitudeDec: "-73.27796936035156"
+    maxLatitude: 13.5177999
+    maxLongitude: -66.851923
+    minLatitude: -4.22711
+    minLongitude: -81.8317
+    bounds:
+      northeast:
+        lat: 13.5177999
+        lng: -66.851923
+      southwest:
+        lat: -4.22711
+        lng: -81.8317
+  currencyCode: COP
+  startOfWeek: monday

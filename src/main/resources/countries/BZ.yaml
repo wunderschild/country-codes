@@ -1,0 +1,45 @@
+---
+BZ:
+  continent: North America
+  alpha2: BZ
+  alpha3: BLZ
+  countryCode: '501'
+  internationalNumberLengths: '00'
+  ioc: BIZ
+  gec: BH
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  nationalPrefix: '0'
+  number: '084'
+  region: Americas
+  subregion: Central America
+  worldRegion: AMER
+  unLocode: BZ
+  nationality: Belizean
+  postalCode: false
+  officialLanguages:
+  - en
+  - es
+  spokenLanguages:
+  - en
+  - es
+  geo:
+    latitude: 17.189877
+    latitudeDec: '17.225292205810547'
+    longitude: -88.49765
+    longitudeDec: "-88.66973876953125"
+    maxLatitude: 18.4959419
+    maxLongitude: -87.41269989999999
+    minLatitude: 15.8856189
+    minLongitude: -89.22758789999999
+    bounds:
+      northeast:
+        lat: 18.4959419
+        lng: -87.41269989999999
+      southwest:
+        lat: 15.8856189
+        lng: -89.22758789999999
+  currencyCode: BZD
+  startOfWeek: monday

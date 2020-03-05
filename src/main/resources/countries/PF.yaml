@@ -1,0 +1,44 @@
+---
+PF:
+  continent: Australia
+  alpha2: PF
+  alpha3: PYF
+  countryCode: '689'
+  internationalNumberLengths: '00'
+  ioc: 
+  gec: FP
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 6
+  nationalPrefix: None
+  number: '258'
+  region: Oceania
+  subregion: Polynesia
+  worldRegion: APAC
+  unLocode: PF
+  nationality: French Polynesian
+  postalCode: true
+  postalCodeFormat: 987\d{2}
+  officialLanguages:
+  - fr
+  spokenLanguages:
+  - fr
+  geo:
+    latitude: -17.679742
+    latitudeDec: "-17.648122787475586"
+    longitude: -149.406843
+    longitudeDec: "-149.4647216796875"
+    maxLatitude: -6.4682
+    maxLongitude: -137.3511
+    minLatitude: -28.61346
+    minLongitude: -154.4677999
+    bounds:
+      northeast:
+        lat: -6.4682
+        lng: -137.3511
+      southwest:
+        lat: -28.61346
+        lng: -154.4677999
+  currencyCode: XPF
+  startOfWeek: monday

@@ -1,0 +1,44 @@
+---
+VI:
+  continent: North America
+  alpha2: VI
+  alpha3: VIR
+  countryCode: '1'
+  internationalNumberLengths: '011'
+  ioc: ISV
+  gec: VQ
+  nationalDestinationCodeLengths:
+  - 3
+  nationalNumberLengths:
+  - 10
+  nationalPrefix: '1'
+  number: '850'
+  region: Americas
+  subregion: Caribbean
+  worldRegion: AMER
+  unLocode: VI
+  nationality: Virgin Islander
+  postalCode: true
+  postalCodeFormat: "(008(?:(?:[0-4]\\d)|(?:5[01])))(?:[ \\-](\\d{4}))?"
+  officialLanguages:
+  - en
+  spokenLanguages:
+  - en
+  geo:
+    latitude: 18.335765
+    latitudeDec: '17.75262451171875'
+    longitude: -64.896335
+    longitudeDec: "-64.73542022705078"
+    maxLatitude: 18.4239
+    maxLongitude: -64.4391
+    minLatitude: 17.5482999
+    minLongitude: -65.1101
+    bounds:
+      northeast:
+        lat: 18.4239
+        lng: -64.4391
+      southwest:
+        lat: 17.5482999
+        lng: -65.1101
+  currencyCode: USD
+  startOfWeek: monday

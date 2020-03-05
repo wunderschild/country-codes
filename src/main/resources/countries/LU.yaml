@@ -1,0 +1,62 @@
+---
+LU:
+  continent: Europe
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{postalcode}} {{city}}
+    {{country}}
+  alpha2: LU
+  alpha3: LUX
+  countryCode: '352'
+  internationalNumberLengths: '00'
+  ioc: LUX
+  gec: LU
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 9
+  nationalPrefix: None
+  number: '442'
+  region: Europe
+  subregion: Western Europe
+  worldRegion: EMEA
+  unLocode: LU
+  nationality: Luxembourger
+  euMember: true
+  eeaMember: true
+  vatRates:
+    standard: 17
+    reduced:
+    - 8
+    - 14
+    superReduced: 3
+    parking: 12
+  postalCode: true
+  postalCodeFormat: "\\d{4}"
+  officialLanguages:
+  - fr
+  - de
+  - lb
+  spokenLanguages:
+  - fr
+  - de
+  - lb
+  geo:
+    latitude: 49.815273
+    latitudeDec: '49.77788162231445'
+    longitude: 6.129582999999999
+    longitudeDec: '6.094746112823486'
+    maxLatitude: 50.18282
+    maxLongitude: 6.530970099999999
+    minLatitude: 49.447779
+    minLongitude: 5.7356699
+    bounds:
+      northeast:
+        lat: 50.18282
+        lng: 6.530970099999999
+      southwest:
+        lat: 49.447779
+        lng: 5.7356699
+  currencyCode: EUR
+  startOfWeek: monday

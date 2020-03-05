@@ -1,0 +1,44 @@
+---
+NC:
+  continent: Australia
+  alpha2: NC
+  alpha3: NCL
+  countryCode: '687'
+  internationalNumberLengths: '00'
+  ioc: 
+  gec: NC
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 6
+  nationalPrefix: None
+  number: '540'
+  region: Oceania
+  subregion: Melanesia
+  worldRegion: APAC
+  unLocode: NC
+  nationality: New Caledonian
+  postalCode: true
+  postalCodeFormat: 988\d{2}
+  officialLanguages:
+  - fr
+  spokenLanguages:
+  - fr
+  geo:
+    latitude: -20.904305
+    latitudeDec: "-21.31782341003418"
+    longitude: 165.618042
+    longitudeDec: '165.298583984375'
+    maxLatitude: -19.1607355
+    maxLongitude: 168.3325194
+    minLatitude: -23.2514406
+    minLongitude: 163.3557129
+    bounds:
+      northeast:
+        lat: -19.1607355
+        lng: 168.3325194
+      southwest:
+        lat: -23.2514406
+        lng: 163.3557129
+  currencyCode: XPF
+  startOfWeek: monday

@@ -1,0 +1,45 @@
+---
+TC:
+  continent: North America
+  alpha2: TC
+  alpha3: TCA
+  countryCode: '1'
+  nanpPrefix: '1649'
+  internationalNumberLengths: '011'
+  ioc: 
+  gec: TK
+  nationalDestinationCodeLengths:
+  - 3
+  nationalNumberLengths:
+  - 10
+  nationalPrefix: '1'
+  number: '796'
+  region: Americas
+  subregion: Caribbean
+  worldRegion: APAC
+  unLocode: TC
+  nationality: Turks and Caicos Islander
+  postalCode: true
+  postalCodeFormat: TKCA 1ZZ
+  officialLanguages:
+  - en
+  spokenLanguages:
+  - en
+  geo:
+    latitude: 21.694025
+    latitudeDec: '21.758726119995117'
+    longitude: -71.797928
+    longitudeDec: "-71.71514892578125"
+    maxLatitude: 22.0016285
+    maxLongitude: -71.05949989999999
+    minLatitude: 21.1459922
+    minLongitude: -72.52069999999999
+    bounds:
+      northeast:
+        lat: 22.0016285
+        lng: -71.05949989999999
+      southwest:
+        lat: 21.1459922
+        lng: -72.52069999999999
+  currencyCode: USD
+  startOfWeek: monday

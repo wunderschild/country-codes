@@ -1,0 +1,56 @@
+---
+IL:
+  continent: Asia
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{postalcode}} {{city}}
+    {{country}}
+  alpha2: IL
+  alpha3: ISR
+  countryCode: '972'
+  internationalNumberLengths: '00'
+  ioc: ISR
+  gec: IS
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  - 8
+  - 9
+  nationalPrefix: '0'
+  number: '376'
+  region: Asia
+  subregion: Western Asia
+  worldRegion: EMEA
+  unLocode: IL
+  nationality: Israeli
+  postalCode: true
+  postalCodeFormat: "\\d{5}(?:\\d{2})?"
+startOfWeek
+  - Israël
+  - イスラエル
+  officialLanguages:
+  - he
+  - ar
+  spokenLanguages:
+  - he
+  - ar
+  geo:
+    latitude: 31.046051
+    latitudeDec: '31.814193725585938'
+    longitude: 34.851612
+    longitudeDec: '34.75337219238281'
+    maxLatitude: 33.33280500000001
+    maxLongitude: 35.896244
+    minLatitude: 29.47969999999999
+    minLongitude: 34.2673871
+    bounds:
+      northeast:
+        lat: 33.33280500000001
+        lng: 35.896244
+      southwest:
+        lat: 29.47969999999999
+        lng: 34.2673871
+  currencyCode: ILS
+  startOfWeek: sunday

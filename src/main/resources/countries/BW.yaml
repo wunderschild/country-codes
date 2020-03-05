@@ -1,0 +1,45 @@
+---
+BW:
+  continent: Africa
+  alpha2: BW
+  alpha3: BWA
+  countryCode: '267'
+  internationalNumberLengths: '00'
+  ioc: BOT
+  gec: BC
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  nationalPrefix: None
+  number: '072'
+  region: Africa
+  subregion: Southern Africa
+  worldRegion: EMEA
+  unLocode: BW
+  nationality: Motswana
+  postalCode: false
+  officialLanguages:
+  - en
+  - tn
+  spokenLanguages:
+  - en
+  - tn
+  geo:
+    latitude: -22.328474
+    latitudeDec: "-22.186752319335938"
+    longitude: 24.684866
+    longitudeDec: '23.81494140625'
+    maxLatitude: -17.778137
+    maxLongitude: 29.375304
+    minLatitude: -26.907545
+    minLongitude: 19.998903
+    bounds:
+      northeast:
+        lat: -17.778137
+        lng: 29.375304
+      southwest:
+        lat: -26.907545
+        lng: 19.998903
+  currencyCode: BWP
+  startOfWeek: monday

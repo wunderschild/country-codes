@@ -1,0 +1,47 @@
+---
+LS:
+  continent: Africa
+  alpha2: LS
+  alpha3: LSO
+  altCurrency: ZAR
+  countryCode: '266'
+  internationalNumberLengths: '00'
+  ioc: LES
+  gec: LT
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: None
+  number: '426'
+  region: Africa
+  subregion: Southern Africa
+  worldRegion: EMEA
+  unLocode: LS
+  nationality: Mosotho
+  postalCode: true
+  postalCodeFormat: "\\d{3}"
+  officialLanguages:
+  - en
+  - st
+  spokenLanguages:
+  - en
+  - st
+  geo:
+    latitude: -29.609988
+    latitudeDec: "-29.58175277709961"
+    longitude: 28.233608
+    longitudeDec: '28.246612548828125'
+    maxLatitude: -28.5708011
+    maxLongitude: 29.4557087
+    minLatitude: -30.6755788
+    minLongitude: 27.011231
+    bounds:
+      northeast:
+        lat: -28.5708011
+        lng: 29.4557087
+      southwest:
+        lat: -30.6755788
+        lng: 27.011231
+  currencyCode: LSL
+  startOfWeek: monday

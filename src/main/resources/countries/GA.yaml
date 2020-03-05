@@ -1,0 +1,45 @@
+---
+GA:
+  continent: Africa
+  alpha2: GA
+  alpha3: GAB
+  countryCode: '241'
+  internationalNumberLengths: '00'
+  ioc: GAB
+  gec: GB
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 6
+  - 7
+  - 8
+  nationalPrefix: None
+  number: '266'
+  region: Africa
+  subregion: Middle Africa
+  worldRegion: EMEA
+  unLocode: GA
+  nationality: Gabonese
+  postalCode: false
+  officialLanguages:
+  - fr
+  spokenLanguages:
+  - fr
+  geo:
+    latitude: -0.803689
+    latitudeDec: "-0.6345400810241699"
+    longitude: 11.609444
+    longitudeDec: '11.738608360290527'
+    maxLatitude: 2.318109
+    maxLongitude: 14.5269234
+    minLatitude: -4.1656
+    minLongitude: 8.421
+    bounds:
+      northeast:
+        lat: 2.318109
+        lng: 14.5269234
+      southwest:
+        lat: -4.1656
+        lng: 8.421
+  currencyCode: XAF
+  startOfWeek: monday

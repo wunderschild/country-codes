@@ -1,0 +1,46 @@
+---
+AM:
+  continent: Asia
+  alpha2: AM
+  alpha3: ARM
+  countryCode: '374'
+  internationalNumberLengths: '00'
+  ioc: ARM
+  gec: AM
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: '8'
+  number: '051'
+  region: Asia
+  subregion: Western Asia
+  worldRegion: EMEA
+  unLocode: AM
+  nationality: Armenian
+  postalCode: true
+  postalCodeFormat: "(?:37)?\\d{4}"
+  officialLanguages:
+  - hy
+  - ru
+  spokenLanguages:
+  - hy
+  - ru
+  geo:
+    latitude: 40.069099
+    latitudeDec: '40.29266357421875'
+    longitude: 45.038189
+    longitudeDec: '44.93947219848633'
+    maxLatitude: 41.300993
+    maxLongitude: 46.634222
+    minLatitude: 38.840244
+    minLongitude: 43.4472601
+    bounds:
+      northeast:
+        lat: 41.300993
+        lng: 46.634222
+      southwest:
+        lat: 38.840244
+        lng: 43.4472601
+  currencyCode: AMD
+  startOfWeek: monday

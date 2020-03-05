@@ -1,0 +1,44 @@
+---
+MU:
+  continent: Africa
+  alpha2: MU
+  alpha3: MUS
+  countryCode: '230'
+  internationalNumberLengths: '020'
+  ioc: MRI
+  gec: MP
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  nationalPrefix: None
+  number: '480'
+  region: Africa
+  subregion: Eastern Africa
+  worldRegion: EMEA
+  unLocode: MU
+  nationality: Mauritian
+  postalCode: true
+  postalCodeFormat: "\\d{3}(?:\\d{2}|[A-Z]{2}\\d{3})"
+  officialLanguages:
+  - en
+  spokenLanguages:
+  - en
+  geo:
+    latitude: -20.348404
+    latitudeDec: "-20.220409393310547"
+    longitude: 57.55215200000001
+    longitudeDec: '57.589378356933594'
+    maxLatitude: -10.0878538
+    maxLongitude: 63.80859390000001
+    minLatitude: -20.7458403
+    minLongitude: 56.3159179
+    bounds:
+      northeast:
+        lat: -10.0878538
+        lng: 63.80859390000001
+      southwest:
+        lat: -20.7458403
+        lng: 56.3159179
+  currencyCode: MUR
+  startOfWeek: monday

@@ -1,0 +1,57 @@
+---
+NZ:
+  continent: Australia
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{region}}
+    {{city}} {{postalcode}}
+    {{country}}
+  alpha2: NZ
+  alpha3: NZL
+  countryCode: '64'
+  internationalNumberLengths: '00'
+  ioc: NZL
+  gec: NZ
+  nationalDestinationCodeLengths:
+  - 1
+  nationalNumberLengths:
+  - 8
+  - 9
+  nationalPrefix: '0'
+  number: '554'
+  region: Oceania
+  subregion: Australia and New Zealand
+  worldRegion: APAC
+  unLocode: NZ
+  nationality: New Zealander
+  vatRates:
+    standard: 15
+    reduced:
+    - 9
+    superReduced:
+    parking: 
+  postalCode: true
+  postalCodeFormat: "\\d{4}"
+  officialLanguages:
+  - en
+  spokenLanguages:
+  - en
+  geo:
+    latitude: -40.900557
+    latitudeDec: "-44.05629348754883"
+    longitude: 174.885971
+    longitudeDec: '170.35415649414062'
+    maxLatitude: -28.8773225
+    maxLongitude: -175.1235077
+    minLatitude: -52.7224663
+    minLongitude: 165.7437641
+    bounds:
+      northeast:
+        lat: -28.8773225
+        lng: -175.1235077
+      southwest:
+        lat: -52.7224663
+        lng: 165.7437641
+  currencyCode: NZD
+  startOfWeek: monday

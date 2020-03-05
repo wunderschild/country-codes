@@ -1,0 +1,46 @@
+---
+CX:
+  continent: Asia
+  alpha2: CX
+  alpha3: CXR
+  countryCode: '61'
+  internationalNumberLengths: '0011'
+  ioc: 
+  gec: KT
+  nationalDestinationCodeLengths: []
+  nationalNumberLengths: []
+  nationalPrefix: '0'
+  number: '162'
+  region: Oceania
+  subregion: Australia and New Zealand
+  worldRegion: APAC
+  unLocode: CX
+  nationality: Christmas Island
+  postalCode: true
+  postalCodeFormat: '6798'
+  officialLanguages:
+  - en
+  - zh
+  - ms
+  spokenLanguages:
+  - en
+  - zh
+  - ms
+  geo:
+    latitude: -10.447525
+    latitudeDec: "-10.490290641784668"
+    longitude: 105.690449
+    longitudeDec: '105.63275146484375'
+    maxLatitude: -10.412352
+    maxLongitude: 105.7129382
+    minLatitude: -10.5703619
+    minLongitude: 105.5333161
+    bounds:
+      northeast:
+        lat: -10.412352
+        lng: 105.7129382
+      southwest:
+        lat: -10.5703619
+        lng: 105.5333161
+  currencyCode: AUD
+  startOfWeek: monday

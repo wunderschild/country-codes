@@ -1,0 +1,42 @@
+---
+HM:
+  continent: Antarctica
+  alpha2: HM
+  alpha3: HMD
+  countryCode: ''
+  internationalNumberLengths: ''
+  ioc: 
+  gec: HM
+  nationalDestinationCodeLengths: []
+  nationalNumberLengths: []
+  nationalPrefix: ''
+  number: '334'
+  region: ''
+  subregion: ''
+  unLocode: HM
+  nationality: Heard and McDonald Islander
+  postalCode: true
+  postalCodeFormat: "\\d{4}"
+  worldRegion: APAC
+  officialLanguages:
+  - en
+  spokenLanguages:
+  - en
+  geo:
+    latitude: -53.08181
+    latitudeDec: "-53.080108642578125"
+    longitude: 73.50415799999999
+    longitudeDec: '73.56218719482422'
+    maxLatitude: -52.9609444
+    maxLongitude: 73.7792016
+    minLatitude: -53.19168759999999
+    minLongitude: 73.25065599999999
+    bounds:
+      northeast:
+        lat: -52.9609444
+        lng: 73.7792016
+      southwest:
+        lat: -53.19168759999999
+        lng: 73.25065599999999
+  currencyCode: AUD
+  startOfWeek: monday

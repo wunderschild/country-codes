@@ -1,0 +1,46 @@
+---
+VA:
+  continent: Europe
+  alpha2: VA
+  alpha3: VAT
+  countryCode: '39'
+  internationalNumberLengths: '00'
+  ioc: 
+  gec: VT
+  nationalDestinationCodeLengths:
+  - 3
+  nationalNumberLengths:
+  - 9
+  nationalPrefix: None
+  number: '336'
+  region: Europe
+  subregion: Southern Europe
+  worldRegion: EMEA
+  unLocode: VA
+  nationality: Italian
+  postalCode: true
+  postalCodeFormat: '00120'
+  officialLanguages:
+  - it
+  - la
+  spokenLanguages:
+  - it
+  - la
+  geo:
+    latitude: 41.902916
+    latitudeDec: '41.90308380126953'
+    longitude: 12.453389
+    longitudeDec: '12.452852249145508'
+    maxLatitude: 41.90744309999999
+    maxLongitude: 12.4583938
+    minLatitude: 41.9001896
+    minLongitude: 12.4457286
+    bounds:
+      northeast:
+        lat: 41.90744309999999
+        lng: 12.4583938
+      southwest:
+        lat: 41.9001896
+        lng: 12.4457286
+  currencyCode: EUR
+  startOfWeek: monday

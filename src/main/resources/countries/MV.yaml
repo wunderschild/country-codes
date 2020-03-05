@@ -1,0 +1,44 @@
+---
+MV:
+  continent: Asia
+  alpha2: MV
+  alpha3: MDV
+  countryCode: '960'
+  internationalNumberLengths: '00'
+  ioc: MDV
+  gec: MV
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  nationalPrefix: None
+  number: '462'
+  region: Asia
+  subregion: Southern Asia
+  worldRegion: APAC
+  unLocode: MV
+  nationality: Maldivan
+  postalCode: true
+  postalCodeFormat: "\\d{5}"
+  officialLanguages:
+  - dv
+  spokenLanguages:
+  - dv
+  geo:
+    latitude: 1.977247
+    latitudeDec: '4.185884952545166'
+    longitude: 73.5361035
+    longitudeDec: '73.53071594238281'
+    maxLatitude: 7.5149809
+    maxLongitude: 74.7290038
+    minLatitude: -1.2907844
+    minLongitude: 71.75170899999999
+    bounds:
+      northeast:
+        lat: 7.5149809
+        lng: 74.7290038
+      southwest:
+        lat: -1.2907844
+        lng: 71.75170899999999
+  currencyCode: MVR
+  startOfWeek: sunday

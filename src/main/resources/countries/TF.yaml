@@ -1,0 +1,41 @@
+---
+TF:
+  continent: Antarctica
+  alpha2: TF
+  alpha3: ATF
+  countryCode: '262'
+  internationalNumberLengths: ''
+  ioc: 
+  gec: FS
+  nationalDestinationCodeLengths: []
+  nationalNumberLengths: []
+  nationalPrefix: ''
+  number: '260'
+  region: ''
+  subregion: ''
+  unLocode: TF
+  nationality: French
+  postalCode: false
+  worldRegion: APAC
+  officialLanguages:
+  - fr
+  spokenLanguages:
+  - fr
+  geo:
+    latitude: -49.280366
+    latitudeDec: "-49.563865661621094"
+    longitude: 69.348557
+    longitudeDec: '69.54277801513672'
+    maxLatitude: -48.4036793
+    maxLongitude: 70.6558228
+    minLatitude: -50.0641918
+    minLongitude: 68.4832763
+    bounds:
+      northeast:
+        lat: -48.4036793
+        lng: 70.6558228
+      southwest:
+        lat: -50.0641918
+        lng: 68.4832763
+  currencyCode: EUR
+  startOfWeek: monday

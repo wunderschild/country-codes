@@ -1,0 +1,46 @@
+---
+MG:
+  continent: Africa
+  alpha2: MG
+  alpha3: MDG
+  countryCode: '261'
+  internationalNumberLengths: '00'
+  ioc: MAD
+  gec: MA
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 9
+  nationalPrefix: None
+  number: '450'
+  region: Africa
+  subregion: Eastern Africa
+  worldRegion: EMEA
+  unLocode: MG
+  nationality: Malagasy
+  postalCode: true
+  postalCodeFormat: "\\d{3}"
+  officialLanguages:
+  - fr
+  - mg
+  spokenLanguages:
+  - fr
+  - mg
+  geo:
+    latitude: -18.766947
+    latitudeDec: "-19.27239418029785"
+    longitude: 46.869107
+    longitudeDec: '46.69843292236328'
+    maxLatitude: -11.4369999
+    maxLongitude: 50.9985001
+    minLatitude: -26.2146
+    minLongitude: 42.7368
+    bounds:
+      northeast:
+        lat: -11.4369999
+        lng: 50.9985001
+      southwest:
+        lat: -26.2146
+        lng: 42.7368
+  currencyCode: MGA
+  startOfWeek: monday

@@ -1,0 +1,47 @@
+---
+PK:
+  continent: Asia
+  alpha2: PK
+  alpha3: PAK
+  countryCode: '92'
+  internationalNumberLengths: '00'
+  ioc: PAK
+  gec: PK
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 9
+  - 10
+  nationalPrefix: '0'
+  number: '586'
+  region: Asia
+  subregion: Southern Asia
+  worldRegion: APAC
+  unLocode: PK
+  nationality: Pakistani
+  postalCode: true
+  postalCodeFormat: "\\d{5}"
+  officialLanguages:
+  - en
+  - ur
+  spokenLanguages:
+  - en
+  - ur
+  geo:
+    latitude: 30.375321
+    latitudeDec: '29.923219680786133'
+    longitude: 69.34511599999999
+    longitudeDec: '69.35774230957031'
+    maxLatitude: 37.084107
+    maxLongitude: 77.8316195
+    minLatitude: 23.6344999
+    minLongitude: 60.8729721
+    bounds:
+      northeast:
+        lat: 37.084107
+        lng: 77.8316195
+      southwest:
+        lat: 23.6344999
+        lng: 60.8729721
+  currencyCode: PKR
+  startOfWeek: monday

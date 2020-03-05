@@ -1,0 +1,57 @@
+---
+SI:
+  continent: Europe
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{postalcode}} {{city}}
+    {{country}}
+  alpha2: SI
+  alpha3: SVN
+  countryCode: '386'
+  internationalNumberLengths: '00'
+  ioc: SLO
+  gec: SI
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: '0'
+  number: '705'
+  region: Europe
+  subregion: Southern Europe
+  worldRegion: EMEA
+  unLocode: SI
+  nationality: Slovene
+  euMember: true
+  eeaMember: true
+  vatRates:
+    standard: 22
+    reduced:
+    - 9.5
+    superReduced:
+    parking: 
+  postalCode: true
+  postalCodeFormat: "\\d{4}"
+  officialLanguages:
+  - sl
+  spokenLanguages:
+  - sl
+  geo:
+    latitude: 46.151241
+    latitudeDec: '46.1202392578125'
+    longitude: 14.995463
+    longitudeDec: '14.820664405822754'
+    maxLatitude: 46.876659
+    maxLongitude: 16.6107039
+    minLatitude: 45.4218356
+    minLongitude: 13.3753355
+    bounds:
+      northeast:
+        lat: 46.876659
+        lng: 16.6107039
+      southwest:
+        lat: 45.4218356
+        lng: 13.3753355
+  currencyCode: EUR
+  startOfWeek: monday

@@ -1,0 +1,44 @@
+---
+SJ:
+  continent: Europe
+  alpha2: SJ
+  alpha3: SJM
+  countryCode: '47'
+  internationalNumberLengths: '00'
+  ioc: 
+  gec: SV
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: None
+  number: '744'
+  region: Europe
+  subregion: Northern Europe
+  worldRegion: EMEA
+  unLocode: SJ
+  nationality: Norwegian
+  postalCode: true
+  postalCodeFormat: "\\d{4}"
+  officialLanguages:
+  - 'no'
+  spokenLanguages:
+  - 'no'
+  geo:
+    latitude: 77.55360399999999
+    latitudeDec: '71.04893493652344'
+    longitude: 23.670272
+    longitudeDec: "-8.195747375488281"
+    maxLatitude: 80.92842569999999
+    maxLongitude: 34.804688
+    minLatitude: 70.4662074
+    minLongitude: -10.5468751
+    bounds:
+      northeast:
+        lat: 80.92842569999999
+        lng: 34.804688
+      southwest:
+        lat: 70.4662074
+        lng: -10.5468751
+  currencyCode: NOK
+  startOfWeek: monday

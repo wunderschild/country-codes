@@ -1,0 +1,44 @@
+---
+KN:
+  continent: North America
+  alpha2: KN
+  alpha3: KNA
+  countryCode: '1'
+  nanpPrefix: '1869'
+  internationalNumberLengths: '011'
+  ioc: SKN
+  gec: SC
+  nationalDestinationCodeLengths:
+  - 3
+  nationalNumberLengths:
+  - 10
+  nationalPrefix: '1'
+  number: '659'
+  region: Americas
+  subregion: Caribbean
+  worldRegion: AMER
+  unLocode: KN
+  nationality: Kittian and Nevisian
+  postalCode: false
+  officialLanguages:
+  - en
+  spokenLanguages:
+  - en
+  geo:
+    latitude: 17.357822
+    latitudeDec: '17.24447250366211'
+    longitude: -62.782998
+    longitudeDec: "-62.643184661865234"
+    maxLatitude: 17.4205891
+    maxLongitude: -62.52369989999999
+    minLatitude: 17.07861
+    minLongitude: -62.86949999999999
+    bounds:
+      northeast:
+        lat: 17.4205891
+        lng: -62.52369989999999
+      southwest:
+        lat: 17.07861
+        lng: -62.86949999999999
+  currencyCode: XCD
+  startOfWeek: monday

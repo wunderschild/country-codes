@@ -1,0 +1,44 @@
+---
+NF:
+  continent: Australia
+  alpha2: NF
+  alpha3: NFK
+  countryCode: '672'
+  internationalNumberLengths: '00'
+  ioc: 
+  gec: NF
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 6
+  nationalPrefix: None
+  number: '574'
+  region: Oceania
+  subregion: Australia and New Zealand
+  worldRegion: APAC
+  unLocode: NF
+  nationality: Norfolk Islander
+  postalCode: true
+  postalCodeFormat: '2899'
+  officialLanguages:
+  - en
+  spokenLanguages:
+  - en
+  geo:
+    latitude: -29.040835
+    latitudeDec: "-29.036962509155273"
+    longitude: 167.954712
+    longitudeDec: '167.95523071289062'
+    maxLatitude: -28.9929014
+    maxLongitude: 167.9985523
+    minLatitude: -29.137506
+    minLongitude: 167.9134083
+    bounds:
+      northeast:
+        lat: -28.9929014
+        lng: 167.9985523
+      southwest:
+        lat: -29.137506
+        lng: 167.9134083
+  currencyCode: AUD
+  startOfWeek: monday

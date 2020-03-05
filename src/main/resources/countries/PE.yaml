@@ -1,0 +1,45 @@
+---
+PE:
+  continent: South America
+  alpha2: PE
+  alpha3: PER
+  countryCode: '51'
+  internationalNumberLengths: '00'
+  ioc: PER
+  gec: PE
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  - 9
+  nationalPrefix: '0'
+  number: '604'
+  region: Americas
+  subregion: South America
+  worldRegion: AMER
+  unLocode: PE
+  nationality: Peruvian
+  postalCode: true
+  postalCodeFormat: "(?:LIMA \\d{1,2}|CALLAO 0?\\d)|[0-2]\\d{4}"
+  officialLanguages:
+  - es
+  spokenLanguages:
+  - es
+  geo:
+    latitude: -9.189967
+    latitudeDec: "-9.212532997131348"
+    longitude: -75.015152
+    longitudeDec: "-74.422119140625"
+    maxLatitude: -0.038777
+    maxLongitude: -68.652329
+    minLatitude: -18.4483
+    minLongitude: -81.3867001
+    bounds:
+      northeast:
+        lat: -0.038777
+        lng: -68.652329
+      southwest:
+        lat: -18.4483
+        lng: -81.3867001
+  currencyCode: PEN
+  startOfWeek: monday

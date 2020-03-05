@@ -1,0 +1,44 @@
+---
+MQ:
+  continent: North America
+  alpha2: MQ
+  alpha3: MTQ
+  countryCode: '596'
+  internationalNumberLengths: '00'
+  ioc: 
+  gec: MB
+  nationalDestinationCodeLengths:
+  - 3
+  nationalNumberLengths:
+  - 10
+  nationalPrefix: None
+  number: '474'
+  region: Americas
+  subregion: Caribbean
+  worldRegion: AMER
+  unLocode: MQ
+  nationality: French
+  postalCode: true
+  postalCodeFormat: 9[78]2\d{2}
+  officialLanguages:
+  - fr
+  spokenLanguages:
+  - fr
+  geo:
+    latitude: 14.641528
+    latitudeDec: '14.642807960510254'
+    longitude: -61.024174
+    longitudeDec: "-60.97755432128906"
+    maxLatitude: 14.8973451
+    maxLongitude: -60.7856368
+    minLatitude: 14.370834
+    minLongitude: -61.24191279999999
+    bounds:
+      northeast:
+        lat: 14.8973451
+        lng: -60.7856368
+      southwest:
+        lat: 14.370834
+        lng: -61.24191279999999
+  currencyCode: EUR
+  startOfWeek: monday

@@ -1,0 +1,53 @@
+---
+BA:
+  continent: Europe
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{postalcode}} {{city}}
+    {{country}}
+  alpha2: BA
+  alpha3: BIH
+  countryCode: '387'
+  internationalNumberLengths: '00'
+  ioc: BIH
+  gec: BK
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: '0'
+  number: '070'
+  region: Europe
+  subregion: Southern Europe
+  worldRegion: EMEA
+  unLocode: BA
+  nationality: Bosnian, Herzegovinian
+  postalCode: true
+  postalCodeFormat: "\\d{5}"
+  officialLanguages:
+  - bs
+  - hr
+  - sr
+  spokenLanguages:
+  - bs
+  - hr
+  - sr
+  geo:
+    latitude: 43.915886
+    latitudeDec: '44.16533279418945'
+    longitude: 17.679076
+    longitudeDec: '17.790241241455078'
+    maxLatitude: 45.2766262
+    maxLongitude: 19.621935
+    minLatitude: 42.5564516
+    minLongitude: 15.7223665
+    bounds:
+      northeast:
+        lat: 45.2766262
+        lng: 19.621935
+      southwest:
+        lat: 42.5564516
+        lng: 15.7223665
+  currencyCode: BAM
+  startOfWeek: monday

@@ -1,0 +1,44 @@
+---
+DM:
+  continent: North America
+  alpha2: DM
+  alpha3: DMA
+  countryCode: '1'
+  nanpPrefix: '1767'
+  internationalNumberLengths: '011'
+  ioc: DMA
+  gec: DO
+  nationalDestinationCodeLengths:
+  - 3
+  nationalNumberLengths:
+  - 10
+  nationalPrefix: '1'
+  number: '212'
+  region: Americas
+  subregion: Caribbean
+  worldRegion: AMER
+  unLocode: DM
+  nationality: Dominican
+  postalCode: false
+  officialLanguages:
+  - en
+  spokenLanguages:
+  - en
+  geo:
+    latitude: 15.414999
+    latitudeDec: '15.3991060256958'
+    longitude: -61.37097600000001
+    longitudeDec: "-61.33945846557617"
+    maxLatitude: 15.6485199
+    maxLongitude: -61.23090180000001
+    minLatitude: 15.2042266
+    minLongitude: -61.484108
+    bounds:
+      northeast:
+        lat: 15.6485199
+        lng: -61.23090180000001
+      southwest:
+        lat: 15.2042266
+        lng: -61.484108
+  currencyCode: XCD
+  startOfWeek: monday

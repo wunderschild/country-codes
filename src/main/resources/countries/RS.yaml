@@ -1,0 +1,44 @@
+---
+RS:
+  continent: Europe
+  alpha2: RS
+  alpha3: SRB
+  countryCode: '381'
+  internationalNumberLengths: '99'
+  ioc: SRB
+  gec: RI
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 9
+  nationalPrefix: '0'
+  number: '688'
+  region: Europe
+  subregion: Southern Europe
+  worldRegion: EMEA
+  unLocode: RS
+  nationality: Serbian
+  postalCode: true
+  postalCodeFormat: "\\d{5,6}"
+  officialLanguages:
+  - sr
+  spokenLanguages:
+  - sr
+  geo:
+    latitude: 44.016521
+    latitudeDec: '44.23297119140625'
+    longitude: 21.005859
+    longitudeDec: '20.797958374023438'
+    maxLatitude: 46.190032
+    maxLongitude: 23.0063095
+    minLatitude: 42.2315029
+    minLongitude: 18.8385221
+    bounds:
+      northeast:
+        lat: 46.190032
+        lng: 23.0063095
+      southwest:
+        lat: 42.2315029
+        lng: 18.8385221
+  currencyCode: RSD
+  startOfWeek: monday

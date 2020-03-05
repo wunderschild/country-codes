@@ -1,0 +1,48 @@
+---
+PS:
+  continent: Asia
+  alpha2: PS
+  alpha3: PSE
+  altCurrency: EGP
+  countryCode: '970'
+  internationalNumberLengths: '00'
+  ioc: PLE
+  gec: WE
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: '0'
+  number: '275'
+  region: Asia
+  subregion: Western Asia
+  worldRegion: EMEA
+  unLocode: PS
+  nationality: Palestinian
+  postalCode: false
+  officialLanguages:
+  - ar
+  - he
+  - en
+  spokenLanguages:
+  - ar
+  - he
+  - en
+  geo:
+    latitude: 31.952162
+    latitudeDec: '31.946392059326172'
+    longitude: 35.233154
+    longitudeDec: '35.259735107421875'
+    maxLatitude: 32.5520999
+    maxLongitude: 35.5740521
+    minLatitude: 31.219691
+    minLongitude: 34.21010010000001
+    bounds:
+      northeast:
+        lat: 32.5520999
+        lng: 35.5740521
+      southwest:
+        lat: 31.219691
+        lng: 34.21010010000001
+  currencyCode: ILS
+  startOfWeek: sunday

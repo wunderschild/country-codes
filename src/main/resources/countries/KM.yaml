@@ -1,0 +1,45 @@
+---
+KM:
+  continent: Africa
+  alpha2: KM
+  alpha3: COM
+  countryCode: '269'
+  internationalNumberLengths: '00'
+  ioc: COM
+  gec: CN
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  nationalPrefix: None
+  number: '174'
+  region: Africa
+  subregion: Eastern Africa
+  worldRegion: EMEA
+  unLocode: KM
+  nationality: Comoran
+  postalCode: false
+  officialLanguages:
+  - ar
+  - fr
+  spokenLanguages:
+  - ar
+  - fr
+  geo:
+    latitude: -11.6455
+    latitudeDec: "-11.86610221862793"
+    longitude: 43.3333
+    longitudeDec: '43.432640075683594'
+    maxLatitude: -11.3373321
+    maxLongitude: 44.5646666
+    minLatitude: -12.4687602
+    minLongitude: 43.1968689
+    bounds:
+      northeast:
+        lat: -11.3373321
+        lng: 44.5646666
+      southwest:
+        lat: -12.4687602
+        lng: 43.1968689
+  currencyCode: KMF
+  startOfWeek: monday

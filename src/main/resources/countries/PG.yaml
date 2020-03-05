@@ -1,0 +1,44 @@
+---
+PG:
+  continent: Australia
+  alpha2: PG
+  alpha3: PNG
+  countryCode: '675'
+  internationalNumberLengths: '05'
+  ioc: PNG
+  gec: PP
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  nationalPrefix: None
+  number: '598'
+  region: Oceania
+  subregion: Melanesia
+  worldRegion: APAC
+  unLocode: PG
+  nationality: Papua New Guinean
+  postalCode: true
+  postalCodeFormat: "\\d{3}"
+  officialLanguages:
+  - en
+  spokenLanguages:
+  - en
+  geo:
+    latitude: -6.314992999999999
+    latitudeDec: "-6.889159679412842"
+    longitude: 143.95555
+    longitudeDec: '146.21444702148438'
+    maxLatitude: -0.6702
+    maxLongitude: 159.9609001
+    minLatitude: -12.0823
+    minLongitude: 140.8419695
+    bounds:
+      northeast:
+        lat: -0.6702
+        lng: 159.9609001
+      southwest:
+        lat: -12.0823
+        lng: 140.8419695
+  currencyCode: PGK
+  startOfWeek: monday

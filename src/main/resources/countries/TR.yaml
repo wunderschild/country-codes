@@ -1,0 +1,49 @@
+---
+TR:
+  continent: Europe
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{postalcode}} {{city}}
+    {{country}}
+  alpha2: TR
+  alpha3: TUR
+  countryCode: '90'
+  internationalNumberLengths: '00'
+  ioc: TUR
+  gec: TU
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 10
+  nationalPrefix: '0'
+  number: '792'
+  region: Asia
+  subregion: Western Asia
+  worldRegion: EMEA
+  unLocode: TR
+  nationality: Turkish
+  postalCode: true
+  postalCodeFormat: "\\d{5}"
+  officialLanguages:
+  - tr
+  spokenLanguages:
+  - tr
+  geo:
+    latitude: 38.963745
+    latitudeDec: '39.05101013183594'
+    longitude: 35.243322
+    longitudeDec: '34.93033981323242'
+    maxLatitude: 42.3666999
+    maxLongitude: 44.8178449
+    minLatitude: 35.808592
+    minLongitude: 25.5377
+    bounds:
+      northeast:
+        lat: 42.3666999
+        lng: 44.8178449
+      southwest:
+        lat: 35.808592
+        lng: 25.5377
+  currencyCode: TRY
+  startOfWeek: monday

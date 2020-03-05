@@ -1,0 +1,49 @@
+---
+GL:
+  continent: North America
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{postalcode}} {{city}}
+    {{country}}
+  alpha2: GL
+  alpha3: GRL
+  countryCode: '299'
+  internationalNumberLengths: '009'
+  ioc: 
+  gec: GL
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 6
+  nationalPrefix: None
+  number: '304'
+  region: Americas
+  subregion: Northern America
+  worldRegion: EMEA
+  unLocode: GL
+  nationality: Greenlandic
+  postalCode: true
+  postalCodeFormat: 39\d{2}
+  officialLanguages:
+  - kl
+  spokenLanguages:
+  - kl
+  geo:
+    latitude: 71.706936
+    latitudeDec: '74.34954833984375'
+    longitude: -42.604303
+    longitudeDec: "-41.08988952636719"
+    maxLatitude: 83.97025599999999
+    maxLongitude: -8.2617197
+    minLatitude: 58.26329
+    minLongitude: -73.8281197
+    bounds:
+      northeast:
+        lat: 83.97025599999999
+        lng: -8.2617197
+      southwest:
+        lat: 58.26329
+        lng: -73.8281197
+  currencyCode: DKK
+  startOfWeek: monday

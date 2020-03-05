@@ -1,0 +1,44 @@
+---
+KP:
+  continent: Asia
+  alpha2: KP
+  alpha3: PRK
+  countryCode: '850'
+  internationalNumberLengths: '00'
+  ioc: PRK
+  gec: KN
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  - 9
+  nationalPrefix: '0'
+  number: '408'
+  region: Asia
+  subregion: Eastern Asia
+  worldRegion: APAC
+  unLocode: KP
+  nationality: North Korean
+  postalCode: false
+  officialLanguages:
+  - ko
+  spokenLanguages:
+  - ko
+  geo:
+    latitude: 40.339852
+    latitudeDec: '40.077640533447266'
+    longitude: 127.510093
+    longitudeDec: '127.13385009765625'
+    maxLatitude: 43.01159
+    maxLongitude: 130.6990167
+    minLatitude: 37.5892001
+    minLongitude: 124.1718463
+    bounds:
+      northeast:
+        lat: 43.01159
+        lng: 130.6990167
+      southwest:
+        lat: 37.5892001
+        lng: 124.1718463
+  currencyCode: KPW
+  startOfWeek: monday

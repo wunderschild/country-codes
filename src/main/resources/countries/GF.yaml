@@ -1,0 +1,44 @@
+---
+GF:
+  continent: South America
+  alpha2: GF
+  alpha3: GUF
+  countryCode: '594'
+  internationalNumberLengths: '00'
+  ioc: 
+  gec: FG
+  nationalDestinationCodeLengths:
+  - 3
+  nationalNumberLengths:
+  - 10
+  nationalPrefix: None
+  number: '254'
+  region: Americas
+  subregion: South America
+  worldRegion: AMER
+  unLocode: GF
+  nationality: French Guianan
+  postalCode: true
+  postalCodeFormat: 9[78]3\d{2}
+  officialLanguages:
+  - fr
+  spokenLanguages:
+  - fr
+  geo:
+    latitude: 3.933889
+    latitudeDec: '4.069991111755371'
+    longitude: -53.125782
+    longitudeDec: "-53.16830825805664"
+    maxLatitude: 5.9548
+    maxLongitude: -51.6164491
+    minLatitude: 2.109287
+    minLongitude: -54.5544379
+    bounds:
+      northeast:
+        lat: 5.9548
+        lng: -51.6164491
+      southwest:
+        lat: 2.109287
+        lng: -54.5544379
+  currencyCode: EUR
+  startOfWeek: monday

@@ -1,0 +1,44 @@
+---
+GD:
+  continent: North America
+  alpha2: GD
+  alpha3: GRD
+  countryCode: '1'
+  nanpPrefix: '1473'
+  internationalNumberLengths: '011'
+  ioc: GRN
+  gec: GJ
+  nationalDestinationCodeLengths:
+  - 3
+  nationalNumberLengths:
+  - 10
+  nationalPrefix: '1'
+  number: '308'
+  region: Americas
+  subregion: Caribbean
+  worldRegion: AMER
+  unLocode: GD
+  nationality: Grenadian
+  postalCode: false
+  officialLanguages:
+  - en
+  spokenLanguages:
+  - en
+  geo:
+    latitude: 12.1165
+    latitudeDec: '12.178866386413574'
+    longitude: -61.67899999999999
+    longitudeDec: "-61.64693069458008"
+    maxLatitude: 12.5367
+    maxLongitude: -61.3746999
+    minLatitude: 11.9829051
+    minLongitude: -61.80589999999999
+    bounds:
+      northeast:
+        lat: 12.5367
+        lng: -61.3746999
+      southwest:
+        lat: 11.9829051
+        lng: -61.80589999999999
+  currencyCode: XCD
+  startOfWeek: monday

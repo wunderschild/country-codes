@@ -1,0 +1,45 @@
+---
+CF:
+  continent: Africa
+  alpha2: CF
+  alpha3: CAF
+  countryCode: '236'
+  internationalNumberLengths: '00'
+  ioc: CAF
+  gec: CT
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: None
+  number: '140'
+  region: Africa
+  subregion: Middle Africa
+  worldRegion: EMEA
+  unLocode: CF
+  nationality: Central African
+  postalCode: false
+  officialLanguages:
+  - fr
+  - sg
+  spokenLanguages:
+  - fr
+  - sg
+  geo:
+    latitude: 6.611110999999999
+    latitudeDec: '6.574123382568359'
+    longitude: 20.939444
+    longitudeDec: '20.486923217773438'
+    maxLatitude: 11.0179569
+    maxLongitude: 27.4583049
+    minLatitude: 2.2208493
+    minLongitude: 14.4150981
+    bounds:
+      northeast:
+        lat: 11.0179569
+        lng: 27.4583049
+      southwest:
+        lat: 2.2208493
+        lng: 14.4150981
+  currencyCode: XAF
+  startOfWeek: monday

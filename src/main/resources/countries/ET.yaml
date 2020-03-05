@@ -1,0 +1,44 @@
+---
+ET:
+  continent: Africa
+  alpha2: ET
+  alpha3: ETH
+  countryCode: '251'
+  internationalNumberLengths: '00'
+  ioc: ETH
+  gec: ET
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 9
+  nationalPrefix: '0'
+  number: '231'
+  region: Africa
+  subregion: Eastern Africa
+  worldRegion: EMEA
+  unLocode: ET
+  nationality: Ethiopian
+  postalCode: true
+  postalCodeFormat: "\\d{4}"
+  officialLanguages:
+  - am
+  spokenLanguages:
+  - am
+  geo:
+    latitude: 9.145000000000001
+    latitudeDec: '8.626703262329102'
+    longitude: 40.489673
+    longitudeDec: '39.63755416870117'
+    maxLatitude: 14.8942141
+    maxLongitude: 48.0010561
+    minLatitude: 3.4041369
+    minLongitude: 32.997734
+    bounds:
+      northeast:
+        lat: 14.8942141
+        lng: 48.0010561
+      southwest:
+        lat: 3.4041369
+        lng: 32.997734
+  currencyCode: ETB
+  startOfWeek: monday

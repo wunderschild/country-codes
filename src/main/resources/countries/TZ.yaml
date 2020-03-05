@@ -1,0 +1,46 @@
+---
+TZ:
+  continent: Africa
+  alpha2: TZ
+  alpha3: TZA
+  countryCode: '255'
+  internationalNumberLengths: '000'
+  ioc: TAN
+  gec: TZ
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 9
+  nationalPrefix: '0'
+  number: '834'
+  region: Africa
+  subregion: Eastern Africa
+  worldRegion: EMEA
+  unLocode: TZ
+  nationality: Tanzanian
+  postalCode: true
+  postalCodeFormat: "\\d{4,5}"
+  officialLanguages:
+  - sw
+  - en
+  spokenLanguages:
+  - sw
+  - en
+  geo:
+    latitude: -6.369028
+    latitudeDec: "-6.306897163391113"
+    longitude: 34.888822
+    longitudeDec: '34.85392761230469'
+    maxLatitude: -0.984397
+    maxLongitude: 40.6398
+    minLatitude: -11.7612539
+    minLongitude: 29.34
+    bounds:
+      northeast:
+        lat: -0.984397
+        lng: 40.6398
+      southwest:
+        lat: -11.7612539
+        lng: 29.34
+  currencyCode: TZS
+  startOfWeek: monday

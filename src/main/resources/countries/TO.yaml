@@ -1,0 +1,47 @@
+---
+TO:
+  continent: Australia
+  alpha2: TO
+  alpha3: TON
+  countryCode: '676'
+  internationalNumberLengths: '00'
+  ioc: TGA
+  gec: TN
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 5
+  - 6
+  - 7
+  nationalPrefix: None
+  number: '776'
+  region: Oceania
+  subregion: Polynesia
+  worldRegion: APAC
+  unLocode: TO
+  nationality: Tongan
+  postalCode: false
+  officialLanguages:
+  - en
+  - to
+  spokenLanguages:
+  - en
+  - to
+  geo:
+    latitude: -21.178986
+    latitudeDec: "-21.147611618041992"
+    longitude: -175.198242
+    longitudeDec: "-175.25067138671875"
+    maxLatitude: -15.4060236
+    maxLongitude: -173.2543946
+    minLatitude: -21.8360059
+    minLongitude: -175.9570313
+    bounds:
+      northeast:
+        lat: -15.4060236
+        lng: -173.2543946
+      southwest:
+        lat: -21.8360059
+        lng: -175.9570313
+  currencyCode: TOP
+  startOfWeek: monday

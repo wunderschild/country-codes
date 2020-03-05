@@ -1,0 +1,55 @@
+---
+AE:
+  continent: Asia
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{postalcode}} {{city}}
+    {{country}}
+  alpha2: AE
+  alpha3: ARE
+  countryCode: '971'
+  internationalNumberLengths: '00'
+  ioc: UAE
+  gec: AE
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  - 8
+  - 9
+  nationalPrefix: '0'
+  number: '784'
+  region: Asia
+  subregion: Western Asia
+  worldRegion: EMEA
+  unLocode: AE
+  nationality: Emirian
+  vatRates:
+    standard: 5
+    reduced: []
+    superReduced:
+    parking: 
+  postalCode: false
+  officialLanguages:
+  - ar
+  spokenLanguages:
+  - ar
+  geo:
+    latitude: 23.424076
+    latitudeDec: '23.684776306152344'
+    longitude: 53.847818
+    longitudeDec: '54.536643981933594'
+    maxLatitude: 26.0765
+    maxLongitude: 56.4395001
+    minLatitude: 22.6315138
+    minLongitude: 51.4723
+    bounds:
+      northeast:
+        lat: 26.0765
+        lng: 56.4395001
+      southwest:
+        lat: 22.6315138
+        lng: 51.4723
+  currencyCode: AED
+  startOfWeek: sunday

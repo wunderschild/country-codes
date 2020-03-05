@@ -1,0 +1,47 @@
+---
+SO:
+  continent: Africa
+  alpha2: SO
+  alpha3: SOM
+  countryCode: '252'
+  internationalNumberLengths: '00'
+  ioc: SOM
+  gec: SO
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  - 8
+  nationalPrefix: None
+  number: '706'
+  region: Africa
+  subregion: Eastern Africa
+  worldRegion: EMEA
+  unLocode: SO
+  nationality: Somali
+  postalCode: true
+  postalCodeFormat: "[A-Z]{2} ?\\d{5}"
+  officialLanguages:
+  - so
+  - ar
+  spokenLanguages:
+  - so
+  - ar
+  geo:
+    latitude: 5.152149
+    latitudeDec: '5.948267459869385'
+    longitude: 46.199616
+    longitudeDec: '47.47360610961914'
+    maxLatitude: 12.3615
+    maxLongitude: 51.6138
+    minLatitude: -1.8673
+    minLongitude: 40.994373
+    bounds:
+      northeast:
+        lat: 12.3615
+        lng: 51.6138
+      southwest:
+        lat: -1.8673
+        lng: 40.994373
+  currencyCode: SOS
+  startOfWeek: monday

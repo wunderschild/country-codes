@@ -1,0 +1,45 @@
+---
+LI:
+  continent: Europe
+  alpha2: LI
+  alpha3: LIE
+  countryCode: '423'
+  internationalNumberLengths: '00'
+  ioc: LIE
+  gec: LS
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  nationalPrefix: None
+  number: '438'
+  region: Europe
+  subregion: Western Europe
+  worldRegion: EMEA
+  unLocode: LI
+  nationality: Liechtensteiner
+  eeaMember: true
+  postalCode: true
+  postalCodeFormat: 948[5-9]|949[0-8]
+  officialLanguages:
+  - de
+  spokenLanguages:
+  - de
+  geo:
+    latitude: 47.166
+    latitudeDec: '47.14126968383789'
+    longitude: 9.555373
+    longitudeDec: '9.552783012390137'
+    maxLatitude: 47.2705467
+    maxLongitude: 9.6356501
+    minLatitude: 47.04828999999999
+    minLongitude: 9.47162
+    bounds:
+      northeast:
+        lat: 47.2705467
+        lng: 9.6356501
+      southwest:
+        lat: 47.04828999999999
+        lng: 9.47162
+  currencyCode: CHF
+  startOfWeek: monday

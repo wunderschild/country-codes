@@ -1,0 +1,45 @@
+---
+SS:
+  continent: Africa
+  alpha2: SS
+  alpha3: SSD
+  countryCode: '211'
+  internationalNumberLengths: '0'
+  ioc: 
+  gec: OD
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 9
+  nationalPrefix: '0'
+  number: '728'
+  region: Africa
+  subregion: Northern Africa
+  worldRegion: EMEA
+  unLocode: SS
+  nationality: South Sudanese
+  postalCode: false
+  officialLanguages:
+  - ar
+  - en
+  spokenLanguages:
+  - ar
+  - en
+  geo:
+    latitude: 6.876991899999999
+    latitudeDec: '7.303858280181885'
+    longitude: 31.3069788
+    longitudeDec: '30.280752182006836'
+    maxLatitude: 12.236389
+    maxLongitude: 35.9489971
+    minLatitude: 3.48898
+    minLongitude: 23.4408491
+    bounds:
+      northeast:
+        lat: 12.236389
+        lng: 35.9489971
+      southwest:
+        lat: 3.48898
+        lng: 23.4408491
+  currencyCode: SSP
+  startOfWeek: sunday

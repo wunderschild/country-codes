@@ -1,0 +1,46 @@
+---
+HT:
+  continent: North America
+  alpha2: HT
+  alpha3: HTI
+  countryCode: '509'
+  internationalNumberLengths: '00'
+  ioc: HAI
+  gec: HA
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: None
+  number: '332'
+  region: Americas
+  subregion: Caribbean
+  worldRegion: AMER
+  unLocode: HT
+  nationality: Haitian
+  postalCode: true
+  postalCodeFormat: "\\d{4}"
+  officialLanguages:
+  - fr
+  - ht
+  spokenLanguages:
+  - fr
+  - ht
+  geo:
+    latitude: 18.971187
+    latitudeDec: '19.0732421875'
+    longitude: -72.285215
+    longitudeDec: "-72.24127960205078"
+    maxLatitude: 20.1282
+    maxLongitude: -71.621754
+    minLatitude: 17.9422
+    minLongitude: -74.6082
+    bounds:
+      northeast:
+        lat: 20.1282
+        lng: -71.621754
+      southwest:
+        lat: 17.9422
+        lng: -74.6082
+  currencyCode: HTG
+  startOfWeek: monday

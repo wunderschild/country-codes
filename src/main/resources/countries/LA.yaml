@@ -1,0 +1,44 @@
+---
+LA:
+  continent: Asia
+  alpha2: LA
+  alpha3: LAO
+  countryCode: '856'
+  internationalNumberLengths: '00'
+  ioc: LAO
+  gec: LA
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: '0'
+  number: '418'
+  region: Asia
+  subregion: South-Eastern Asia
+  worldRegion: APAC
+  unLocode: LA
+  nationality: Laotian
+  postalCode: true
+  postalCodeFormat: "\\d{5}"
+  officialLanguages:
+  - lo
+  spokenLanguages:
+  - lo
+  geo:
+    latitude: 19.85627
+    latitudeDec: '18.65074920654297'
+    longitude: 102.495496
+    longitudeDec: '104.15293884277344'
+    maxLatitude: 22.502872
+    maxLongitude: 107.69483
+    minLatitude: 13.90972
+    minLongitude: 100.0832139
+    bounds:
+      northeast:
+        lat: 22.502872
+        lng: 107.69483
+      southwest:
+        lat: 13.90972
+        lng: 100.0832139
+  currencyCode: LAK
+  startOfWeek: monday

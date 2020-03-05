@@ -1,0 +1,49 @@
+---
+AF:
+  continent: Asia
+  alpha2: AF
+  alpha3: AFG
+  countryCode: '93'
+  internationalNumberLengths: '00'
+  ioc: AFG
+  gec: AF
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  - 9
+  nationalPrefix: '0'
+  number: '004'
+  region: Asia
+  subregion: Southern Asia
+  worldRegion: APAC
+  unLocode: AF
+  nationality: Afghan
+  postalCode: true
+  postalCodeFormat: "\\d{4}"
+  officialLanguages:
+  - ps
+  - uz
+  - tk
+  spokenLanguages:
+  - ps
+  - uz
+  - tk
+  geo:
+    latitude: 33.93911
+    latitudeDec: '33.833248138427734'
+    longitude: 67.709953
+    longitudeDec: '66.02528381347656'
+    maxLatitude: 38.49087670000001
+    maxLongitude: 74.8898619
+    minLatitude: 29.3772
+    minLongitude: 60.5170005
+    bounds:
+      northeast:
+        lat: 38.49087670000001
+        lng: 74.8898619
+      southwest:
+        lat: 29.3772
+        lng: 60.5170005
+  currencyCode: AFN
+  startOfWeek: monday

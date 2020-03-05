@@ -1,0 +1,44 @@
+---
+KH:
+  continent: Asia
+  alpha2: KH
+  alpha3: KHM
+  countryCode: '855'
+  internationalNumberLengths: '00'
+  ioc: CAM
+  gec: CB
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 8
+  nationalPrefix: '0'
+  number: '116'
+  region: Asia
+  subregion: South-Eastern Asia
+  worldRegion: APAC
+  unLocode: KH
+  nationality: Cambodian
+  postalCode: true
+  postalCodeFormat: "\\d{5}"
+  officialLanguages:
+  - km
+  spokenLanguages:
+  - km
+  geo:
+    latitude: 12.565679
+    latitudeDec: '12.570423126220703'
+    longitude: 104.990963
+    longitudeDec: '104.81391143798828'
+    maxLatitude: 14.6901791
+    maxLongitude: 107.627687
+    minLatitude: 9.6007
+    minLongitude: 102.333542
+    bounds:
+      northeast:
+        lat: 14.6901791
+        lng: 107.627687
+      southwest:
+        lat: 9.6007
+        lng: 102.333542
+  currencyCode: KHR
+  startOfWeek: monday

@@ -1,0 +1,45 @@
+---
+KY:
+  continent: North America
+  alpha2: KY
+  alpha3: CYM
+  countryCode: '1'
+  nanpPrefix: '1345'
+  internationalNumberLengths: '011'
+  ioc: CAY
+  gec: CJ
+  nationalDestinationCodeLengths:
+  - 3
+  nationalNumberLengths:
+  - 10
+  nationalPrefix: '1'
+  number: '136'
+  region: Americas
+  subregion: Caribbean
+  worldRegion: AMER
+  unLocode: KY
+  nationality: Caymanian
+  postalCode: true
+  postalCodeFormat: KY\d-\d{4}
+  officialLanguages:
+  - en
+  spokenLanguages:
+  - en
+  geo:
+    latitude: 19.3133
+    latitudeDec: '19.308862686157227'
+    longitude: -81.2546
+    longitudeDec: "-81.25680541992188"
+    maxLatitude: 19.7616
+    maxLongitude: -79.7191
+    minLatitude: 19.2538999
+    minLongitude: -81.42940010000001
+    bounds:
+      northeast:
+        lat: 19.7616
+        lng: -79.7191
+      southwest:
+        lat: 19.2538999
+        lng: -81.42940010000001
+  currencyCode: KYD
+  startOfWeek: monday

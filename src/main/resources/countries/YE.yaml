@@ -1,0 +1,50 @@
+---
+YE:
+  continent: Asia
+  addressFormat: |-
+    {{recipient}}
+    {{street}}
+    {{postalcode}} {{city}}
+    {{country}}
+  alpha2: YE
+  alpha3: YEM
+  countryCode: '967'
+  internationalNumberLengths: '00'
+  ioc: YEM
+  gec: YM
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 7
+  - 8
+  - 9
+  nationalPrefix: '0'
+  number: '887'
+  region: Asia
+  subregion: Western Asia
+  worldRegion: EMEA
+  unLocode: YE
+  nationality: Yemeni
+  postalCode: false
+  officialLanguages:
+  - ar
+  spokenLanguages:
+  - ar
+  geo:
+    latitude: 15.552727
+    latitudeDec: '15.888387680053711'
+    longitude: 48.516388
+    longitudeDec: '47.48988723754883'
+    maxLatitude: 18.9996331
+    maxLongitude: 54.67899999999999
+    minLatitude: 11.7975
+    minLongitude: 41.70959999999999
+    bounds:
+      northeast:
+        lat: 18.9996331
+        lng: 54.67899999999999
+      southwest:
+        lat: 11.7975
+        lng: 41.70959999999999
+  currencyCode: YER
+  startOfWeek: sunday

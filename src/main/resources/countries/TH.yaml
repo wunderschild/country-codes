@@ -1,0 +1,51 @@
+---
+TH:
+  continent: Asia
+  alpha2: TH
+  alpha3: THA
+  countryCode: '66'
+  internationalNumberLengths: '001'
+  ioc: THA
+  gec: TH
+  nationalDestinationCodeLengths:
+  - 2
+  nationalNumberLengths:
+  - 9
+  - 10
+  nationalPrefix: '0'
+  number: '764'
+  region: Asia
+  subregion: South-Eastern Asia
+  worldRegion: APAC
+  unLocode: TH
+  nationality: Thai
+  vatRates:
+    standard: 7
+    reduced:
+    - 0
+    superReduced:
+    parking: 
+  postalCode: true
+  postalCodeFormat: "\\d{5}"
+  officialLanguages:
+  - th
+  spokenLanguages:
+  - th
+  geo:
+    latitude: 15.870032
+    latitudeDec: '14.48458194732666'
+    longitude: 100.992541
+    longitudeDec: '100.85191345214844'
+    maxLatitude: 20.465143
+    maxLongitude: 105.636812
+    minLatitude: 5.613038
+    minLongitude: 97.343396
+    bounds:
+      northeast:
+        lat: 20.465143
+        lng: 105.636812
+      southwest:
+        lat: 5.613038
+        lng: 97.343396
+  currencyCode: THB
+  startOfWeek: monday
