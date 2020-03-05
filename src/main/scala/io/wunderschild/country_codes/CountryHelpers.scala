@@ -4,8 +4,9 @@ import scala.reflect._
 import scala.reflect.runtime.universe._
 
 object CountryHelpers {
-  /*
+  /** Takes a map and instantiate arbitrary case class.
    *
+   * @param m arguments needed to instantiate a case class
    */
   implicit class RichMapToCaseClass(val m: Map[String, Any]) {
     def toCaseClass[T: TypeTag : ClassTag]: T = {

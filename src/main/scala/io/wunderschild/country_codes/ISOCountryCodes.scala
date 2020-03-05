@@ -1,7 +1,5 @@
 package io.wunderschild.country_codes
 
-import java.awt.image.LookupTable
-
 import scala.io.Source
 import java.nio.file.Paths
 
@@ -14,7 +12,7 @@ object ISOCountryCodes {
   def using[A, B <: {def close(): Unit}] (closeable: B) (f: B => A): A =
     try { f(closeable) } finally { closeable.close() }
 
-  /*
+  /** Create lookup table that can be used for fast search of country by name.
    *
    * @param localization language to be used for the country names
    */
