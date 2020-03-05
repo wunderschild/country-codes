@@ -11,6 +11,7 @@ TF:
   nationalNumberLengths: []
   nationalPrefix: ''
   number: '260'
+  sovereignty: FR
   region: ''
   subregion: ''
   unLocode: TF

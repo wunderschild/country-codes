@@ -11,6 +11,7 @@ IO:
   nationalNumberLengths: []
   nationalPrefix: ''
   number: '086'
+  sovereignty: UK
   region: Africa
   subregion: Eastern Africa
   worldRegion: APAC
