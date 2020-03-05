@@ -1,23 +1,31 @@
 package io.wunderschild.country_codes
 
-/** Allows to make a lookup for a country by its name.
+/** Allows to make a lookup for a country by indexed fields.
  *
  * @param countries list of countries loaded from the disk
  */
-class LookupTable(countries: Seq[Country]) {
+class LookupTable(countries: Seq[Country], indexedFields: Seq[String]) {
   private lazy val holder: Map[Int, Country] = {
     countries.foldLeft(Map.empty[Int, Country]) { (lookup, country) =>
-      val hashes = (country.officialName +: country.otherNames).map(name => name.toLowerCase.hashCode)
+      val fieldsLens = country.getClass.getDeclaredFields.filter(f => indexedFields.contains(f.getName))
+      val values = fieldsLens.foldLeft(Seq.empty[Any]) { (values, field) =>
+        field.setAccessible(true)
+        field.get(country) match {
+          case v: Seq[Any] => v ++ values
+          case v: Any => v +: values
+        }
+      }
+      val hashes = values.map(name => name.toString.toLowerCase.hashCode)
       lookup ++ hashes.map(hash => (hash, country)).toMap
     }
   }
 
   /** Do actual lookup with given search string.
    *
-   * @param countryName the search string
+   * @param query the search string
    */
-  def lookup(countryName: String): Option[Country] = {
-    val hash = countryName.toLowerCase.hashCode
+  def lookup(query: Any): Option[Country] = {
+    val hash = query.toString.toLowerCase.hashCode
     holder.get(hash)
   }
 }

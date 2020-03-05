@@ -16,7 +16,7 @@ object ISOCountryCodes {
    *
    * @param localization language to be used for the country names
    */
-  def apply(localization: String = "en") {
+  def apply(localization: String = "en", indexedFields: Seq[String] = Seq("officialName", "otherNames")): LookupTable = {
     type mT = Map[String, Map[String, Any]]
 
     val mapper = new ObjectMapper(new YAMLFactory())
@@ -39,6 +39,13 @@ object ISOCountryCodes {
       })
     }
 
-    new LookupTable(countryDataMap.flatMap(_.values).toSeq)
+    new LookupTable(countryDataMap.flatMap(_.values).toSeq, indexedFields)
+  }
+}
+
+object ISOCountryCodesTest {
+  def main(args: Array[String]): Unit = {
+    val iso = ISOCountryCodes("ru", Seq("officialName", "otherNames", "nationality"))
+    require(iso.lookup("Russian").isDefined)
   }
 }
