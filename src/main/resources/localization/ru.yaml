@@ -1,24 +1,982 @@
 ---
 AU:
-  officialName: "Австралия"
+  officialName: Австралия
   otherNames:
-    - "Австралийский Союз"
-    - "Содружество Австралии"
-AT:
-  officialName: "Австрия"
-  otherNames:
-    - "Австрийская Республика"
+    - Австралийский Союз
+    - Содружество Австралии
 RU:
-  officialName: "Россия"
+  officialName: Россия
   otherNames:
-    - "Российская Федерация"
-    - "РФ"
+    - Российская Федерация
+    - РФ
 FR:
-  officialName: "Франция"
+  officialName: Франция
   otherNames:
-    - "Французская Республика"
+    - Французская Республика
 UK:
-  officialName: "Великобритания"
+  officialName: Великобритания
   otherNames:
-    - "Соединённое Королевство"
-    - "Соединённое Королевство Великобритании и Северной Ирландии"
+    - Соединённое Королевство
+    - Соединённое Королевство Великобритании и Северной Ирландии
+AD:
+  officialName: Андорра
+  otherNames:
+    - Андорра
+    - Княжество Андорра
+AE:
+  officialName: Объединённые Арабские Эмираты
+  otherNames:
+    - Арабские Эмираты
+    - Эмираты
+    - ОАЭ
+AF:
+  officialName: Афганистан
+  otherNames:
+    - Исламская Республика Афганистан
+AG:
+  officialName: Антигуа и Барбуда
+  otherNames:
+AI:
+  officialName: Ангилья
+  otherNames:
+AL:
+  officialName: Албания
+  otherNames:
+    - Республика Албания
+AM:
+  officialName: Армения
+  otherNames:
+    - Республика Армения
+AO:
+  officialName: Ангола
+  otherNames:
+    - Республика Ангола
+AQ:
+  officialName: Антарктида
+  otherNames:
+AR:
+  officialName: Аргентина
+  otherNames:
+    - Аргентинская Республика
+AS:
+  officialName: Американское Самоа
+  otherNames:
+    - Восточное Самоа
+AT:
+  officialName: Австрия
+  otherNames:
+    - Австрийская Республика
+AW:
+  officialName: Аруба
+  otherNames:
+AX:
+  officialName: Аланды
+  otherNames:
+    - Аландские острова
+AZ:
+  officialName: Азербайджан
+  otherNames:
+    - Республика Азербайджан
+BA:
+  officialName: Босния и Герцеговина
+  otherNames:
+    - БиГ
+BB:
+  officialName: Барбадос
+  otherNames:
+BD:
+  officialName: Бангладеш
+  otherNames:
+    - Народная Республика Бангладеш
+BE:
+  officialName: Королевство Бельгия
+  otherNames:
+    - Бельгия
+BF:
+  officialName: Буркина-Фасо
+  otherNames:
+    - Республика Верхняя Вольта
+    - Буркина Фасо
+BG:
+  officialName: Болгария
+  otherNames:
+    - Республика Болгария
+BH:
+  officialName: Бахрейн
+  otherNames:
+    - Королевство Бахрейн
+BI:
+  officialName: Бурунди
+  otherNames:
+    - Бурунди
+    - Королевства Бурунди
+    - Республика Бурунди
+BJ:
+  officialName: Бенин
+  otherNames:
+    - Республика Бенин
+BM:
+  officialName: Бермудские Острова
+  otherNames:
+BN:
+  officialName: Бруней
+  otherNames:
+    - Государство Бруней-Даруссалам
+BO:
+  officialName: Боливия
+  otherNames:
+    - Многонациональное государство Боливия
+BQ:
+  officialName: Бонэйр, Синт-Эстатиус и Саба
+  otherNames:
+    - Карибские Нидерланды
+    - Бонэйр Синт-Эстатиус и Саба
+BR:
+  officialName: Бразилия
+  otherNames:
+    - Федеративная Республика Бразилия
+BS:
+  officialName: Багамские Острова
+  otherNames:
+    - Содружество Багамских Островов
+BT:
+  officialName: Бутан
+  otherNames:
+    - Королевство Бутан
+BV:
+  officialName: Остров Буве
+  otherNames:
+    - Буве
+BW:
+  officialName: Ботсвана
+  otherNames:
+    - Республика Ботсвана
+BY:
+  officialName: Белоруссия
+  otherNames:
+    - РБ
+    - Республика Беларусь
+    - Беларусь
+BZ:
+  officialName: Белиз
+  otherNames:
+    - Британский Гондурас
+CA:
+  officialName: Канада
+  otherNames:
+CC:
+  officialName: Кокосовые острова
+  otherNames:
+    - Кокосовые (Килинг) острова
+    - Килинг
+CD:
+  officialName: Демократическая Республика Конго
+  otherNames:
+    - Конго, Демократическая Республика
+    - Заир
+CF:
+  officialName: Центральноафриканская Республика
+  otherNames:
+    - ЦАР
+    - Центральная Африка
+CG:
+  officialName: Республика Конго
+  otherNames:
+    - Народная Республика Конго
+CH:
+  officialName: Швейцария
+  otherNames:
+    - Швейцарская Конфедерация
+CI:
+  officialName: Кот-д’Ивуар
+  otherNames:
+    - Республика Берег Слоновой Кости
+    - Республика Кот-д’Ивуар
+CK:
+  officialName: Острова Кука
+  otherNames:
+CL:
+  officialName: Чили
+  otherNames:
+    - Республика Чили
+CM:
+  officialName: Камерун
+  otherNames:
+    - Республика Камерун
+CN:
+  officialName: Китай
+  otherNames:
+    - Китайская Народная Республика
+    - КНР
+CO:
+  officialName: Колумбия
+  otherNames:
+    - Республика Колумбия
+CR:
+  officialName: Коста-Рика
+  otherNames:
+    - Республика Коста-Рика
+CU:
+  officialName: Куба
+  otherNames:
+    - Республика Куба
+CV:
+  officialName: Кабо-Верде
+  otherNames:
+    - Республика Кабо-Верде
+CW:
+  officialName: Кюрасао
+  otherNames:
+CX:
+  officialName: Остров Рождества
+  otherNames:
+    - Остров Рождества
+    - Кристмас
+CY:
+  officialName: Республика Кипр
+  otherNames:
+    - Кипр
+CZ:
+  officialName: Чехия
+  otherNames:
+    - ЧР
+    - Чешская Республика
+DE:
+  officialName: Германия
+  otherNames:
+    - ФРГ
+    - Германия
+    - Федеративная Республика Германия
+DJ:
+  officialName: Джибути
+  otherNames:
+    - Республика Джибути
+DK:
+  officialName: Дания
+  otherNames:
+    - Королевство Дания
+DM:
+  officialName: Доминика
+  otherNames:
+    - Доминика
+    - Содружество Доминики
+DO:
+  officialName: Доминикана
+  otherNames:
+    - Доминиканская Республика
+DZ:
+  officialName: Алжир
+  otherNames:
+    - АНДР
+    - Алжирская Народная Демократическая Республика
+EC:
+  officialName: Эквадор
+  otherNames:
+    - Республика Эквадор
+EG:
+  officialName: Египет
+  otherNames:
+    - Арабская Республика Египет
+EH:
+  officialName: Западная Сахара
+  otherNames:
+GR:
+  officialName: Греция
+  otherNames:
+    - Греческая Республика
+SZ:
+  officialName: Эсватини
+  otherNames:
+    - Королевство Эсватини
+    - Королевство Свазиленд
+    - Свазиленд
+ET:
+  officialName: Эфиопия
+  otherNames:
+    - Федеративная Демократическая Республика Эфиопия
+    - Абиссиния
+FI:
+  officialName: Финляндия
+  otherNames:
+    - Финляндская Республика
+FJ:
+  officialName: Фиджи
+  otherNames:
+    - Республика Фиджи
+FM:
+  officialName: Микронезия
+  otherNames:
+    - Федеративные Штаты Микронезии
+FO:
+  officialName: Фарерские острова
+  otherNames:
+    - Фареры
+GA:
+  officialName: Габон
+  otherNames:
+    - Габонская Республика
+GD:
+  officialName: Гренада
+  otherNames:
+    - Остров Гренада
+GE:
+  officialName: Грузия
+  otherNames:
+    - Республика Грузия
+GF:
+  officialName: Гвиана
+  otherNames:
+    - Французская Гвиана
+GG:
+  officialName: Гернси
+  otherNames:
+GH:
+  officialName: Гана
+  otherNames:
+    - Республика Гана
+GI:
+  officialName: Гибралтар
+  otherNames:
+    - Полуостров Гибралтар
+GL:
+  officialName: Гренландия
+  otherNames:
+    - Остров Гренландия
+GM:
+  officialName: Гамбия
+  otherNames:
+    - Республика Гамбия
+GN:
+  officialName: Гвинея
+  otherNames:
+    - Гвинeйская Республика
+GP:
+  officialName: Гваделупа
+  otherNames:
+GS:
+  officialName: Южная Георгия и Южные Сандвичевы Острова
+  otherNames:
+GT:
+  officialName: Гватемала
+  otherNames:
+    - Республика Гватемала
+GU:
+  officialName: Гуам
+  otherNames:
+    - Территория Гуам
+GW:
+  officialName: Гвинея-Бисау
+  otherNames:
+    - Республика Гвинея-Бисау
+GY:
+  officialName: Гайана
+  otherNames:
+    - Кооперативная Республика Гайана
+HK:
+  officialName: Гонконг
+  otherNames:
+    - Специальный административный район Гонконг
+    - Сянган
+    - Специальный административный регион Китая Гонконг
+HM:
+  officialName: Остров Херд и острова Макдональд
+  otherNames:
+HN:
+  officialName: Гондурас
+  otherNames:
+    - Республика Гондурас
+HR:
+  officialName: Хорватия
+  otherNames:
+    - Республика Хорватия
+HT:
+  officialName: Гаити
+  otherNames:
+    - Республика Гаити
+HU:
+  officialName: Венгрия
+  otherNames:
+    - Венгерская Республика
+ID:
+  officialName: Индонезия
+  otherNames:
+    - Республика Индонезия
+IE:
+  officialName: Ирландия
+  otherNames:
+IL:
+  officialName: Израиль
+  otherNames:
+    - Государство Израиль
+IM:
+  officialName: Остров Мэн
+  otherNames:
+IN:
+  officialName: Индия
+  otherNames:
+    - Республика Индия
+IO:
+  officialName: Британская Территория в Индийском Океане
+  otherNames:
+IQ:
+  officialName: Ирак
+  otherNames:
+    - Республика Ирак
+IR:
+  officialName: Иран
+  otherNames:
+    - Исламская Республика Иран
+IS:
+  officialName: Исландия
+  otherNames:
+    - Республика Исландия
+IT:
+  officialName: Италия
+  otherNames:
+    - Итальянская Республика
+JE:
+  officialName: Джерси
+  otherNames:
+JM:
+  officialName: Ямайка
+  otherNames:
+JO:
+  officialName: Иордания
+  otherNames:
+    - Иорданское Хашимитское Королевство
+JP:
+  officialName: Япония
+  otherNames:
+    - Страна восходящего солнца
+    - Государство Япония
+KE:
+  officialName: Кения
+  otherNames:
+    - Республика Кения
+KG:
+  officialName: Киргизия
+  otherNames:
+    - Киргизская Республика
+KH:
+  officialName: Камбоджа
+  otherNames:
+    - Королевство Камбоджа
+KI:
+  officialName: Кирибати
+  otherNames:
+    - Республика Кирибати
+KM:
+  officialName: Коморы
+  otherNames:
+    - Союз Коморы
+KN:
+  officialName: Сент-Китс и Невис
+  otherNames:
+    - Федерация Сент-Кристофер и Невис
+    - Федерация Сент-Китс и Невис
+    - Сент-Кристофер и Невис
+KP:
+  officialName: Корейская Народно-Демократическая Республика
+  otherNames:
+    - Северная Корея
+    - КНДР
+KR:
+  officialName: Республика Корея
+  otherNames:
+    - Республика Корея
+    - Южная Корея
+KW:
+  officialName: Кувейт
+  otherNames:
+    - Государство Кувейт
+KY:
+  officialName: Острова Кайман
+  otherNames:
+    - Каймановы Острова
+KZ:
+  officialName: Казахстан
+  otherNames:
+    - РК
+    - Республика Казахстан
+LA:
+  officialName: Лаос
+  otherNames:
+    - Лаосская Народно-Демократическая Республика
+LB:
+  officialName: Ливан
+  otherNames:
+    - Ливанская Республика
+LC:
+  officialName: Сент-Люсия
+  otherNames:
+LI:
+  officialName: Лихтенштейн
+  otherNames:
+    - Княжество Лихтенштейн
+LR:
+  officialName: Либерия
+  otherNames:
+    - Республика Либерия
+LS:
+  officialName: Лесото
+  otherNames:
+    - Королевство Лесото
+LT:
+  officialName: Литва
+  otherNames:
+    - Литовская Республика
+LU:
+  officialName: Люксембург
+  otherNames:
+    - Великое Герцогство Люксембург
+LV:
+  officialName: Латвия
+  otherNames:
+    - Латвийская Республика
+LY:
+  officialName: Ливия
+  otherNames:
+    - Государство Ливия
+MA:
+  officialName: Марокко
+  otherNames:
+    - Королевство Марокко
+MC:
+  officialName: Монако
+  otherNames:
+    - Княжество Монако
+MD:
+  officialName: Молдова
+  otherNames:
+    - Республика Молдова
+    - Молдавия
+ME:
+  officialName: Черногория
+  otherNames:
+    - Республика Черногория
+MF:
+  officialName: Сен-Мартен
+  otherNames:
+MG:
+  officialName: Мадагаскар
+  otherNames:
+    - Республика Мадагаскар
+MH:
+  officialName: Маршалловы Острова
+  otherNames:
+    - Республика Маршалловы Острова
+MK:
+  officialName: Республика Северная Македония
+  otherNames:
+    - Северная Македония
+ML:
+  officialName: Мали
+  otherNames:
+    - Республика Мали
+MM:
+  officialName: Мьянма
+  otherNames:
+    - Республика Союз Мьянма
+MN:
+  officialName: Монголия
+  otherNames:
+    - Монголия
+MO:
+  officialName: Макао
+  otherNames:
+    - Аомынь
+MP:
+  officialName: Северные Марианские Острова
+  otherNames:
+    - Содружество Северных Марианских Островов
+MQ:
+  officialName: Мартиника
+  otherNames:
+MR:
+  officialName: Мавритания
+  otherNames:
+    - Исламская Республика Мавритания
+MS:
+  officialName: Монтсеррат
+  otherNames:
+MT:
+  officialName: Мальта
+  otherNames:
+    - Республика Мальта
+MU:
+  officialName: Маврикий
+  otherNames:
+    - Республика Маврикий
+MV:
+  officialName: Мальдивы
+  otherNames:
+    - Мальдивская Республика
+MW:
+  officialName: Малави
+  otherNames:
+    - Республика Малави
+MX:
+  officialName: Мексика
+  otherNames:
+    - Мексиканские Соединённые Штаты
+MY:
+  officialName: Малайзия
+  otherNames:
+MZ:
+  officialName: Мозамбик
+  otherNames:
+    - Республика Мозамбик
+NA:
+  officialName: Намибия
+  otherNames:
+    - Республика Намибия
+NC:
+  officialName: Новая Каледония
+  otherNames:
+NE:
+  officialName: Нигер
+  otherNames:
+    - Республика Нигер
+NF:
+  officialName: Остров Норфолк
+  otherNames:
+NG:
+  officialName: Нигерия
+  otherNames:
+    - Федеративная Республика Нигерия
+NI:
+  officialName: Никарагуа
+  otherNames:
+    - Республика Никарагуа
+NL:
+  officialName: Нидерланды
+  otherNames:
+    - Голландия
+NO:
+  officialName: Норвегия
+  otherNames:
+    - Королевство Норвегия
+NP:
+  officialName: Непал
+  otherNames:
+    - Федеративная Демократическая Республика Непал
+NR:
+  officialName: Науру
+  otherNames:
+    - Республика Науру
+NU:
+  officialName: Ниуэ
+  otherNames:
+    - Остров Ниуэ
+NZ:
+  officialName: Новая Зеландия
+  otherNames:
+OM:
+  officialName: Оман
+  otherNames:
+    - Оман
+    - Абсолютная монархия Оман
+    - Султанат Оман
+    - Монархия Оман
+PA:
+  officialName: Панама
+  otherNames:
+    - Республика Панама
+PE:
+  officialName: Перу
+  otherNames:
+    - Республика Перу
+PF:
+  officialName: Французская Полинезия
+  otherNames:
+PG:
+  officialName: Папуа — Новая Гвинея
+  otherNames:
+    - Независимое Государство Папуа Новая Гвинея
+    - Папуа Новая Гвинея
+    - Папуа - Новая Гвинея
+PH:
+  officialName: Филиппины
+  otherNames:
+    - Республика Филиппины
+PK:
+  officialName: Пакистан
+  otherNames:
+    - Исламская Республика Пакистан
+    - Федеративная смешанная республика Пакистан
+    - Республика Пакистан
+PL:
+  officialName: Польша
+  otherNames:
+    - Республика Польша
+PM:
+  officialName: Сен-Пьер и Микелон
+  otherNames:
+    - Сен-Пьер
+PN:
+  officialName: Острова Питкэрн
+  otherNames:
+PR:
+  officialName: Пуэрто-Рико
+  otherNames:
+    - Свободно ассоциированное государство Пуэрто-Рико
+PS:
+  officialName: Палестина
+  otherNames:
+    - Государство Палестина
+PT:
+  officialName: Португалия
+  otherNames:
+    - Португальская Республика
+PW:
+  officialName: Палау
+  otherNames:
+    - Республика Палау
+PY:
+  officialName: Республика Парагвай
+  otherNames:
+    - Парагвай
+QA:
+  officialName: Государство Катар
+  otherNames:
+    - Катар
+RO:
+  officialName: Румыния
+  otherNames:
+RS:
+  officialName: Сeрбия
+  otherNames:
+    - Республика Сербия
+RW:
+  officialName: Руанда
+  otherNames:
+    - Республика Руанда
+SA:
+  officialName: Саудовская Аравия
+  otherNames:
+    - Королевство Саудовская Аравия
+SB:
+  officialName: Соломоновы Острова
+  otherNames:
+SC:
+  officialName: Сейшeльские Острова
+  otherNames:
+    - Республика Сейшeльские Острова
+SD:
+  officialName: Судан
+  otherNames:
+    - Республика Судан
+SE:
+  officialName: Королевство Швеция
+  otherNames:
+    - Швеция
+SG:
+  officialName: Сингапур
+  otherNames:
+    - Республика Сингапур
+SH:
+  officialName: Южная Джорджия и Южные Сандвичевы острова
+  otherNames:
+SI:
+  officialName: Словения
+  otherNames:
+    - Республика Словения
+SJ:
+  officialName: Шпицберген и Ян-Майен
+  otherNames:
+SK:
+  officialName: Словакия
+  otherNames:
+    - Словацкая Республика
+SL:
+  officialName: Сьерра-Леоне
+  otherNames:
+    - Республика Сьерра-Леоне
+SM:
+  officialName: Сан-Марино
+  otherNames:
+    - Республика Сан-Марино
+SN:
+  officialName: Сенегал
+  otherNames:
+    - Республика Сенегал
+SO:
+  officialName: Сомали
+  otherNames:
+    - Федеративная Республика Сомали
+SR:
+  officialName: Суринам
+  otherNames:
+    - Республика Суринам
+ST:
+  officialName: Сан-Томе и Принсипи
+  otherNames:
+    - Демократическая Республика Сан-Томe и Принсипи
+SV:
+  officialName: Сальвадор
+  otherNames:
+    - Республика Эль-Сальвадор
+SX:
+  officialName: Синт-Мартен
+  otherNames:
+SY:
+  officialName: Сирийская Арабская Республика
+  otherNames:
+    - Сирийская республика
+    - Сирия
+TC:
+  officialName: Теркс и Кайкос
+  otherNames:
+TD:
+  officialName: Чад
+  otherNames:
+    - Республика Чад
+TF:
+  officialName: Французские Южные и Антарктические Территории
+  otherNames:
+    - ФЮАТ
+    - Французские Австральные и Антарктические земли
+    - Французские Южные территории
+TG:
+  officialName: Того
+  otherNames:
+    - Тоголезская Республика
+TH:
+  officialName: Таиланд
+  otherNames:
+    - Сиам
+    - Королeвство Таиланд
+TJ:
+  officialName: Таджикистан
+  otherNames:
+    - Республика Таджикистан
+TK:
+  officialName: Токелау
+  otherNames:
+    - Зависимая территория Токелау
+TL:
+  officialName: Восточный Тимор
+  otherNames:
+    - Демократическая Республика Восточный Тимор
+    - Тимор-Лeшти
+    - Демократическая Республика Тимор-Лесте
+    - Тимор-Лeсте
+    - Демократическая Республика Тимор-Лeшти
+TM:
+  officialName: Туркмения
+  otherNames:
+    - Туркменистан
+TN:
+  officialName: Тунис
+  otherNames:
+    - Тунисская Республика
+TO:
+  officialName: Тонга
+  otherNames:
+    - Королевство Тонга
+TR:
+  officialName: Турция
+  otherNames:
+    - Турецкая Республика
+TT:
+  officialName: Тринидад и Тобаго
+  otherNames:
+    - Республика Тринидад и Тобаго
+TV:
+  officialName: Тувалу
+  otherNames:
+    - Острова Эллис
+TW:
+  officialName: Тайвань
+  otherNames:
+    - Китайская Республика
+TZ:
+  officialName: Танзания
+  otherNames:
+    - Объединённая Республика Танзания
+UA:
+  officialName: Украина
+  otherNames:
+UAE:
+  officialName: Арабские Эмираты
+  otherNames:
+    - Объединенные Арабские Эмираты
+UG:
+  officialName: Уганда
+  otherNames:
+    - Республика Уганда
+UM:
+  officialName: Внешние малые острова США
+  otherNames:
+US:
+  officialName: Соединённые Штаты Америки
+  otherNames:
+    - Соединённые Штаты
+    - США
+UY:
+  officialName: Уругвай
+  otherNames:
+    - Восточная Республика Уругвай
+UZ:
+  officialName: Узбекистан
+  otherNames:
+    - Республика Узбекистан
+VA:
+  officialName: Ватикан
+  otherNames:
+    - Госуарство-город Ватикан
+VC:
+  officialName: Сент-Винсент и Гренадины
+  otherNames:
+    - Гренадины
+VE:
+  officialName: Венесуэла
+  otherNames:
+    - Боливарийская Республика Венесуэла
+    - Боливарианская Республика Венесуэ́ла
+VG:
+  officialName: Британские Виргинские острова
+  otherNames:
+VI:
+  officialName: Виргинские острова Соединённых Штатов
+  otherNames:
+    - Американские Виргинские острова
+VN:
+  officialName: Социалистическая Республика Вьетнам
+  otherNames:
+    - СРВ
+    - Вьетнам
+VU:
+  officialName: Вануату
+  otherNames:
+    - Республика Вануату
+WF:
+  officialName: Уоллис и Футуна
+  otherNames:
+    - Валлис и Футуна
+    - Территория островов Уоллис и Футуна
+WS:
+  officialName: Самоа
+  otherNames:
+    - Независимое государство Самоа
+YE:
+  officialName: Йеменская Республика
+  otherNames:
+    - Йемен
+YT:
+  officialName: Майотта
+  otherNames:
+ZA:
+  officialName: Южно-Африканская Республика
+  otherNames:
+    - ЮАР
+    - Южная Африка
+ZM:
+  officialName: Замбия
+  otherNames:
+    - Республика Замбия
+ZW:
+  officialName: Зимбабве
+  otherNames:
+    - Республика Зимбабве
+    - Зимбабве
