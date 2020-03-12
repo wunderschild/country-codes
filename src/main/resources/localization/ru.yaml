@@ -161,6 +161,10 @@ BZ:
   officialName: Белиз
   otherNames:
     - Британский Гондурас
+BL:
+  officialName: Сен-Бартелеми
+  otherNames:
+    - Сен-Бартельми
 CA:
   officialName: Канада
   otherNames:
@@ -284,6 +288,16 @@ GR:
   officialName: Греция
   otherNames:
     - Греческая Республика
+GB:
+  officialName: Великобритания
+  otherNames:
+    - Англия
+    - Соединённое Королевство
+    - Соединённое Королевство Великобритании и Северной Ирландии
+GQ:
+  officialName: Экваториальная Гвинея
+  otherNames:
+    - Республика Экваториальная Гвинея
 SZ:
   officialName: Эсватини
   otherNames:
@@ -295,6 +309,18 @@ ET:
   otherNames:
     - Федеративная Демократическая Республика Эфиопия
     - Абиссиния
+EE:
+  officialName: Эстония
+  otherNames:
+    - Эстонская Республика
+ER:
+  officialName: Эритрея
+  otherNames:
+    - Государство Эритрея
+ES:
+  officialName: Испания
+  otherNames:
+    - Королевство Испания
 FI:
   officialName: Финляндия
   otherNames:
@@ -311,6 +337,10 @@ FO:
   officialName: Фарерские острова
   otherNames:
     - Фареры
+FK:
+  officialName: Фолклендские острова
+  otherNames:
+    - Мальвинские острова
 GA:
   officialName: Габон
   otherNames:
@@ -537,6 +567,11 @@ LY:
   officialName: Ливия
   otherNames:
     - Государство Ливия
+LK:
+  officialName: Шри-Ланка
+  otherNames:
+    - Демократическая Социалистическая Республика Шри-Ланка
+    - Цейлон
 MA:
   officialName: Марокко
   otherNames:
@@ -743,6 +778,9 @@ QA:
 RO:
   officialName: Румыния
   otherNames:
+RE:
+  officialName: Реюньон
+  otherNames:
 RS:
   officialName: Сeрбия
   otherNames:
@@ -762,6 +800,10 @@ SC:
   officialName: Сейшeльские Острова
   otherNames:
     - Республика Сейшeльские Острова
+SS:
+  officialName: Южный Судан
+  otherNames:
+    - Республика Южный Судан
 SD:
   officialName: Судан
   otherNames:
