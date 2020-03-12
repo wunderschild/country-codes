@@ -34,8 +34,6 @@ PT:
     parking: 13
   postalCode: true
   postalCodeFormat: "\\d{4}-\\d{3}"
-startOfWeek
-  - ポルトガル
   officialLanguages:
   - pt
   spokenLanguages:

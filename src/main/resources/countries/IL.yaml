@@ -27,9 +27,6 @@ IL:
   nationality: Israeli
   postalCode: true
   postalCodeFormat: "\\d{5}(?:\\d{2})?"
-startOfWeek
-  - Israël
-  - イスラエル
   officialLanguages:
   - he
   - ar
