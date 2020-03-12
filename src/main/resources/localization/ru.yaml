@@ -998,9 +998,9 @@ WF:
     - Валлис и Футуна
     - Территория островов Уоллис и Футуна
 WS:
-  officialName: Самоа
+  officialName: Независимое государство Самоа
   otherNames:
-    - Независимое государство Самоа
+    - Самоа
 YE:
   officialName: Йеменская Республика
   otherNames:
@@ -1008,17 +1008,21 @@ YE:
 YT:
   officialName: Майотта
   otherNames:
+XK:
+  officialName: Республика Косово
+  otherNames:
+    - Косово
 ZA:
   officialName: Южно-Африканская Республика
   otherNames:
     - ЮАР
     - Южная Африка
 ZM:
-  officialName: Замбия
+  officialName: Республика Замбия
   otherNames:
-    - Республика Замбия
+    - Замбия
 ZW:
-  officialName: Зимбабве
+  officialName: Республика Зимбабве
   otherNames:
-    - Республика Зимбабве
+    - Зимбабве
     - Зимбабве
