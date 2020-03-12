@@ -6,4 +6,4 @@ case class Country(
     nationality: String,
     sovereignty: Option[String] = None,
     officialName: String,
-    otherNames: Seq[String])
+    otherNames: Option[Seq[String]] = None)
