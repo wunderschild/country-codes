@@ -9,7 +9,7 @@ AE:
     - Émirats
     - Émirats Arabes Unis
     - EAU
-AF​:
+AF:
   officialName: Afghanistan
   otherNames:
     - République islamique d'Afghanistan
@@ -158,7 +158,7 @@ CF:
   officialName: La République centrafricaine
   otherNames:
     - Centrafrique
-CG​:
+CG:
   officialName: République du Congo
   otherNames:
 CH:
@@ -227,6 +227,11 @@ DK:
   officialName: Danemark
   otherNames:
     - Royaume de Danemark
+DE:
+  officialName: Allemagne
+  otherNames:
+    - République fédérale d’Allemagne
+    - RFA
 DM:
   officialName: Dominique
   otherNames:
@@ -303,14 +308,26 @@ GA:
   officialName: Gabon
   otherNames:
     - République gabonaise
+GB:
+  officialName: Royaume-Uni
+  otherNames:
+    - Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
 GD:
   officialName: Grenade
   otherNames:
     - Île de Grenade
+GE:
+  officialName: Géorgie
+  otherNames:
+    - république de Géorgie
 GF:
   officialName: Guyane
   otherNames:
     - Guyane française
+GH:
+  officialName: Ghana
+  otherNames:
+    - République du Ghana
 GG:
   officialName: Guernsey
   otherNames:
@@ -420,7 +437,7 @@ IN:
 IO:
   officialName: Territoire britannique de l'océan Indien
   otherNames:
-IQ​:
+IQ:
   officialName: Irak
   otherNames:
     - République d'Irak
@@ -452,6 +469,10 @@ JP:
   officialName: Japon
   otherNames:
     - l’État du Japon
+KE:
+  officialName: République du Kenya
+  otherNames:
+    - Kenya
 KG:
   officialName: Kirghizistan
   otherNames:
@@ -466,6 +487,11 @@ KM:
   officialName: Comores
   otherNames:
     - Union des Comores
+KZ:
+  officialName: Kazakhstan
+  otherNames:
+    - République du Kazakhstan
+    - Qazaqstan
 KN:
   officialName: Saint-Christophe-et-Niévès
   otherNames:
@@ -490,6 +516,10 @@ KY:
   officialName: Îles Caïmanes
   otherNames:
     - Îles Caïmanes
+KI:
+  officialName: Kiribati
+  otherNames:
+    - République des Kiribati
 LA:
   officialName: Laos
   otherNames:
@@ -530,6 +560,10 @@ LY:
   officialName: Libye
   otherNames:
     - l'État de Libye
+LU:
+  officialName: Luxembourg
+  otherNames:
+    - Grand-Duché de Luxembourg
 MA:
   officialName: Maroc
   otherNames:
@@ -544,6 +578,10 @@ MD:
   otherNames:
     - République de Moldova
     - République de Moldavie
+MG:
+  officialName: Madagascar
+  otherNames:
+    - République de Madagascar
 ME:
   officialName: Monténégro
   otherNames:
@@ -586,6 +624,10 @@ MR:
   otherNames:
     - République islamique de Mauritanie
     - Mauritanie
+MO:
+  officialName: Macao
+  otherNames:
+    - Région administrative spéciale de Macao de la république populaire de Chine
 MS:
   officialName: Montserrat
   otherNames:
@@ -704,6 +746,14 @@ PR:
   officialName: Porto Rico
   otherNames:
     - État libre associé de Porto Rico
+PK:
+  officialName: Pakistan
+  otherNames:
+    - République islamique du Pakistan
+PW:
+  officialName: République des Palaos
+  otherNames:
+    - Palaos
 PS:
   officialName: Palestine
   otherNames:
@@ -717,6 +767,10 @@ PY:
   officialName: Paraguay
   otherNames:
     - République du Paraguay
+OM:
+  officialName: Sultanat d'Oman
+  otherNames:
+    - Oman
 QA:
   officialName: Qatar
   otherNames:
@@ -740,6 +794,11 @@ RW:
   officialName: Rwanda
   otherNames:
     - République du Rwanda
+SA:
+  officialName: Royaume d'Arabie saoudite
+  otherNames:
+    - Arabie saoudite
+    - séoudite
 SB:
   officialName: Îles Salomon
   otherNames:
@@ -748,7 +807,7 @@ SC:
   officialName: Seychelles
   otherNames:
     - République des Seychelles
-SD​:
+SD:
   officialName: Soudan
   otherNames:
     - République du Soudan
