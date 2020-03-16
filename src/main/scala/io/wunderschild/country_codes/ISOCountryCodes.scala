@@ -25,7 +25,7 @@ object ISOCountryCodes {
     val countriesPath = Paths.get("/countries/").toString
 
     val countryDataPaths = using(getClass.getResourceAsStream("/countries/hint")) { stream =>
-      Source.fromInputStream(stream).getLines.map(country => Paths.get(countriesPath, country).toString).toList
+      Source.fromInputStream(stream).getLines.map(country => Paths.get(countriesPath, country + ".yaml").toString).toList
     }
 
     def readMap(path: String): mT = using(getClass.getResourceAsStream(path)) { stream =>
