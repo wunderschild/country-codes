@@ -23,8 +23,9 @@ object ISOCountryCodes {
     mapper.registerModule(DefaultScalaModule)
 
     val countriesPath = Paths.get("/countries/").toString
-    val countryDataPaths = using(getClass.getResourceAsStream(countriesPath)) { stream =>
-      Source.fromInputStream(stream).getLines.map(fileName => Paths.get(countriesPath, fileName).toString)
+
+    val countryDataPaths = using(getClass.getResourceAsStream("/countries.txt")) { stream =>
+      Source.fromInputStream(stream).getLines.map(country => Paths.get(countriesPath, country).toString).toList
     }
 
     def readMap(path: String): mT = using(getClass.getResourceAsStream(path)) { stream =>
