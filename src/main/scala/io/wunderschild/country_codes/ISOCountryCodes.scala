@@ -24,7 +24,7 @@ object ISOCountryCodes {
 
     val countriesPath = Paths.get("/countries/").toString
 
-    val countryDataPaths = using(getClass.getResourceAsStream("/countries.txt")) { stream =>
+    val countryDataPaths = using(getClass.getResourceAsStream("/countries/hint")) { stream =>
       Source.fromInputStream(stream).getLines.map(country => Paths.get(countriesPath, country).toString).toList
     }
 
