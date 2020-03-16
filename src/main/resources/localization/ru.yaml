@@ -9,6 +9,8 @@ RU:
   otherNames:
     - Российская Федерация
     - РФ
+    - Абхазия
+    - Южная Осетия
 FR:
   officialName: Франция
   otherNames:
@@ -16,6 +18,7 @@ FR:
 UK:
   officialName: Великобритания
   otherNames:
+    - Соединенное Королевство
     - Соединённое Королевство
     - Соединённое Королевство Великобритании и Северной Ирландии
 AD:
@@ -62,6 +65,7 @@ AS:
   officialName: Американское Самоа
   otherNames:
     - Восточное Самоа
+    - Восточное Самоа (сша)
 AT:
   officialName: Австрия
   otherNames:
@@ -118,6 +122,8 @@ BJ:
 BM:
   officialName: Бермудские Острова
   otherNames:
+    - Бермуды
+    - Бермудские Острова (брит.)
 BN:
   officialName: Бруней
   otherNames:
@@ -138,6 +144,7 @@ BR:
 BS:
   officialName: Багамские Острова
   otherNames:
+    - Багамы
     - Содружество Багамских Островов
 BT:
   officialName: Бутан
@@ -176,6 +183,7 @@ CC:
 CD:
   officialName: Демократическая Республика Конго
   otherNames:
+    - Конго
     - Конго, Демократическая Республика
     - Заир
 CF:
@@ -183,6 +191,7 @@ CF:
   otherNames:
     - ЦАР
     - Центральная Африка
+    - Центрально-африканская Республика
 CG:
   officialName: Республика Конго
   otherNames:
@@ -194,6 +203,7 @@ CH:
 CI:
   officialName: Кот-д’Ивуар
   otherNames:
+    - Кот-д`ивуар
     - Республика Берег Слоновой Кости
     - Республика Кот-д’Ивуар
 CK:
@@ -449,43 +459,48 @@ IO:
   officialName: Британская Территория в Индийском Океане
   otherNames:
 IQ:
-  officialName: Ирак
+  officialName: Республика Ирак
   otherNames:
-    - Республика Ирак
+    - Ирак
 IR:
-  officialName: Иран
+  officialName: Исламская Республика Иран
   otherNames:
-    - Исламская Республика Иран
+    - Иран
+    - Иран, Исламская Республика
+    - Иран (исламская Республика)
 IS:
-  officialName: Исландия
+  officialName: Республика Исландия
   otherNames:
-    - Республика Исландия
+    - Исландия
 IT:
-  officialName: Италия
+  officialName: Итальянская Республика
   otherNames:
-    - Итальянская Республика
+    - Италия
 JE:
   officialName: Джерси
   otherNames:
+    - Остров Джерси
+    - Нормандские Острова
 JM:
   officialName: Ямайка
   otherNames:
 JO:
-  officialName: Иордания
+  officialName: Иорданское Хашимитское Королевство
   otherNames:
-    - Иорданское Хашимитское Королевство
+    - Иордания
 JP:
-  officialName: Япония
+  officialName: Государство Япония
   otherNames:
     - Страна восходящего солнца
-    - Государство Япония
+    - Япония
 KE:
-  officialName: Кения
+  officialName: Республика Кения
   otherNames:
-    - Республика Кения
+    - Кения
 KG:
   officialName: Киргизия
   otherNames:
+    - Кыргызстан
     - Киргизская Республика
 KH:
   officialName: Камбоджа
@@ -510,11 +525,15 @@ KP:
   otherNames:
     - Северная Корея
     - КНДР
+    - Корея, Народно-демократическая Республика
 KR:
   officialName: Республика Корея
   otherNames:
+    - Корея, Республика
     - Республика Корея
     - Южная Корея
+    - Корея (республика)
+    - Корея (кндр)
 KW:
   officialName: Кувейт
   otherNames:
@@ -522,6 +541,7 @@ KW:
 KY:
   officialName: Острова Кайман
   otherNames:
+    - Кайман
     - Каймановы Острова
 KZ:
   officialName: Казахстан
@@ -585,6 +605,7 @@ MD:
   otherNames:
     - Республика Молдова
     - Молдавия
+    - Молдова, Республика
 ME:
   officialName: Черногория
   otherNames:
@@ -603,6 +624,8 @@ MH:
 MK:
   officialName: Республика Северная Македония
   otherNames:
+    - Македония, Бывшая Югославская Республика
+    - Республика Македония
     - Северная Македония
 ML:
   officialName: Мали
@@ -751,6 +774,7 @@ PM:
 PN:
   officialName: Острова Питкэрн
   otherNames:
+    - Питкэрн
 PR:
   officialName: Пуэрто-Рико
   otherNames:
@@ -784,6 +808,7 @@ RE:
 RS:
   officialName: Сeрбия
   otherNames:
+    - Сербия
     - Республика Сербия
 RW:
   officialName: Руанда
@@ -799,6 +824,8 @@ SB:
 SC:
   officialName: Сейшeльские Острова
   otherNames:
+    - Сейшелы
+    - Сейшельские Острова
     - Республика Сейшeльские Острова
 SS:
   officialName: Южный Судан
@@ -869,6 +896,7 @@ SY:
 TC:
   officialName: Теркс и Кайкос
   otherNames:
+    - Острова Теркс И Кайкос
 TD:
   officialName: Чад
   otherNames:
@@ -932,6 +960,7 @@ TW:
   officialName: Тайвань
   otherNames:
     - Китайская Республика
+    - Тайвань (китай)
 TZ:
   officialName: Танзания
   otherNames:
@@ -953,7 +982,9 @@ UM:
 US:
   officialName: Соединённые Штаты Америки
   otherNames:
+    - Соединенные Штаты Америки
     - Соединённые Штаты
+    - Соединенные Штаты
     - США
 UY:
   officialName: Уругвай
@@ -972,17 +1003,24 @@ VC:
   otherNames:
     - Гренадины
 VE:
-  officialName: Венесуэла
+  officialName: Боливарийская Республика Венесуэла
   otherNames:
-    - Боливарийская Республика Венесуэла
+    - Венесуэла
     - Боливарианская Республика Венесуэ́ла
+    - Венесуэла, Боливарианская Республика
+    - Венесуэла (боливарианская Республика)
 VG:
   officialName: Британские Виргинские острова
   otherNames:
+    - Виргинские Острова (британские)
+    - Виргинские Острова (брит.)
+    - Виргинские Острова, Британские
 VI:
   officialName: Виргинские острова Соединённых Штатов
   otherNames:
     - Американские Виргинские острова
+    - Виргинские Острова (сша)
+    - Виргинские Острова, Сша
 VN:
   officialName: Социалистическая Республика Вьетнам
   otherNames:

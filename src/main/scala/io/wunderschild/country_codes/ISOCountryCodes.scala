@@ -9,7 +9,7 @@ import com.fasterxml.jackson.module.scala.DefaultScalaModule
 import CountryHelpers._
 
 object ISOCountryCodes {
-  def using[A, B <: {def close(): Unit}] (closeable: B) (f: B => A): A =
+  private def using[A, B <: {def close(): Unit}] (closeable: B) (f: B => A): A =
     try { f(closeable) } finally { closeable.close() }
 
   /** Create lookup table that can be used for fast search of country by name.
@@ -25,7 +25,8 @@ object ISOCountryCodes {
     val countriesPath = Paths.get("/countries/").toString
 
     val countryDataPaths = using(getClass.getResourceAsStream("/countries/hint")) { stream =>
-      Source.fromInputStream(stream).getLines.map(country => Paths.get(countriesPath, country + ".yaml").toString).toList
+      Source.fromInputStream(stream).getLines
+        .map(country => Paths.get(countriesPath, s"${country}.yaml").toString).toList
     }
 
     def readMap(path: String): mT = using(getClass.getResourceAsStream(path)) { stream =>
