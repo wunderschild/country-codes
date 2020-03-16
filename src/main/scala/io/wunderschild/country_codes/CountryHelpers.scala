@@ -11,7 +11,7 @@ object CountryHelpers {
   implicit class RichMapToCaseClass(val m: Map[String, Any]) {
     def toCaseClass[T: TypeTag : ClassTag]: T = {
       val tpe = typeOf[T]
-      val rm = runtimeMirror(classTag[T].getClass.getClassLoader)
+      val rm = runtimeMirror(classTag[T].runtimeClass.getClassLoader)
       val classSymbol = tpe.typeSymbol.asClass
       val classMirror = rm.reflectClass(classSymbol)
 
