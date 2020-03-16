@@ -25,6 +25,10 @@ class LookupTable(countries: Seq[Country], indexedFields: Seq[String]) {
    * @param query the search string
    */
   def lookup(query: Any): Option[Country] = {
+    if (query == null) {
+      return None;
+    }
+
     val hash = query.toString.toLowerCase.hashCode
     holder.get(hash)
   }
