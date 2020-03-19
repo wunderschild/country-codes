@@ -4,7 +4,7 @@ package io.wunderschild.country_codes
  *
  * @param countries list of countries loaded from the disk
  */
-class LookupTable(countries: Seq[Country], indexedFields: Seq[String]) {
+class LookupTable(countries: Seq[Country], indexedFields: Seq[String]) extends Serializable {
   private lazy val holder: Map[Int, Country] = {
     countries.foldLeft(Map.empty[Int, Country]) { (lookup, country) =>
       val fieldsLens = country.getClass.getDeclaredFields.filter(f => indexedFields.contains(f.getName))
