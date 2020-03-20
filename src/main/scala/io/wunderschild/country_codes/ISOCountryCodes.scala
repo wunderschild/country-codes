@@ -16,7 +16,10 @@ object ISOCountryCodes {
    *
    * @param localization language to be used for the country names
    */
-  def apply(localization: String = "en", indexedFields: Seq[String] = Seq("officialName", "otherNames")): LookupTable = {
+  def apply(
+     localization: String = "en",
+     indexedFields: Seq[String] = Seq("officialName", "otherNames")
+   ): LookupTable = {
     type mT = Map[String, Map[String, Any]]
 
     val mapper = new ObjectMapper(new YAMLFactory())
@@ -41,7 +44,7 @@ object ISOCountryCodes {
       })
     }
 
-    new LookupTable(countryDataMap.flatMap(_.values).toSeq, indexedFields)
+    new LookupTable(countryDataMap.flatMap(_.values), indexedFields)
   }
 }
 
