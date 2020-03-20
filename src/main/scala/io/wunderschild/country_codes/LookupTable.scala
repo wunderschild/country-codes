@@ -11,7 +11,6 @@ class LookupTable(countries: Seq[Country], indexedFields: Seq[String]) extends S
       val values = fieldsLens.foldLeft(Seq.empty[Any]) { (values, field) =>
         field.setAccessible(true)
         field.get(country) match {
-          case null => values
           case Some(null) => values
           case Some(v: Seq[Any]) => v ++ values
           case v: Any => v +: values
