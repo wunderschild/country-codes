@@ -18,7 +18,7 @@ object ISOCountryCodes {
    */
   def apply(
      localization: String = "en",
-     indexedFields: Seq[String] = Seq("officialName", "otherNames")
+     indexedFields: Seq[String] = Seq("officialName", "otherNames", "nationality")
    ): LookupTable = {
     type mT = Map[String, Map[String, Any]]
 
