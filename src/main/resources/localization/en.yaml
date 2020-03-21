@@ -3,6 +3,7 @@ AE:
   otherNames:
     - Emirates
     - UAE
+    - U.A.E.
 AM:
   officialName: Armenia
   otherNames:
@@ -695,6 +696,7 @@ NL:
   officialName: Kingdom of the Netherlands
   otherNames:
     - Netherlands
+    - The Netherlands
 NI:
   officialName: Nicaragua
   otherNames:
@@ -986,6 +988,7 @@ UA:
 GB:
   officialName: United Kingdom of Great Britain and Northern Ireland
   otherNames:
+    - Great Britain
     - United Kingdom
     - UK
     - U.K.
@@ -1025,6 +1028,7 @@ VE:
 VN:
   officialName: Vietnam
   otherNames:
+    - Viet Nam
     - Socialist Republic of Vietnam
 VG:
   officialName: British Virgin Islands
