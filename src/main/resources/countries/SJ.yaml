@@ -18,7 +18,7 @@ SJ:
   subregion: Northern Europe
   worldRegion: EMEA
   unLocode: SJ
-  nationality: Norwegian
+  nationality:
   postalCode: true
   postalCodeFormat: "\\d{4}"
   officialLanguages:

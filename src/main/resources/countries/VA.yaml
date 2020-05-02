@@ -17,7 +17,7 @@ VA:
   subregion: Southern Europe
   worldRegion: EMEA
   unLocode: VA
-  nationality: Italian
+  nationality:
   postalCode: true
   postalCodeFormat: '00120'
   officialLanguages:

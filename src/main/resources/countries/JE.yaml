@@ -15,7 +15,7 @@ JE:
   subregion: Northern Europe
   worldRegion: EMEA
   unLocode: JE
-  nationality: Channel Islander
+  nationality: Jersey Islander
   postalCode: true
   postalCodeFormat: JE\d[\dA-Z]? ?\d[ABD-HJLN-UW-Z]{2}
   officialLanguages:

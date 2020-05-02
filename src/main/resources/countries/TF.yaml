@@ -15,7 +15,7 @@ TF:
   region: ''
   subregion: ''
   unLocode: TF
-  nationality: French
+  nationality:
   postalCode: false
   worldRegion: APAC
   officialLanguages:

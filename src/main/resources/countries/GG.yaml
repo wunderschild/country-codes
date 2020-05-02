@@ -16,7 +16,7 @@ GG:
   subregion: Northern Europe
   worldRegion: EMEA
   unLocode: GG
-  nationality: Channel Islander
+  nationality: Guernsey Islander
   postalCode: true
   postalCodeFormat: GY\d[\dA-Z]? ?\d[ABD-HJLN-UW-Z]{2}
   officialLanguages:

@@ -18,7 +18,7 @@ DM:
   subregion: Caribbean
   worldRegion: AMER
   unLocode: DM
-  nationality: Dominican
+  nationality:
   postalCode: false
   officialLanguages:
   - en

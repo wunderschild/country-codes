@@ -16,7 +16,7 @@ IO:
   subregion: Eastern Africa
   worldRegion: APAC
   unLocode: IO
-  nationality: Indian
+  nationality:
   postalCode: true
   postalCodeFormat: BBND 1ZZ
   officialLanguages:

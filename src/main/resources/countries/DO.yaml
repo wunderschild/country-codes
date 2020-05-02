@@ -17,7 +17,7 @@ DO:
   subregion: Caribbean
   worldRegion: AMER
   unLocode: DO
-  nationality: Dominican
+  nationality:
   postalCode: true
   postalCodeFormat: "\\d{5}"
   officialLanguages:

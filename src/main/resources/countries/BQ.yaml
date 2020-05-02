@@ -16,7 +16,7 @@ BQ:
   subregion: Caribbean
   worldRegion: APAC
   unLocode: BQ
-  nationality: Dutch
+  nationality:
   postalCode: false
   officialLanguages:
   - nl

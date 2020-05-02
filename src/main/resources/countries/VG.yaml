@@ -19,7 +19,7 @@ VG:
   subregion: Caribbean
   worldRegion: AMER
   unLocode: VG
-  nationality: Virgin Islander
+  nationality:
   postalCode: true
   postalCodeFormat: VG\d{4}
   officialLanguages:

@@ -19,7 +19,7 @@ SX:
   subregion: Caribbean
   worldRegion: AMER
   unLocode: SX
-  nationality: Dutch
+  nationality:
   postalCode: false
   officialLanguages:
   - nl

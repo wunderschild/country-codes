@@ -16,7 +16,7 @@ UM:
   subregion: Northern America
   worldRegion: AMER
   unLocode: UM
-  nationality: American
+  nationality:
   postalCode: true
   postalCodeFormat: '96898'
   officialLanguages:

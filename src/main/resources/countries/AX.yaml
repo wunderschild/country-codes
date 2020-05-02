@@ -16,7 +16,7 @@ AX:
   subregion: Northern Europe
   worldRegion: EMEA
   unLocode: AX
-  nationality: Swedish
+  nationality:
   postalCode: true
   postalCodeFormat: 22\d{3}
   officialLanguages:

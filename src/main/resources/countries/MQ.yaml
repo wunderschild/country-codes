@@ -18,7 +18,7 @@ MQ:
   subregion: Caribbean
   worldRegion: AMER
   unLocode: MQ
-  nationality: French
+  nationality:
   postalCode: true
   postalCodeFormat: 9[78]2\d{2}
   officialLanguages:

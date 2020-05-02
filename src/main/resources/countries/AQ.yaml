@@ -15,7 +15,7 @@ AQ:
   region: ''
   subregion: ''
   unLocode: AQ
-  nationality: ''
+  nationality:
   postalCode: false
   officialLanguages: []
   spokenLanguages: []

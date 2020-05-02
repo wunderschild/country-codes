@@ -18,7 +18,7 @@ MP:
   subregion: Micronesia
   worldRegion: APAC
   unLocode: MP
-  nationality: American
+  nationality:
   postalCode: true
   postalCodeFormat: "(9695[012])(?:[ \\-](\\d{4}))?"
   officialLanguages:

@@ -17,7 +17,7 @@ CG:
   subregion: Middle Africa
   worldRegion: EMEA
   unLocode: CG
-  nationality: Congolese
+  nationality:
   postalCode: false
   officialLanguages:
   - fr

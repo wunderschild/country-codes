@@ -17,7 +17,7 @@ NE:
   subregion: Western Africa
   worldRegion: EMEA
   unLocode: NE
-  nationality: Nigerian
+  nationality:
   postalCode: true
   postalCodeFormat: "\\d{4}"
   officialLanguages:

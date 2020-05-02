@@ -18,7 +18,7 @@ NG:
   subregion: Western Africa
   worldRegion: EMEA
   unLocode: NG
-  nationality: Nigerian
+  nationality:
   vatRates:
     standard: 5
     reduced: []

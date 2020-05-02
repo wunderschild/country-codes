@@ -18,7 +18,7 @@ YT:
   subregion: Eastern Africa
   worldRegion: EMEA
   unLocode: YT
-  nationality: French
+  nationality:
   postalCode: true
   postalCodeFormat: 976\d{2}
   officialLanguages:

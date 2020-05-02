@@ -15,7 +15,7 @@ BV:
   region: ''
   subregion: ''
   unLocode: BV
-  nationality: ''
+  nationality:
   postalCode: false
   worldRegion: APAC
   officialLanguages: []

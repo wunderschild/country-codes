@@ -18,7 +18,7 @@ CW:
   subregion: Caribbean
   worldRegion: AMER
   unLocode: CW
-  nationality: Dutch
+  nationality:
   postalCode: false
   officialLanguages:
   - nl
