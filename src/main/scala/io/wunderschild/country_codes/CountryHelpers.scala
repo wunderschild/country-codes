@@ -21,7 +21,7 @@ object CountryHelpers {
       val constructorArgs = constructor.paramLists.flatten.map( (param: Symbol) => {
         val paramName = param.name.toString
         if(param.typeSignature <:< typeOf[Option[Any]])
-          m.get(paramName)
+          m.get(paramName).flatMap(Option(_))
         else
           m.getOrElse(paramName, throw new IllegalArgumentException("Map is missing required parameter named " + paramName))
       })
