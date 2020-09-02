@@ -2,7 +2,9 @@ lazy val commonSettings = (project in file(".")).
   settings(
     name := "country-codes",
     version := "0.0.1",
-    scalaVersion := "2.11.12")
+    scalaVersion := "2.11.12",
+    githubOwner := "wunderschild",
+    githubRepository := "country-codes")
 
 libraryDependencies ++= Seq(
   "org.scala-lang" % "scala-reflect" % scalaVersion.value,
