@@ -21,9 +21,9 @@ object ISOCountryCodes {
    * @param localization language to be used for the country names
    */
   def apply(
-             localization: String = "en",
-             indexedFields: Seq[String] = Seq("officialName", "otherNames", "nationality")
-           ): LookupTable = {
+    localization: String = "en",
+    indexedFields: Seq[String] = Seq("officialName", "otherNames", "nationality")
+  ): LookupTable = {
     type mT = Map[String, Map[String, Any]]
 
     val mapper = new ObjectMapper(new YAMLFactory())
@@ -31,29 +31,22 @@ object ISOCountryCodes {
 
     val countriesPath = "/countries"
 
-    val countryDataPaths = using(getClass.getResourceAsStream("/countries/hint")) {
-      stream =>
-        Source.fromInputStream(stream).getLines.map(
-          country => s"${countriesPath}/${country}.yaml"
-        ).toList
+    val countryDataPaths = using(getClass.getResourceAsStream("/countries/hint")) { stream =>
+      Source.fromInputStream(stream).getLines.map(
+        country => s"${countriesPath}/${country}.yaml"
+      ).toList
     }
 
-    def readMap(path: String): mT = {
-      val b = getClass.getResourceAsStream(path)
-      using(b) {
-        stream => mapper.readValue(stream, classOf[mT])
-      }
+    def readMap(path: String): mT = using(getClass.getResourceAsStream(path)) {
+      stream => mapper.readValue(stream, classOf[mT])
     }
 
     val localizationPath = s"/localization/${localization.toLowerCase}.yaml"
     val localizationMap = readMap(localizationPath)
-    val countryDataMap = countryDataPaths.map {
-      countryDataPath =>
-        readMap(countryDataPath).mapValues(
-          data => {
-            (data ++ localizationMap(data("alpha2").asInstanceOf[String])).toCaseClass[Country]
-          }
-        )
+    val countryDataMap = countryDataPaths.map { countryDataPath =>
+      readMap(countryDataPath).mapValues(data => {
+        (data ++ localizationMap(data("alpha2").asInstanceOf[String])).toCaseClass[Country]
+      })
     }
 
     new LookupTable(countryDataMap.flatMap(_.values), indexedFields)
