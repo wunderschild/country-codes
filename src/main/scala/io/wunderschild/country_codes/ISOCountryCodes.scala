@@ -59,10 +59,3 @@ object ISOCountryCodes {
     new LookupTable(countryDataMap.flatMap(_.values), indexedFields)
   }
 }
-
-object ISOCountryCodesTest {
-  def main(args: Array[String]): Unit = {
-    val iso = ISOCountryCodes("ru", Seq("officialName", "otherNames", "nationality"))
-    require(iso.lookup("Russian").isDefined)
-  }
-}
