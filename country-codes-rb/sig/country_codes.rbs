@@ -1,0 +1,28 @@
+module CountryCodes
+  SEARCHABLE_FIELDS: Array[Symbol]
+  VERSION: String
+  LIB_VERSION: String
+
+  def self.instance: (?locale: String, ?search_fields: ::Array[Symbol]) -> LookupTable
+
+  def self.find: (String term, ?locale: String, ?search_fields: ::Array[Symbol]) -> Country?
+
+  class Country
+    attr_reader alpha2: String
+
+    attr_reader alpha3: String
+
+    attr_reader nationality: String
+
+    attr_reader sovereignty: String?
+
+    attr_reader official_name: String
+
+    attr_reader other_names: ::Array[String]
+  end
+
+  class LookupTable
+    def find: (String term) -> CountryCodes::Country?
+  end
+
+end

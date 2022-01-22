@@ -1,0 +1,15 @@
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+
+.rspec_status
+/**/*.jar
+/lib/*_jars.rb
+/.mvn
+*.gem
+settings.xml

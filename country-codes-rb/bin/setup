@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -euo pipefail
+IFS=$'\n\t'
+set -vx
+
+JRUBY=$(which jruby)
+
+${JRUBY} -v || {
+  echo <&2 "No JRuby found!"
+  exit 1
+}
+
+${JRUBY} -S gem install bundler
+${JRUBY} -S bundle install
+
+envsubst <settings.xml.template >settings.xml
+
+${JRUBY} -S bundle exec rake jars:install

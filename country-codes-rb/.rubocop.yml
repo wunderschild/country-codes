@@ -1,0 +1,41 @@
+require:
+  - rubocop-rspec
+  - rubocop-rake
+
+AllCops:
+  NewCops: enable
+  Exclude:
+    - 'bin/*'
+    - 'vendor/bundle/**/*'
+    - 'lib/*_jars.rb'
+
+Style/ClassAndModuleChildren:
+  EnforcedStyle: compact
+  Enabled:       false
+Style/Documentation:
+  Enabled: false
+
+Naming/InclusiveLanguage:
+  Enabled: false
+
+Layout/ArgumentAlignment:
+  EnforcedStyle: with_fixed_indentation
+Layout/MultilineMethodCallIndentation:
+  EnforcedStyle: indented
+Style/Lambda:
+  EnforcedStyle: literal
+Layout/FirstArrayElementIndentation:
+  EnforcedStyle: consistent
+Layout/FirstHashElementIndentation:
+  EnforcedStyle: consistent
+
+
+Layout/LineLength:
+  Max: 120
+Metrics/BlockLength:
+  Max: 30
+  IgnoredMethods: ['describe', 'context', 'shared_examples']
+Metrics/MethodLength:
+  Max: 30
+Metrics/AbcSize:
+  Max: 30
