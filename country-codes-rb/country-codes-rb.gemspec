@@ -12,12 +12,13 @@ Gem::Specification.new do |spec|
 
   spec.summary = 'A JRuby wrapper for country-codes Scala library'
   spec.description = ''
-  spec.homepage = 'https://github.com/wunderschild/country-codes-rb'
+  spec.homepage = 'https://github.com/wunderschild/country-codes'
   spec.license = 'MIT'
   spec.required_ruby_version = '>= 2.5.0'
 
   spec.metadata['homepage_uri'] = spec.homepage
   spec.metadata['source_code_uri'] = spec.homepage
+  spec.metadata['github_repo'] = 'https://github.com/thedeadferryman/country-codes'
 
   spec.files = Dir.chdir(File.expand_path(__dir__)) do
     source_files = Dir['lib/**/*'] + Dir['sig/**/*']

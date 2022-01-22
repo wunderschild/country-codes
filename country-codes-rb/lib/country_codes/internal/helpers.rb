@@ -11,6 +11,7 @@ module CountryCodes
       java_import 'scala.collection.JavaConverters'
       java_import 'java.util.ArrayList'
 
+      # rubocop:disable Metrics/CyclomaticComplexity
       def self.included(obj)
         obj.class_eval do
           # Defines a method(s) that redirect calls to an underlying object (receiver).
@@ -22,7 +23,7 @@ module CountryCodes
           # @param [Array<Symbol>] methods Name of methods to be defined
           # @param [Object] to Name of an instance method used to retrieve the receiver
           # @param [Array<Proc, Symbol>] interceptors A list of interceptors.
-          def self.delegate(*methods, to:, interceptors: []) # rubocop:dis
+          def self.delegate(*methods, to:, interceptors: [])
             unless methods.reject { |m| m.is_a? Symbol }.empty?
               raise ArgumentError, 'expected method reference to be a Symbol!'
             end
@@ -48,6 +49,7 @@ module CountryCodes
           end
         end
       end
+      # rubocop:enable Metrics/CyclomaticComplexity
 
       # Unpacks a scala.Some Java object to a value or `nil` (if an object is empty).
       #

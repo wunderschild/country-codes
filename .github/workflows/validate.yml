@@ -1,0 +1,35 @@
+name: Specs and lints for country-codes-rb
+
+on:
+  push:
+    branches: [ master, rubygem ]
+  pull_request:
+    branches: [ master, rubygem ]
+
+jobs:
+  build:
+    name: Run specs and lints
+    runs-on: ubuntu-20.04
+    permissions:
+      contents: read
+
+    env:
+      GITHUB_USER: 'thedeadferryman'
+      GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-java@v2
+        with:
+          distribution: 'temurin'
+          java-version: '8'
+      - uses: ruby/setup-ruby@v1.92.0
+        with:
+          ruby-version: 'jruby-9.3.2.0'
+          bundler-cache: true
+      - name: Setup the environment
+        working-directory: country-codes-rb
+        run: cat bin/setup | bash
+      - name: Run specs and lints
+        working-directory: country-codes-rb
+        run: bundle exec rake
