@@ -39,7 +39,7 @@ jobs:
           chmod 0600 $HOME/.gem/credentials
           printf -- "---\n:github: Bearer ${GITHUB_TOKEN}\n" > $HOME/.gem/credentials
           gem build *.gemspec
-          gem push --key github --host https://rubygems.pkg.github.com/${REPO_OWNER} *.gem
+          # gem push --key github --host https://rubygems.pkg.github.com/${REPO_OWNER} *.gem
       - name: Publish to RubyGems
         working-directory: country-codes-rb
         run: |
