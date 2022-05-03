@@ -6,7 +6,8 @@ lazy val commonSettings = (project in file(".")).
     scalaVersion := "2.12.12",
     crossScalaVersions := Seq("2.11.12", "2.12.12"),
     githubOwner := "wunderschild",
-    githubRepository := "country-codes"
+    githubRepository := "country-codes",
+    githubTokenSource := TokenSource.GitConfig("github.token")
   )
 
 val jacksonVersion = "2.10.5"
