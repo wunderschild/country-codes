@@ -3,8 +3,11 @@ ThisBuild / scalaVersion := "2.12.12"
 ThisBuild / crossScalaVersions := Seq("2.11.12", "2.12.12")
 
 lazy val root = (project in file("."))
+  .settings(commonSettings, publish / skip := true)
+  .aggregate(countryCodes)
+
+lazy val countryCodes = (project in file("country-codes"))
   .settings(commonSettings)
-  .aggregate(project in file("country-codes"))
 
 lazy val commonSettings = Seq(
   // Publish to GitHub Packages
