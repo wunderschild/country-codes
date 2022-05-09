@@ -33,7 +33,7 @@ object ISOCountryCodes {
 
     val countryDataPaths = using(getClass.getResourceAsStream("/countries/hint")) { stream =>
       Source.fromInputStream(stream).getLines.map(
-        country => s"${countriesPath}/${country}.yaml"
+        country => s"$countriesPath/$country.yaml"
       ).toList
     }
 
