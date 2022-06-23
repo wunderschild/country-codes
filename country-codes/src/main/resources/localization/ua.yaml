@@ -1,0 +1,954 @@
+AD:
+  officialName: Князівство Андорра
+  otherNames:
+    - Андорра
+AE:
+  officialName: Об'єднані Арабські Емірати
+  otherNames:
+    - ОАЕ
+AF:
+  officialName: Ісламська Республіка Афганістан
+  otherNames:
+    - Афганістан
+AG:
+  officialName: Антигуа і Барбуда
+  otherNames:
+AI:
+  officialName: Ангілья
+  otherNames:
+AL:
+  officialName: Республіка Албанія
+  otherNames:
+    - Албанія
+AM:
+  officialName: Республіка Вірменія
+  otherNames:
+    - Вірменія
+AO:
+  officialName: Республіка Ангола
+  otherNames:
+    - Ангола
+AQ:
+  officialName: Антарктида
+  otherNames:
+AR:
+  officialName: Аргентинська Республіка
+  otherNames:
+    - Аргентина
+AS:
+  officialName: Американське Самоа
+  otherNames:
+AT:
+  officialName: Республіка Австрія
+  otherNames:
+    - Австрія
+AU:
+  officialName: Австралійський Союз
+  otherNames:
+    - Австралія
+AW:
+  officialName: Аруба
+  otherNames:
+AX:
+  officialName: Аландські Острови
+  otherNames:
+    - Аланди
+AZ:
+  officialName: Республіка Азербайджан
+  otherNames:
+    - Азербайджан
+BA:
+  officialName: Республіка Боснія і Герцеговина
+  otherNames:
+    - Боснія і Герцеговина
+BB:
+  officialName: Барбадос
+  otherNames:
+BD:
+  officialName: Народна Республіка Бангладеш
+  otherNames:
+    - Бангладеш
+BE:
+  officialName: Королівство Бельгія
+  otherNames:
+    - Бельгія
+BF:
+  officialName: Буркіна-Фасо
+  otherNames:
+BG:
+  officialName: Республіка Болгарія
+  otherNames:
+    - Болгарія
+BH:
+  officialName: Королівство Бахрейн
+  otherNames:
+    - Бахрейн
+BI:
+  officialName: Республіка Бурунді
+  otherNames:
+    - Бурунді
+BJ:
+  officialName: Республіка Бенін
+  otherNames:
+    - Бенін
+BL:
+  officialName: Сен-Бартельмі
+  otherNames:
+BM:
+  officialName: Бермудські Острови
+  otherNames:
+    - Бермуди
+BN:
+  officialName: Бруней-Даруссалам
+  otherNames:
+    - Бруней
+BO:
+  officialName: Багатонаціональна держава Болівія
+  otherNames:
+    - Болівія
+BQ:
+  officialName: Бонайре
+  otherNames:
+    - Саба
+    - Сінт-Естатіус
+BR:
+  officialName: Федеративна Республіка Бразилія
+  otherNames:
+    - Бразилія
+BS:
+  officialName: Співдружність Багамських Островів
+  otherNames:
+    - Багамські Острови
+BT:
+  officialName: Королівство Бутан
+  otherNames:
+    - Бутан
+BV:
+  officialName: Острів Буве
+  otherNames:
+BW:
+  officialName: Республіка Ботсвана
+  otherNames:
+    - Ботсвана
+BY:
+  officialName: Республіка Білорусь
+  otherNames:
+    - Білорусь
+BZ:
+  officialName: Беліз
+  otherNames:
+CA:
+  officialName: Канада
+  otherNames:
+CC:
+  officialName: Кокосові Острови
+  otherNames:
+CD:
+  officialName: Демократична Республіка Конго
+  otherNames:
+    - ДР Конго
+CF:
+  officialName: Центральноафриканська Республіка
+  otherNames:
+    - ЦАР
+CG:
+  officialName: Республіка Конго
+  otherNames:
+CH:
+  officialName: Швейцарська Конфедерація
+  otherNames:
+    - Швейцарія
+CI:
+  officialName: Республіка Кот-д'Івуар
+  otherNames:
+    - Кот-д'Івуар
+CK:
+  officialName: Острови Кука
+  otherNames:
+CL:
+  officialName: Республіка Чилі
+  otherNames:
+    - Чилі
+CM:
+  officialName: Республіка Камерун
+  otherNames:
+    - Камерун
+CN:
+  officialName: Китайська Народна Республіка
+  otherNames:
+    - Китай
+    - КНР
+CO:
+  officialName: Республіка Колумбія
+  otherNames:
+    - Колумбія
+CR:
+  officialName: Республіка Коста-Рика
+  otherNames:
+    - Коста-Рика
+CU:
+  officialName: Республіка Куба
+  otherNames:
+    - Куба
+CV:
+  officialName: Республіка Кабо-Верде
+  otherNames:
+    - Кабо-Верде
+CW:
+  officialName: Кюрасао
+  otherNames:
+CX:
+  officialName: Острів Різдва
+  otherNames:
+CY:
+  officialName: Республіка Кіпр
+  otherNames:
+    - Кіпр
+CZ:
+  officialName: Чеська Республіка
+  otherNames:
+    - Чехія
+DE:
+  officialName: Федеративна Республіка Німеччина
+  otherNames:
+    - Німеччина
+DJ:
+  officialName: Республіка Джибуті
+  otherNames:
+    - Джибуті
+DK:
+  officialName: Королівство Данія
+  otherNames:
+    - Данія
+DM:
+  officialName: Співдружність Домініки
+  otherNames:
+    - Домініка
+DO:
+  officialName: Домініканська Республіка
+  otherNames:
+DZ:
+  officialName: Алжирська Народна Демократична Республіка
+  otherNames:
+    - Алжир
+EC:
+  officialName: Республіка Еквадор
+  otherNames:
+    - Еквадор
+EE:
+  officialName: Естонська Республіка
+  otherNames:
+    - Естонія
+EG:
+  officialName: Арабська Республіка Єгипет
+  otherNames:
+    - Єгипет
+EH:
+  officialName: Сахарська Арабська Демократична Республіка
+  otherNames:
+    - Західна Сахара
+    - САДР
+ER:
+  officialName: Держава Еритрея
+  otherNames:
+    - Еритрея
+ES:
+  officialName: Королівство Іспанія
+  otherNames:
+    - Іспанія
+    - Канарські Острови
+    - Мелілья
+    - Сеута
+    - Суверенні території Іспанії
+    - Суверенні території
+ET:
+  officialName: Федеративна Демократична Республіка Ефіопія
+  otherNames:
+    - Ефіопія
+FI:
+  officialName: Фінляндська Республіка
+  otherNames:
+    - Фінляндія
+FJ:
+  officialName: Республіка Фіджі
+  otherNames:
+    - Фіджі
+FK:
+  officialName: Фолклендські Острови
+  otherNames:
+    - Фолкленди
+FM:
+  officialName: Федеративні Штати Мікронезії
+  otherNames:
+    - Мікронезія
+    - ФШМ
+FO:
+  officialName: Фарерські Острови
+  otherNames:
+    - Фарери
+FR:
+  officialName: Французька Республіка
+  otherNames:
+    - Франція
+GA:
+  officialName: Габонська Республіка
+  otherNames:
+    - Габон
+GB:
+  officialName: Сполучене Королівство Великої Британії і Північної Ірландії
+  otherNames:
+    - Велика Британія
+GD:
+  officialName: Гренада
+  otherNames:
+GE:
+  officialName: Грузія
+  otherNames:
+GF:
+  officialName: Гвіана
+  otherNames:
+GG:
+  officialName: Гернсі
+  otherNames:
+GH:
+  officialName: Республіка Гана
+  otherNames:
+    - Гана
+GI:
+  officialName: Гібралтар
+  otherNames:
+GL:
+  officialName: Гренландія
+  otherNames:
+GM:
+  officialName: Республіка Гамбія
+  otherNames:
+    - Гамбія
+GN:
+  officialName: Республіка Гвінея
+  otherNames:
+    - Гвінея
+GP:
+  officialName: Гваделупа
+  otherNames:
+GQ:
+  officialName: Республіка Екваторіальна Гвінея
+  otherNames:
+    - Екваторіальна Гвінея
+GR:
+  officialName: Грецька Республіка
+  otherNames:
+    - Греція
+GS:
+  officialName: Південна Джорджія і Південні Сандвічеві Острови
+  otherNames:
+GT:
+  officialName: Республіка Гватемала
+  otherNames:
+    - Гватемала
+GU:
+  officialName: Гуам
+  otherNames:
+GW:
+  officialName: Республіка Гвінея-Бісау
+  otherNames:
+    - Гвінея-Бісау
+GY:
+  officialName: Кооперативна Республіка Гайана
+  otherNames:
+    - Гаяна
+HK:
+  officialName: Гонконг
+  otherNames:
+    - Сянган
+HM:
+  officialName: Острів Герд і острови Макдональд
+  otherNames:
+    - Острів Херд і острови Макдональд
+HN:
+  officialName: Республіка Гондурас
+  otherNames:
+    - Гондурас
+HR:
+  officialName: Республіка Хорватія
+  otherNames:
+    - Хорватія
+HT:
+  officialName: Республіка Гаїті
+  otherNames:
+    - Гаїті
+HU:
+  officialName: Угорщина
+  otherNames:
+ID:
+  officialName: Республіка Індонезія
+  otherNames:
+    - Індонезія
+IE:
+  officialName: Республіка Ірландія
+  otherNames:
+    - Ірландія
+IL:
+  officialName: Держава Ізраїль
+  otherNames:
+    - Ізраїль
+IM:
+  officialName: Острів Мен
+  otherNames:
+IN:
+  officialName: Республіка Індія
+  otherNames:
+    - Індія
+IO:
+  officialName: Британська Територія в Індійському Океані
+  otherNames:
+IQ:
+  officialName: Республіка Ірак
+  otherNames:
+    - Ірак
+IR:
+  officialName: Ісламська Республіка Іран
+  otherNames:
+    - Іран
+IS:
+  officialName: Республіка Ісландія
+  otherNames:
+    - Ісландія
+IT:
+  officialName: Італійська Республіка
+  otherNames:
+    - Італія
+JE:
+  officialName: Джерсі
+  otherNames:
+JM:
+  officialName: Ямайка
+  otherNames:
+JO:
+  officialName: Йорданське Хашимітське Королівство
+  otherNames:
+    - Йорданія
+JP:
+  officialName: Японія
+  otherNames:
+KE:
+  officialName: Республіка Кенія
+  otherNames:
+    - Кенія
+KG:
+  officialName: Киргизька Республіка
+  otherNames:
+    - Киргизстан
+KH:
+  officialName: Королівство Камбоджа
+  otherNames:
+    - Камбоджа
+KI:
+  officialName: Республіка Кірибаті
+  otherNames:
+    - Кірибаті
+KM:
+  officialName: Союз Коморських Островів
+  otherNames:
+    - Коморські Острови
+KN:
+  officialName: Федерація Сент-Кіттс і Невіс
+  otherNames:
+    - Сент-Кіттс і Невіс
+KP:
+  officialName: Корейська Народно-Демократична Республіка
+  otherNames:
+    - Північна Корея
+    - КНДР
+KR:
+  officialName: Республіка Корея
+  otherNames:
+    - Південна Корея
+KW:
+  officialName: Держава Кувейт
+  otherNames:
+    - Кувейт
+KY:
+  officialName: Кайманові Острови
+  otherNames:
+KZ:
+  officialName: Республіка Казахстан
+  otherNames:
+    - Казахстан
+LA:
+  officialName: Лаоська Народно-Демократична Республіка
+  otherNames:
+    - ЛНДР
+    - Лаос
+LB:
+  officialName: Ліванська Республіка
+  otherNames:
+    - Ліван
+LC:
+  officialName: Сент-Люсія
+  otherNames:
+LI:
+  officialName: Князівство Ліхтенштейн
+  otherNames:
+    - Ліхтенштейн
+LK:
+  officialName: Демократична Соціалістична Республіка Шрі-Ланка
+  otherNames:
+    - Шрі-Ланка
+LR:
+  officialName: Республіка Ліберія
+  otherNames:
+    - Ліберія
+LS:
+  officialName: Королівство Лесото
+  otherNames:
+    - Лесото
+LT:
+  officialName: Республіка Литва
+  otherNames:
+    - Литва
+LU:
+  officialName: Велике князівство Люксембург
+  otherNames:
+    - Люксембург
+LV:
+  officialName: Республіка Латвія
+  otherNames:
+    - Латвія
+LY:
+  officialName: Держава Лівія
+  otherNames:
+    - Лівія
+MA:
+  officialName: Королівство Марокко
+  otherNames:
+    - Марокко
+MC:
+  officialName: Князівство Монако
+  otherNames:
+    - Монако
+MD:
+  officialName: Республіка Молдова
+  otherNames:
+    - Молдова
+ME:
+  officialName: Республіка Чорногорія
+  otherNames:
+    - Чорногорія
+MF:
+  officialName: Сен-Мартен
+  otherNames:
+MG:
+  officialName: Республіка Мадагаскар
+  otherNames:
+    - Мадагаскар
+MH:
+  officialName: Республіка Маршаллові Острови
+  otherNames:
+    - Маршаллові Острови
+MK:
+  officialName: Республіка Північна Македонія
+  otherNames:
+    - Північна Македонія
+ML:
+  officialName: Республіка Малі
+  otherNames:
+    - Малі
+MM:
+  officialName: Республіка Союз М'янма
+  otherNames:
+    - М'янма
+MN:
+  officialName: Монголія
+  otherNames:
+MO:
+  officialName: Аоминь
+  otherNames:
+    - Макао
+MP:
+  officialName: Північні Маріанські Острови
+  otherNames:
+    - Північні Маріани
+MQ:
+  officialName: Мартиніка
+  otherNames:
+MR:
+  officialName: Ісламська Республіка Мавританія
+  otherNames:
+    - Мавританія
+MS:
+  officialName: Монтсеррат
+  otherNames:
+MT:
+  officialName: Республіка Мальта
+  otherNames:
+    - Мальта
+MU:
+  officialName: Республіка Маврикій
+  otherNames:
+    - Маврикій
+MV:
+  officialName: Мальдівська Республіка
+  otherNames:
+    - Мальдіви
+MW:
+  officialName: Республіка Малаві
+  otherNames:
+    - Малаві
+MX:
+  officialName: Сполучені Штати Мексики
+  otherNames:
+    - Мексика
+MY:
+  officialName: Малайзія
+  otherNames:
+MZ:
+  officialName: Республіка Мозамбік
+  otherNames:
+    - Мозамбік
+NA:
+  officialName: Республіка Намібія
+  otherNames:
+    - Намібія
+NC:
+  officialName: Нова Каледонія
+  otherNames:
+NE:
+  officialName: Республіка Нігер
+  otherNames:
+    - Нігер
+NF:
+  officialName: Острів Норфолк
+  otherNames:
+NG:
+  officialName: Федеративна Республіка Нігерія
+  otherNames:
+    - Нігерія
+NI:
+  officialName: Республіка Нікарагуа
+  otherNames:
+    - Нікарагуа
+NL:
+  officialName: Королівство Нідерланди
+  otherNames:
+    - Нідерланди
+NO:
+  officialName: Королівство Норвегія
+  otherNames:
+    - Норвегія
+NP:
+  officialName: Федеративна Демократична Республіка Непал
+  otherNames:
+    - Непал
+NR:
+  officialName: Республіка Науру
+  otherNames:
+    - Науру
+NU:
+  officialName: Ніуе
+  otherNames:
+NZ:
+  officialName: Нова Зеландія
+  otherNames:
+OM:
+  officialName: Султанат Оман
+  otherNames:
+    - Оман
+PA:
+  officialName: Республіка Панама
+  otherNames:
+    - Панама
+PE:
+  officialName: Республіка Перу
+  otherNames:
+    - Перу
+PF:
+  officialName: Французька Полінезія
+  otherNames:
+PG:
+  officialName: Незалежна Держава Папуа-Нова Гвінея
+  otherNames:
+    - Папуа Нова Гвінея
+PH:
+  officialName: Республіка Філіппіни
+  otherNames:
+    - Філіппіни
+PK:
+  officialName: Ісламська Республіка Пакистан
+  otherNames:
+    - Пакистан
+PL:
+  officialName: Республіка Польща
+  otherNames:
+    - Польща
+PM:
+  officialName: Сен-П'єр і Мікелон
+  otherNames:
+PN:
+  officialName: Острови Піткерн
+  otherNames:
+    - Піткерн
+PR:
+  officialName: Пуерто-Рико
+  otherNames:
+PS:
+  officialName: Держава Палестина
+  otherNames:
+    - Палестина
+PT:
+  officialName: Португальська Республіка
+  otherNames:
+    - Португалія
+    - Азорські Острови
+    - Мадейра
+PW:
+  officialName: Республіка Палау
+  otherNames:
+    - Палау
+PY:
+  officialName: Республіка Парагвай
+  otherNames:
+    - Парагвай
+QA:
+  officialName: Держава Катар
+  otherNames:
+    - Катар
+RE:
+  officialName: Реюньйон
+  otherNames:
+RO:
+  officialName: Румунія
+  otherNames:
+RS:
+  officialName: Республіка Сербія
+  otherNames:
+    - Сербія
+RU:
+  officialName: Російська Федерація
+  otherNames:
+    - Росія
+RW:
+  officialName: Республіка Руанда
+  otherNames:
+    - Руанда
+SA:
+  officialName: Королівство Саудівська Аравія
+  otherNames:
+    - Саудівська Аравія
+SB:
+  officialName: Соломонові Острови
+  otherNames:
+SC:
+  officialName: Республіка Сейшельські Острови
+  otherNames:
+    - Сейшельські Острови
+SD:
+  officialName: Республіка Судан
+  otherNames:
+    - Судан
+SE:
+  officialName: Королівство Швеція
+  otherNames:
+    - Швеція
+SG:
+  officialName: Республіка Сінгапур
+  otherNames:
+    - Сінгапур
+SH:
+  officialName: Острови Святої Єлени, Вознесіння і Тристан-да-Кунья
+  otherNames:
+SI:
+  officialName: Республіка Словенія
+  otherNames:
+    - Словенія
+SJ:
+  officialName: Свальбард
+  otherNames:
+    - Ян-Маєн
+SK:
+  officialName: Словацька Республіка
+  otherNames:
+    - Словаччина
+SL:
+  officialName: Республіка Сьєрра-Леоне
+  otherNames:
+    - Сьєрра-Леоне
+SM:
+  officialName: Республіка Сан-Марино
+  otherNames:
+    - Сан-Марино
+SN:
+  officialName: Республіка Сенегал
+  otherNames:
+    - Сенегал
+SO:
+  officialName: Федеративна Республіка Сомалі
+  otherNames:
+    - Сомалі
+SR:
+  officialName: Республіка Суринам
+  otherNames:
+    - Суринам
+SS:
+  officialName: Республіка Південний Судан
+  otherNames:
+    - Південний Судан
+ST:
+  officialName: Демократична Республіка Сан-Томе і Принсіпі
+  otherNames:
+    - Сан-Томе і Принсіпі
+SV:
+  officialName: Республіка Сальвадор
+  otherNames:
+    - Сальвадор
+SX:
+  officialName: Сінт-Мартен
+  otherNames:
+SY:
+  officialName: Сирійська Арабська Республіка
+  otherNames:
+    - Сирія
+SZ:
+  officialName: Королівство Есватіні
+  otherNames:
+    - Есватіні
+TC:
+  officialName: Острови Теркс і Кайкос
+  otherNames:
+    - Теркс і Кайкос
+TD:
+  officialName: Республіка Чад
+  otherNames:
+    - Чад
+TF:
+  officialName: Французькі Південні і Антарктичні Території
+  otherNames:
+    - ФПАТ
+TG:
+  officialName: Тоголезька Республіка
+  otherNames:
+    - Того
+TH:
+  officialName: Королівство Таїланд
+  otherNames:
+    - Таїланд
+TJ:
+  officialName: Республіка Таджикистан
+  otherNames:
+    - Таджикистан
+TK:
+  officialName: Токелау
+  otherNames:
+TL:
+  officialName: Демократична Республіка Тимор-Лешті
+  otherNames:
+    - Східний Тимор
+TM:
+  officialName: Туркменістан
+  otherNames:
+TN:
+  officialName: Туніська Республіка
+  otherNames:
+    - Туніс
+TO:
+  officialName: Королівство Тонга
+  otherNames:
+    - Тонга
+TR:
+  officialName: Турецька Республіка
+  otherNames:
+    - Туреччина
+TT:
+  officialName: Республіка Тринідад і Тобаго
+  otherNames:
+    - Тринідад і Тобаго
+TV:
+  officialName: Тувалу
+  otherNames:
+TW:
+  officialName: Республіка Китай
+  otherNames:
+    - Тайвань
+TZ:
+  officialName: Об'єднана Республіка Танзанія
+  otherNames:
+    - Танзанія
+UA:
+  officialName: Україна
+  otherNames:
+UG:
+  officialName: Республіка Уганда
+  otherNames:
+    - Уганда
+UM:
+  officialName: Зовнішні малі острови США
+  otherNames:
+US:
+  officialName: Сполучені Штати Америки
+  otherNames:
+    - США
+UY:
+  officialName: Південна Республіка Уругвай
+  otherNames:
+    - Уругвай
+UZ:
+  officialName: Республіка Узбекистан
+  otherNames:
+    - Узбекистан
+VA:
+  officialName: Святий престол
+  otherNames:
+    - Ватикан
+VC:
+  officialName: Сент-Вінсент і Гренадини
+  otherNames:
+VE:
+  officialName: Боліварська Республіка Венесуела
+  otherNames:
+    - Венесуела
+VG:
+  officialName: Британські Віргінські Острови
+  otherNames:
+    - Британські Віргіни
+VI:
+  officialName: Американські Віргінські Острови
+  otherNames:
+    - Американські Віргіни
+VN:
+  officialName: Соціалістична Республіка В'єтнам
+  otherNames:
+    - В'єтнам
+VU:
+  officialName: Республіка Вануату
+  otherNames:
+    - Вануату
+WF:
+  officialName: Волліс і Футуна
+  otherNames:
+WS:
+  officialName: Незалежна держава Самоа
+  otherNames:
+    - Самоа
+XK:
+  officialName: Республіка Косово
+  otherNames:
+    - Косово
+YE:
+  officialName: Республіка Ємен
+  otherNames:
+    - Ємен
+YT:
+  officialName: Майотта
+  otherNames:
+ZA:
+  officialName: Південно-Африканська Республіка
+  otherNames:
+    - ПАР
+ZM:
+  officialName: Республіка Замбія
+  otherNames:
+    - Замбія
+ZW:
+  officialName: Республіка Зімбабве
+  otherNames:
+    - Зімбабве
