@@ -1,4 +1,4 @@
-name := "country-codes-scala"
+name := "country-codes"
 version := "0.0.6"
 
 val jacksonVersion = "2.10.5"
