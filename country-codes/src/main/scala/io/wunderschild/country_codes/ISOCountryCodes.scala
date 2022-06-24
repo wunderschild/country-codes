@@ -3,26 +3,30 @@ package io.wunderschild.country_codes
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.dataformat.yaml.YAMLFactory
 import com.fasterxml.jackson.module.scala.DefaultScalaModule
-import CountryHelpers._
+import io.wunderschild.country_codes.CountryHelpers._
 
 import scala.io.Source
+import scala.language.reflectiveCalls
 
 object ISOCountryCodes {
-  private def using[A, B <: {def close(): Unit}](closeable: B)(f: B => A): A = {
+
+  private def using[A, B <: { def close(): Unit }](closeable: B)(f: B => A): A = {
     try {
       f(closeable)
-    } finally {
+    }
+    finally {
       closeable.close()
     }
   }
 
-  /** Create lookup table that can be used for fast search of country by name.
+  /**
+   * Create lookup table that can be used for fast search of country by name.
    *
    * @param localization language to be used for the country names
    */
   def apply(
     localization: String = "en",
-    indexedFields: Seq[String] = Seq("officialName", "otherNames", "nationality")
+    indexedFields: Seq[String] = Seq("officialName", "otherNames", "nationality"),
   ): LookupTable = {
     type mT = Map[String, Map[String, Any]]
 
@@ -32,9 +36,7 @@ object ISOCountryCodes {
     val countriesPath = "/countries"
 
     val countryDataPaths = using(getClass.getResourceAsStream("/countries/hint")) { stream =>
-      Source.fromInputStream(stream).getLines.map(
-        country => s"$countriesPath/$country.yaml"
-      ).toList
+      Source.fromInputStream(stream).getLines.map(country => s"$countriesPath/$country.yaml").toList
     }
 
     def readMap(path: String): mT = using(getClass.getResourceAsStream(path)) {
@@ -51,4 +53,5 @@ object ISOCountryCodes {
 
     new LookupTable(countryDataMap.flatMap(_.values), indexedFields)
   }
+
 }
