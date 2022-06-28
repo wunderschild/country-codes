@@ -68,10 +68,12 @@ BD:
   officialName: Народна Республіка Бангладеш
   otherNames:
     - Бангладеш
+    - Банґладеш
 BE:
   officialName: Королівство Бельгія
   otherNames:
     - Бельгія
+    - Бельґія
 BF:
   officialName: Буркіна-Фасо
   otherNames:
@@ -119,6 +121,7 @@ BS:
   officialName: Співдружність Багамських Островів
   otherNames:
     - Багамські Острови
+    - Багами
 BT:
   officialName: Королівство Бутан
   otherNames:
@@ -146,6 +149,7 @@ CC:
 CD:
   officialName: Демократична Республіка Конго
   otherNames:
+    - Демократична Республіка Конґо
     - ДР Конго
 CF:
   officialName: Центральноафриканська Республіка
@@ -298,6 +302,8 @@ GB:
   officialName: Сполучене Королівство Великої Британії і Північної Ірландії
   otherNames:
     - Велика Британія
+    - Анґілья
+    - Сполучене Королівство
 GD:
   officialName: Гренада
   otherNames:
@@ -317,6 +323,7 @@ GH:
 GI:
   officialName: Гібралтар
   otherNames:
+    - Ґібралтар
 GL:
   officialName: Гренландія
   otherNames:
@@ -331,6 +338,7 @@ GN:
 GP:
   officialName: Гваделупа
   otherNames:
+    - Ґваделупа
 GQ:
   officialName: Республіка Екваторіальна Гвінея
   otherNames:
@@ -511,6 +519,7 @@ LU:
   officialName: Велике князівство Люксембург
   otherNames:
     - Люксембург
+    - Люксембурґ
 LV:
   officialName: Республіка Латвія
   otherNames:
@@ -624,6 +633,7 @@ NG:
   officialName: Федеративна Республіка Нігерія
   otherNames:
     - Нігерія
+    - Ніґерія
 NI:
   officialName: Республіка Нікарагуа
   otherNames:
@@ -632,6 +642,7 @@ NL:
   officialName: Королівство Нідерланди
   otherNames:
     - Нідерланди
+    - Нідерландські Антильські острови
 NO:
   officialName: Королівство Норвегія
   otherNames:
@@ -699,6 +710,7 @@ PT:
   officialName: Португальська Республіка
   otherNames:
     - Португалія
+    - Портуґалія
     - Азорські Острови
     - Мадейра
 PW:
@@ -742,6 +754,7 @@ SC:
   officialName: Республіка Сейшельські Острови
   otherNames:
     - Сейшельські Острови
+    - Сейшели
 SD:
   officialName: Республіка Судан
   otherNames:
@@ -828,6 +841,7 @@ TG:
   officialName: Тоголезька Республіка
   otherNames:
     - Того
+    - Тоґо
 TH:
   officialName: Королівство Таїланд
   otherNames:
@@ -880,6 +894,7 @@ UG:
   officialName: Республіка Уганда
   otherNames:
     - Уганда
+    - Уґанда
 UM:
   officialName: Зовнішні малі острови США
   otherNames:
@@ -891,6 +906,7 @@ UY:
   officialName: Південна Республіка Уругвай
   otherNames:
     - Уругвай
+    - Уруґвай
 UZ:
   officialName: Республіка Узбекистан
   otherNames:
@@ -902,6 +918,7 @@ VA:
 VC:
   officialName: Сент-Вінсент і Гренадини
   otherNames:
+    - Сент-Вінсент і Ґренадіни
 VE:
   officialName: Боліварська Республіка Венесуела
   otherNames:
@@ -909,6 +926,7 @@ VE:
 VG:
   officialName: Британські Віргінські Острови
   otherNames:
+    - Британські Вірґінські Острови
     - Британські Віргіни
 VI:
   officialName: Американські Віргінські Острови
@@ -944,6 +962,7 @@ ZA:
   officialName: Південно-Африканська Республіка
   otherNames:
     - ПАР
+    - Південна Африка
 ZM:
   officialName: Республіка Замбія
   otherNames:
