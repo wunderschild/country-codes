@@ -2,35 +2,34 @@ AE:
   officialName: United Arab Emirates
   otherNames:
     - Emirates
-    - UAE
     - U.A.E.
+    - UAE
 AM:
-  officialName: Armenia
+  officialName: Republic of Armenia
   otherNames:
-    - Republic of Armenia
+    - Armenia
 AR:
-  officialName: Argentina
+  officialName: Argentine Republic
   otherNames:
-    - Argentine Republic
+    - Argentina
 AT:
-  officialName: Austria
+  officialName: Republic of Austria
   otherNames:
-    - Republic of Austria
+    - Austria
 AU:
-  officialName: Australia
+  officialName: Commonwealth of Australia
   otherNames:
-    - Commonwealth of Australia
+    - Australia
 AW:
   officialName: Aruba
   otherNames:
 AZ:
-  officialName: Azerbaijan
+  officialName: Republic of Azerbaijan
   otherNames:
-    - Republic of Azerbaijan
+    - Azerbaijan
 BB:
   officialName: Barbados
   otherNames:
-    - Barbados
 BE:
   officialName: Kingdom of Belgium
   otherNames:
@@ -47,13 +46,13 @@ CF:
   otherNames:
     - CAR
 DE:
-  officialName: Germany
+  officialName: Federal Republic of Germany
   otherNames:
-    - Federal Republic of Germany
+    - Germany
 ET:
-  officialName: Ethiopia
+  officialName: Federal Democratic Republic of Ethiopia
   otherNames:
-    - Federal Democratic Republic of Ethiopia
+    - Ethiopia
 FK:
   officialName: Falkland Islands
   otherNames:
@@ -64,9 +63,9 @@ GG:
   officialName: Bailiwick of Guernsey
   otherNames:
 GH:
-  officialName: Ghana
+  officialName: Republic of Ghana
   otherNames:
-    - Republic of Ghana
+    - Ghana
 GI:
   officialName: Gibraltar
   otherNames:
@@ -74,81 +73,81 @@ GL:
   officialName: Greenland
   otherNames:
 GN:
-  officialName: Guinea
+  officialName: Republic of Guinea
   otherNames:
-    - Republic of Guinea
+    - Guinea
 GP:
   officialName: Guadeloupe
   otherNames:
 GR:
-  officialName: Greece
+  officialName: Hellenic Republic
   otherNames:
-    - Hellenic Republic
-    - Hellas
+    - Greece
 GT:
-  officialName: Guatemala
+  officialName: Republic of Guatemala
   otherNames:
-    - Republic of Guatemala
+    - Guatemala
 GU:
   officialName: Guam
   otherNames:
 GW:
-  officialName: Guinea-Bissau
+  officialName: Republic of Guinea-Bissau
   otherNames:
-    - Republic of Guinea-Bissau
+    - Guinea-Bissau
 GY:
-  officialName: Guyana
+  officialName: Co‑operative Republic of Guyana
   otherNames:
-    - Co-operative Republic of Guyana
+    - Guyana
 HT:
-  officialName: Haiti
+  officialName: Republic of Haiti
   otherNames:
-    - Hayti
-    - Republic of Haiti
+    - Haiti
 ID:
-  officialName: Indonesia
+  officialName: Republic of Indonesia
   otherNames:
-    - Republic of Indonesia
+    - Indonesia
 IN:
-  officialName: India
+  officialName: Republic of India
   otherNames:
-    - Republic of India
+    - India
 IT:
-  officialName: Italy
+  officialName: Republic of Italy
   otherNames:
-    - Repubblica Italiana
+    - Italian Republic
+    - Italy
 KY:
   officialName: Cayman Islands
   otherNames:
 LU:
-  officialName: Luxembourg
+  officialName: Grand Duchy of Luxembourg
   otherNames:
-    - Grand Duchy of Luxembourg
+    - Luxembourg
 MG:
-  officialName: Madagascar
+  officialName: Republic of Madagascar
   otherNames:
-    - Republic of Madagascar
+    - Madagascar
 MH:
-  officialName: Marshall Islands
+  officialName: Republic of the Marshall Islands
   otherNames:
-    - Republic of the Marshall Islands
+    - Marshall Islands
 ML:
-  officialName: Mali
+  officialName: Republic of Mali
   otherNames:
-    - Republic of Mali
+    - Mali
 MO:
-  officialName: Macau
+  officialName: Macao Special Administrative Region of the People's Republic of China
   otherNames:
     - Macao
-    - Macao Special Administrative Region of the People's Republic of China
+    - Macau
+    - MSAR
 MT:
-  officialName: Malta
+  officialName: Republic of Malta
   otherNames:
-    - Republic of Malta
+    - Malta
 MV:
-  officialName: Maldives
+  officialName: Republic of Maldives
   otherNames:
-    - Republic of Maldives
+    - Maldives
 MY:
   officialName: Malaysia
   otherNames:
@@ -158,37 +157,36 @@ NC:
 NZ:
   officialName: New Zealand
   otherNames:
-    - Realm of New Zealand
 PH:
-  officialName: Philippines
+  officialName: Republic of the Philippines
   otherNames:
-    - Republic of the Philippines
+    - Philippines
 PY:
-  officialName: Paraguay
+  officialName: Republic of Paraguay
   otherNames:
-    - Republic of Paraguay
+    - Paraguay
 SA:
-  officialName: Saudi Arabia
+  officialName: Kingdom of Saudi Arabia
   otherNames:
-    - Kingdom of Saudi Arabia
+    - Saudi Arabia
+    - Saudi
 SZ:
-  officialName: Eswatini
+  officialName: Kingdom of Eswatini
   otherNames:
     - Swaziland
-    - Kingdom of Eswatini
+    - Eswatini
 TV:
   officialName: Tuvalu
   otherNames:
     - Ellice Islands
 UG:
-  officialName: Uganda
+  officialName: Republic of Uganda
   otherNames:
-    - Republic of Uganda
+    - Uganda
 AD:
   officialName: Principality of Andorra
   otherNames:
     - Andorra
-    - Principality of the Valleys of Andorra
 AF:
   officialName: Islamic Republic of Afghanistan
   otherNames:
@@ -213,21 +211,19 @@ AS:
 AX:
   officialName: Åland Islands
   otherNames:
-    - Åland
     - Aland Islands
+    - Åland
     - Aland
 BA:
   officialName: Bosnia and Herzegovina
   otherNames:
-    - BiH
+    - Bosnia-Herzegovina
     - B&H
-    - Bosnia
-    - Bosnia–Herzegovina
 BD:
   officialName: People's Republic of Bangladesh
   otherNames:
-    - Bangladesh
     - Republic of Bangladesh
+    - Bangladesh
 BF:
   officialName: Republic of Burkina Faso
   otherNames:
@@ -249,9 +245,9 @@ BJ:
   otherNames:
     - Benin
 BL:
-  officialName: Territorial Collectivity of Saint-Barthelemy
+  officialName: Territorial Collectivity of Saint-Barthélemy
   otherNames:
-    - Saint Barthelemy
+    - Saint Barthélemy
     - St. Barths
     - St. Barts
 BM:
@@ -268,8 +264,8 @@ BO:
 BQ:
   officialName: Caribbean Netherlands
   otherNames:
-    - BES Islands
     - Bonaire, Sint Eustatius and Saba
+    - BES Islands
 BR:
   officialName: Federative Republic of Brazil
   otherNames:
@@ -286,8 +282,6 @@ BT:
 BV:
   officialName: Bouvet Island
   otherNames:
-    - Liverpool Island
-    - Lindsay Island
 BW:
   officialName: Republic of Botswana
   otherNames:
@@ -296,18 +290,18 @@ BZ:
   officialName: Belize
   otherNames:
 CC:
-  officialName: Cocos (Keeling) Islands
+  officialName: Territory of Cocos (Keeling) Islands
   otherNames:
-    - Cocos Islands
+    - Cocos (Keeling) Islands
     - Keeling Islands
+    - Cocos Islands
 CD:
   officialName: Democratic Republic of the Congo
   otherNames:
-    - DR Congo
-    - DRC
-    - DROC
     - Congo-Kinshasa
-    - Congo
+    - DR Congo
+    - DRoC
+    - DRC
 CG:
   officialName: Republic of the Congo
   otherNames:
@@ -321,9 +315,9 @@ CH:
 CI:
   officialName: Republic of Côte d'Ivoire
   otherNames:
-    - Ivory Coast
-    - The Ivory Coast
     - Côte d'Ivoire
+    - The Ivory Coast
+    - Ivory Coast
 AQ:
   officialName: Antarctica
   otherNames:
@@ -332,179 +326,183 @@ XK:
   otherNames:
     - Kosovo
 DZ:
-  officialName: Algeria
+  officialName: People's Democratic Republic of Algeria
   otherNames:
-    - People's Democratic Republic of Algeri
+    - Algeria
 IO:
   officialName: British Indian Ocean Territory
   otherNames:
     - BIOT
 CV:
-  officialName: Cape Verde
+  officialName: Republic of Cabo Verde
   otherNames:
     - Cabo Verde
-    - Republic of Cabo Verde
+    - Cape Verde
 KH:
-  officialName: Cambodia
+  officialName: Kingdom of Cambodia
   otherNames:
+    - Cambodia
     - Kampuchea
-    - Kingdom of Cambodia
 CM:
-  officialName: Cameroon
+  officialName: Republic of Cameroon
   otherNames:
-    - Republic of Cameroon
+    - Cameroon
 TD:
-  officialName: Chad
+  officialName: Republic of Chad
   otherNames:
-    - Republic of Chad
+    - Chad
 CL:
-  officialName: Chile
+  officialName: Republic of Chile
   otherNames:
-    - Republic of Chile
+    - Chile
 CN:
-  officialName: China
+  officialName: People's Republic of China
   otherNames:
-    - People's Republic of China
+    - China
     - PRC
 CX:
   officialName: Territory of Christmas Island
   otherNames:
 CO:
-  officialName: Colombia
+  officialName: Republic of Colombia
   otherNames:
-    - Republic of Colombia
+    - Colombia
 KM:
-  officialName: Comoros
+  officialName: Union of the Comoros
   otherNames:
-    - Union of the Comoros
+    - Comoros
 CK:
   officialName: Cook Islands
   otherNames:
-    - Births and deaths
 CR:
-  officialName: Costa Rica
+  officialName: Republic of Costa Rica
   otherNames:
-    - Republic of Costa Rica
+    - Costa Rica
 HR:
-  officialName: Croatia
+  officialName: Republic of Croatia
   otherNames:
-    - Republic of Croatia
+    - Croatia
 CU:
-  officialName: Cuba
+  officialName: Republic of Cuba
   otherNames:
-    - Republic of Cuba
+    - Cuba
 CW:
-  officialName: Curaçao
+  officialName: Country of Curaçao
   otherNames:
-    - Country of Curaçao
+    - Curaçao
+    - Curacao
 CY:
-  officialName: Cyprus
+  officialName: Republic of Cyprus
   otherNames:
-    - Republic of Cyprus
-    - Cypriot Republic
+    - Cyprus
 CZ:
   officialName: Czech Republic
   otherNames:
     - Czechia
 DK:
-  officialName: Denmark
+  officialName: Kingdom of Denmark
   otherNames:
-    - Kingdom of Denmark
+    - Denmark
 DJ:
-  officialName: Djibouti
+  officialName: Republic of Djibouti
   otherNames:
-    - Republic of Djibouti
+    - Djibouti
 DM:
-  officialName: Dominica
+  officialName: Commonwealth of Dominica
   otherNames:
-    - Commonwealth of Dominica
+    - Dominica
 DO:
   officialName: Dominican Republic
   otherNames:
 EC:
-  officialName: Ecuador
+  officialName: Republic of Ecuador
   otherNames:
-    - Republic of Ecuador
+    - Ecuador
 EG:
-  officialName: Egypt
+  officialName: Arab Republic of Egypt
   otherNames:
-    - Arab Republic of Egypt
+    - Egypt
 SV:
-  officialName: El Salvador
+  officialName: Republic of El Salvador
   otherNames:
-    - Republic of El Salvador
+    - El Salvador
 GQ:
-  officialName: Equatorial Guinea
+  officialName: Republic of Equatorial Guinea
   otherNames:
-    - Republic of Equatorial Guinea
+    - Equatorial Guinea
 ER:
-  officialName: Eritrea
+  officialName: State of Eritrea
   otherNames:
-    - State of Eritrea
+    - Eritrea
 EE:
-  officialName: Estonia
+  officialName: Republic of Estonia
   otherNames:
-    - Republic of Estonia
+    - Estonia
 FO:
   officialName: Faroe Islands
   otherNames:
-    - Faeroe Islands
+    - Faroes
+    - Faeroes
 FJ:
-  officialName: Fiji
+  officialName: Republic of Fiji
   otherNames:
-    - Republic of Fiji
-    - Government
-    - General information
+    - Fiji
 FI:
-  officialName: Finland
+  officialName: Republic of Finland
   otherNames:
-    - Republic of Finland
+    - Finland
 FR:
-  officialName: France
+  officialName: French Republic
   otherNames:
-    - French Republic
+    - France
 GF:
-  officialName: French Guiana
+  officialName: Territorial Collectivity of French Guiana
   otherNames:
-    - Arrondissement of Saint-Laurent-du-Maroni
-    - Arrondissement of Cayenne
+    - French Guiana
 PF:
   officialName: French Polynesia
   otherNames:
 TF:
   officialName: French Southern and Antarctic Lands
   otherNames:
-    - TAAF
-    - French Southern Lands
     - French Southern Territories
+    - French Southern Lands
+    - TAAF
 GA:
-  officialName: Gabon
+  officialName: Gabonese Republic
   otherNames:
-    - Gabonese Republic
+    - Gabon
 GM:
-  officialName: The Gambia
+  officialName: Republic of The Gambia
   otherNames:
-    - Republic of The Gambia
+    - The Gambia
+    - Gambia
 GE:
-  officialName: Georgia
+  officialName: Republic of Georgia
   otherNames:
-    - Republic of Georgia
+    - Georgia
 HM:
   officialName: Territory of Heard Island and McDonald Islands
   otherNames:
     - HIMI
 VA:
-  officialName: Holy See
+  officialName: Vatican City State
   otherNames:
+    - Vatican City
+    - Vatican
+    - Holy See
     - See of Rome
+    - Petrine See
+    - Apostolic See
 HN:
-  officialName: Honduras
+  officialName: Republic of Honduras
   otherNames:
-    - Republic of Honduras
+    - Honduras
 HK:
-  officialName: Hong Kong
+  officialName: Hong Kong Special Administrative Region of the People's Republic of China
   otherNames:
-    - Hong Kong Special Administrative Region of the People's Republic of China
+    - Hong Kong SAR
+    - Hong Kong
     - HKSAR
 HU:
   officialName: Hungary
@@ -513,153 +511,150 @@ IS:
   officialName: Iceland
   otherNames:
 IR:
-  officialName: Iran
+  officialName: Islamic Republic of Iran
   otherNames:
+    - Iran
     - Persia
-    - Islamic Republic of Iran
 IQ:
-  officialName: Iraq
+  officialName: Republic of Iraq
   otherNames:
-    - Republic of Iraq
+    - Iraq
 IE:
-  officialName: Ireland
+  officialName: Republic of Ireland
   otherNames:
-    - Republic of Ireland
+    - Ireland
 IM:
   officialName: Isle of Man
   otherNames:
     - Mann
 IL:
-  officialName: Israel
+  officialName: State of Israel
   otherNames:
-    - State of Israel
+    - Israel
 JM:
   officialName: Jamaica
   otherNames:
-    - Jamayca
 JP:
-  officialName: Japan
+  officialName: State of Japan
   otherNames:
-    - State of Japan
+    - Japan
 JE:
-  officialName: Jersey
+  officialName: Bailiwick of Jersey
   otherNames:
-    - Bailiwick of Jersey
+    - Jersey
 JO:
-  officialName: Jordan
+  officialName: Hashemite Kingdom of Jordan
   otherNames:
-    - Hashemite Kingdom of Jordan
+    - Jordan
 KZ:
-  officialName: Kazakhstan
+  officialName: Republic of Kazakhstan
   otherNames:
-    - Republic of Kazakhstan
+    - Kazakhstan
 KE:
-  officialName: Kenya
+  officialName: Republic of Kenya
   otherNames:
-    - Republic of Kenya
+    - Kenya
 KI:
-  officialName: Kiribati
+  officialName: Republic of Kiribati
   otherNames:
-    - Republic of Kiribati
+    - Kiribati
 KP:
-  officialName: North Korea
+  officialName: Democratic People's Republic of Korea
   otherNames:
-    - Democratic People's Republic of Korea
-    - DPRK
+    - North Korea
     - DPR Korea
+    - DPRK
 KR:
-  officialName: South Korea
+  officialName: Republic of Korea
   otherNames:
-    - Republic of Korea
+    - South Korea
 KW:
-  officialName: Kuwait
+  officialName: State of Kuwait
   otherNames:
-    - State of Kuwait
+    - Kuwait
 KG:
-  officialName: Kyrgyzstan
+  officialName: Kyrgyz Republic
   otherNames:
-    - Kyrgyz Republic
+    - Kyrgyzstan
     - Kirghizia
-    - Republic of Kyrgyzstan
 LA:
-  officialName: Laos
+  officialName: Lao People's Democratic Republic
   otherNames:
-    - Lao People's Democratic Republic
+    - Laos
 LV:
-  officialName: Latvia
+  officialName: Republic of Latvia
   otherNames:
-    - Republic of Latvia
+    - Latvia
 LB:
-  officialName: Lebanon
+  officialName: Lebanese Republic
   otherNames:
-    - Lebanese Republic
+    - Lebanon
 LS:
-  officialName: Lesotho
+  officialName: Kingdom of Lesotho
   otherNames:
-    - Kingdom of Lesotho
+    - Lesotho
 LR:
-  officialName: Liberia
+  officialName: Republic of Liberia
   otherNames:
-    - Republic of Liberia
+    - Liberia
 LY:
-  officialName: Libya
+  officialName: State of Libya
   otherNames:
-    - State of Libya
+    - Libya
 LI:
-  officialName: Liechtenstein
+  officialName: Principality of Liechtenstein
   otherNames:
-    - Principality of Liechtenstein
+    - Liechtenstein
 LT:
-  officialName: Lithuania
+  officialName: Republic of Lithuania
   otherNames:
-    - Republic of Lithuania
+    - Lithuania
 MK:
-  officialName: North Macedonia
+  officialName: Republic of North Macedonia
   otherNames:
+    - North Macedonia
     - Macedonia
-    - Republic of North Macedonia
 MW:
-  officialName: Malawi
+  officialName: Republic of Malawi
   otherNames:
-    - Republic of Malawi
+    - Malawi
     - Nyasaland
 MQ:
   officialName: Martinique
   otherNames:
 MR:
-  officialName: Mauritania
+  officialName: Islamic Republic of Mauritania
   otherNames:
-    - Islamic Republic of Mauritania
+    - Mauritania
 MU:
-  officialName: Mauritius
+  officialName: Republic of Mauritius
   otherNames:
-    - Republic of Mauritius
+    - Mauritius
 YT:
-  officialName: Mayotte
+  officialName: Department of Mayotte
   otherNames:
-    - Department of Mayotte
+    - Mayotte
 MX:
-  officialName: Mexico
+  officialName: United Mexican States
   otherNames:
-    - United Mexican States
+    - Mexico
     - UMS
 FM:
   officialName: Federated States of Micronesia
   otherNames:
-    - FSM
     - Micronesia
+    - FSM
 MD:
-  officialName: Moldova
+  officialName: Republic of Moldova
   otherNames:
-    - Republic of Moldova
+    - Moldova
 MC:
-  officialName: Monaco
+  officialName: Principality of Monaco
   otherNames:
-    - Principality of Monaco
+    - Monaco
 MN:
   officialName: Mongolia
   otherNames:
-    - judiciary of Mongolia
 ME:
   officialName: Montenegro
   otherNames:
@@ -667,122 +662,119 @@ MS:
   officialName: Montserrat
   otherNames:
 MA:
-  officialName: Morocco
+  officialName: Kingdom of Morocco
   otherNames:
-    - Kingdom of Morocco
+    - Morocco
 MZ:
-  officialName: Mozambique
+  officialName: Republic of Mozambique
   otherNames:
-    - Republic of Mozambique
+    - Mozambique
 MM:
-  officialName: Myanmar
+  officialName: Republic of the Union of Myanmar
   otherNames:
+    - Myanmar
     - Burma
-    - Republic of the Union of Myanmar
 NA:
-  officialName: Namibia
+  officialName: Republic of Namibia
   otherNames:
-    - Republic of Namibia
+    - Namibia
 NR:
-  officialName: Nauru
+  officialName: Republic of Nauru
   otherNames:
-    - Republic of Nauru
+    - Nauru
     - Pleasant Island
 NP:
-  officialName: Nepal
+  officialName: Federal Democratic Republic of Nepal
   otherNames:
-    - Federal Democratic Republic of Nepal
+    - Nepal
 NL:
   officialName: Kingdom of the Netherlands
   otherNames:
-    - Netherlands
     - The Netherlands
+    - Netherlands
 NI:
-  officialName: Nicaragua
+  officialName: Republic of Nicaragua
   otherNames:
-    - Republic of Nicaragua
+    - Nicaragua
 NE:
-  officialName: Niger
+  officialName: Republic of the Niger
   otherNames:
-    - the Niger
-    - Republic of the Niger
+    - The Niger
+    - Niger
 NG:
-  officialName: Nigeria
+  officialName: Federal Republic of Nigeria
   otherNames:
-    - Federal Republic of Nigeria
+    - Nigeria
 NU:
   officialName: Niue
   otherNames:
 NF:
-  officialName: Norfolk Island
+  officialName: Territory of Norfolk Island
   otherNames:
-    - Territory of Norfolk Island
+    - Norfolk Island
 MP:
-  officialName: Northern Mariana Islands
+  officialName: Commonwealth of the Northern Mariana Islands
   otherNames:
-    - Commonwealth of the Northern Mariana Islands
+    - Northern Mariana Islands
     - CNMI
 NO:
-  officialName: Norway
+  officialName: Kingdom of Norway
   otherNames:
-    - Kingdom of Norway
+    - Norway
 OM:
-  officialName: Oman
+  officialName: Sultanate of Oman
   otherNames:
-    - Sultanate of Oman
+    - Oman
 PK:
-  officialName: Pakistan
+  officialName: Islamic Republic of Pakistan
   otherNames:
-    - Islamic Republic of Pakistan
+    - Pakistan
 PW:
-  officialName: Palau
+  officialName: Republic of Palau
   otherNames:
-    - Republic of Palau
+    - Palau
 PS:
-  officialName: Palestine
+  officialName: State of Palestine
   otherNames:
-    - State of Palestine
+    - Palestine
+    - Palestinian territories
+    - occupied Palestinian territory
+    - Palestinian Authority territories
 PA:
-  officialName: Panama
+  officialName: Republic of Panama
   otherNames:
-    - Republic of Panama
-    - Provinces
-    - Regions
+    - Panama
 PG:
-  officialName: Papua New Guinea
+  officialName: Independent State of Papua New Guinea
   otherNames:
+    - Papua New Guinea
     - PNG
-    - Independent State of Papua New Guinea
 PE:
-  officialName: Peru
+  officialName: Republic of Peru
   otherNames:
-    - Republic of Peru
+    - Peru
 PN:
-  officialName: Pitcairn Islands
+  officialName: Pitcairn, Henderson, Ducie and Oeno Islands
   otherNames:
-    - Pitcairn, Henderson, Ducie and Oeno Islands
+    - Pitcairn Islands
 PL:
-  officialName: Poland
+  officialName: Republic of Poland
   otherNames:
-    - Republic of Poland
+    - Poland
 PT:
-  officialName: Portugal
+  officialName: Portuguese Republic
   otherNames:
-    - Portuguese Republic
-    - Portus Cale
-    - Portucale
-    - Portugale
     - Portugal
 PR:
-  officialName: Puerto Rico
+  officialName: Commonwealth of Puerto Rico
   otherNames:
-    - PR
-    - Commonwealth of Puerto Rico
+    - Puerto Rico
     - Porto Rico
+    - PR
 QA:
-  officialName: Qatar
+  officialName: State of Qatar
   otherNames:
-    - State of Qatar
+    - Qatar
 RE:
   officialName: Réunion
   otherNames:
@@ -791,188 +783,184 @@ RO:
   officialName: Romania
   otherNames:
 RU:
-  officialName: Russia
+  officialName: Russian Federation
   otherNames:
-    - Russian Federation
+    - Russia
 RW:
-  officialName: Rwanda
+  officialName: Republic of Rwanda
   otherNames:
     - Ruanda
-    - Republic of Rwanda
+    - Rwanda
 SH:
   officialName: Saint Helena, Ascension and Tristan da Cunha
   otherNames:
 KN:
-  officialName: Saint Kitts and Nevis
+  officialName: Federation of Saint Christopher and Nevis
   otherNames:
-    - Federation of Saint Christopher and Nevis
+    - Saint Kitts and Nevis
 LC:
   officialName: Saint Lucia
   otherNames:
-    - Iyonola
     - Hewanorra
+    - Iyonola
 MF:
   officialName: Collectivity of Saint Martin
   otherNames:
     - Saint Martin
 PM:
-  officialName: Saint Pierre and Miquelon
+  officialName: Territorial Collectivity of Saint-Pierre and Miquelon
   otherNames:
-    - Overseas Collectivity of Saint Pierre and Miquelon
-    - Grande Miquelon
-    - Petite Miquelon
-    - Isthme de Langlade
+    - Saint Pierre and Miquelon
 VC:
   officialName: Saint Vincent and the Grenadines
   otherNames:
-    - Saint Vincent
 WS:
-  officialName: Samoa
+  officialName: Independent State of Samoa
   otherNames:
-    - Independent State of Samoa
     - Western Samoa
+    - Samoa
 SM:
-  officialName: San Marino
+  officialName: Republic of San Marino
   otherNames:
-    - Republic of San Marino
     - Most Serene Republic of San Marino
+    - San Marino
 ST:
-  officialName: São Tomé and Príncipe
+  officialName: Democratic Republic of São Tomé and Príncipe
   otherNames:
-    - Sao Tome and Principe
     - Saint Thomas and Prince
-    - Democratic Republic of São Tomé and Príncipe
+    - São Tomé and Príncipe
+    - Sao Tome and Principe
 SN:
-  officialName: Senegal
+  officialName: Republic of Senegal
   otherNames:
-    - Republic of Senegal
+    - Senegal
 RS:
-  officialName: Serbia
+  officialName: Republic of Serbia
   otherNames:
-    - Republic of Serbia
+    - Serbia
 SC:
-  officialName: Seychelles
+  officialName: Republic of Seychelles
   otherNames:
-    - Republic of Seychelles
+    - Seychelles
 SL:
-  officialName: Sierra Leone
+  officialName: Republic of Sierra Leone
   otherNames:
-    - Republic of Sierra Leone
+    - Sierra Leone
     - Salone
 SG:
-  officialName: Singapore
+  officialName: Republic of Singapore
   otherNames:
-    - Republic of Singapore
+    - Singapore
 SX:
   officialName: Sint Maarten
   otherNames:
 SK:
-  officialName: Slovakia
+  officialName: Slovak Republic
   otherNames:
-    - Slovak Republic
+    - Slovakia
 SI:
-  officialName: Slovenia
+  officialName: Republic of Slovenia
   otherNames:
-    - Republic of Slovenia
+    - Slovenia
 SB:
   officialName: Solomon Islands
   otherNames:
 SO:
-  officialName: Somalia
+  officialName: Federal Republic of Somalia
   otherNames:
-    - Federal Republic of Somalia
+    - Somalia
 ZA:
-  officialName: South Africa
+  officialName: Republic of South Africa
   otherNames:
-    - Republic of South Africa
+    - South Africa
     - RSA
-    - Mzansi
 GS:
   officialName: South Georgia and the South Sandwich Islands
   otherNames:
+    - SGSSI
 SS:
-  officialName: South Sudan
+  officialName: Republic of South Sudan
   otherNames:
-    - Republic of South Sudan
+    - South Sudan
 ES:
-  officialName: Spain
+  officialName: Kingdom of Spain
   otherNames:
-    - Kingdom of Spain
+    - Spain
 LK:
-  officialName: Sri Lanka
+  officialName: Democratic Socialist Republic of Sri Lanka
   otherNames:
-    - Democratic Socialist Republic of Sri Lanka
+    - Sri Lanka
 SD:
-  officialName: Sudan
+  officialName: Republic of the Sudan
   otherNames:
-    - Republic of the Sudan
+    - Sudan
 SR:
-  officialName: Suriname
+  officialName: Republic of Suriname
   otherNames:
+    - Suriname
     - Surinam
-    - Republic of Suriname
 SJ:
-  officialName: Svalbard and Jan Mayen
+  officialName: Svalbard and Jan Mayen Islands
   otherNames:
-    - SJ
+    - Svalbard and Jan Mayen
     - SJM
-    - Svalbard and Jan Mayen Islands
+    - SJ
 SE:
-  officialName: Sweden
+  officialName: Kingdom of Sweden
   otherNames:
-    - Kingdom of Sweden
+    - Sweden
 SY:
-  officialName: Syria
+  officialName: Syrian Arab Republic
   otherNames:
-    - Syrian Arab Republic
+    - Syria
 TW:
-  officialName: Taiwan
+  officialName: Republic of China
   otherNames:
-    - Republic of China
+    - Taiwan
     - ROC
 TJ:
-  officialName: Tajikistan
+  officialName: Republic of Tajikistan
   otherNames:
-    - Republic of Tajikistan
+    - Tajikistan
 TZ:
-  officialName: Tanzania
+  officialName: United Republic of Tanzania
   otherNames:
-    - United Republic of Tanzania
+    - Tanzania
 TH:
-  officialName: Thailand
+  officialName: Kingdom of Thailand
   otherNames:
-    - Kingdom of Thailand
+    - Thailand
     - Siam
 TL:
-  officialName: East Timor
+  officialName: Democratic Republic of Timor-Leste
   otherNames:
     - Timor-Leste
-    - Democratic Republic of Timor-Leste
+    - East Timor
 TG:
-  officialName: Togo
+  officialName: Togolese Republic
   otherNames:
-    - Togolese Republic
+    - Togo
 TK:
-  officialName: Tokelau
+  officialName: Tokelau Islands
   otherNames:
+    - Tokelau
     - Union Islands
-    - Tokelau Islands
 TO:
-  officialName: Tonga
+  officialName: Kingdom of Tonga
   otherNames:
-    - Kingdom of Tonga
+    - Tonga
 TT:
   officialName: Republic of Trinidad and Tobago
   otherNames:
     - Trinidad and Tobago
 TN:
-  officialName: Tunisia
+  officialName: Republic of Tunisia
   otherNames:
-    - Republic of Tunisia
+    - Tunisia
 TR:
-  officialName: Turkey
+  officialName: Republic of Turkey
   otherNames:
-    - Republic of Turkey
+    - Turkey
 TM:
   officialName: Turkmenistan
   otherNames:
@@ -980,90 +968,86 @@ TM:
 TC:
   officialName: Turks and Caicos Islands
   otherNames:
-    - TCI
     - Caicos Islands
     - Turks Islands
+    - TCI
 UA:
   officialName: Ukraine
   otherNames:
 GB:
   officialName: United Kingdom of Great Britain and Northern Ireland
   otherNames:
-    - Great Britain
+    - Northern Ireland
     - United Kingdom
-    - UK
-    - U.K.
+    - Great Britain
+    - Scotland
     - Britain
     - England
-    - Scotland
     - Wales
-    - Northern Ireland
+    - U.K.
+    - UK
 UM:
-  officialName: Baker Island
+  officialName: New Nantucket
   otherNames:
-    - New Nantucket
+    - Baker Island
 US:
   officialName: United States of America
   otherNames:
-    - USA
     - United States
     - U.S.
+    - USA
     - US
-    - America
 UY:
-  officialName: Uruguay
+  officialName: Oriental Republic of Uruguay
   otherNames:
-    - Oriental Republic of Uruguay
+    - Uruguay
 UZ:
-  officialName: Uzbekistan
+  officialName: Republic of Uzbekistan
   otherNames:
-    - Republic of Uzbekistan
+    - Uzbekistan
 VU:
-  officialName: Vanuatu
+  officialName: Republic of Vanuatu
   otherNames:
-    - Republic of Vanuatu
+    - Vanuatu
 VE:
-  officialName: Venezuela
+  officialName: Bolivarian Republic of Venezuela
   otherNames:
-    - Bolivarian Republic of Venezuela
+    - Venezuela
 VN:
-  officialName: Vietnam
+  officialName: Socialist Republic of Vietnam
   otherNames:
-    - Viet Nam
-    - Socialist Republic of Vietnam
+    - Vietnam
 VG:
-  officialName: British Virgin Islands
+  officialName: Virgin Islands
   otherNames:
+    - British Virgin Islands
     - BVI
-    - Virgin Islands
 VI:
-  officialName: United States Virgin Islands
+  officialName: Virgin Islands of the United States
   otherNames:
-    - USVI
-    - U.S. Virgin Islands
+    - United States Virgin Islands
     - American Virgin Islands
-    - Virgin Islands of the United States
+    - U.S. Virgin Islands
     - Danish West Indies
 WF:
-  officialName: Wallis and Futuna
+  officialName: Territory of the Wallis and Futuna Islands
   otherNames:
-    - Territory of the Wallis and Futuna Islands
+    - Wallis and Futuna
 EH:
   officialName: Sahrawi Arab Democratic Republic
   otherNames:
-    - SADR
     - Saharawi
+    - SADR
 YE:
-  officialName: Yemen
+  officialName: Republic of Yemen
   otherNames:
-    - Yaman
-    - Republic of Yemen
+    - Yemen
 ZM:
-  officialName: Zambia
+  officialName: Republic of Zambia
   otherNames:
-    - Republic of Zambia
+    - Zambia
 ZW:
-  officialName: Zimbabwe
+  officialName: Republic of Zimbabwe
   otherNames:
-    - Republic of Zimbabwe
+    - Zimbabwe
     - Rhodesia
