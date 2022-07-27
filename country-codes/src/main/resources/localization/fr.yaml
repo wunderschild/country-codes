@@ -23,9 +23,9 @@ AI:
   officialName: Anguilla
   otherNames:
 AL:
-  officialName: Albanie
+  officialName: République d'Albanie
   otherNames:
-    - République d’Albanie
+    - Albanie
 AM:
   officialName: République d'Arménie
   otherNames:
@@ -44,9 +44,9 @@ AS:
   otherNames:
     - American Samoa
 AT:
-  officialName: Autriche
+  officialName: République d'Autriche
   otherNames:
-    - République d’Autriche
+    - Autriche
 AU:
   officialName: Australie
   otherNames:
@@ -183,7 +183,7 @@ CH:
   otherNames:
     - Confédération Suisse
 CI:
-  officialName: République de Côte d’Ivoire
+  officialName: République de Côte d'Ivoire
   otherNames:
     - Côte d'Ivoire
     - Cote D'ivoire
@@ -251,7 +251,7 @@ DK:
   otherNames:
     - Royaume de Danemark
 DE:
-  officialName: République fédérale d’Allemagne
+  officialName: République fédérale d'Allemagne
   otherNames:
     - Allemagne
     - RFA
@@ -289,7 +289,7 @@ EH:
   officialName: Sahara occidental
   otherNames:
 ER:
-  officialName: l’État d'Érythrée
+  officialName: l'État d'Érythrée
   otherNames:
     - Erythree
     - Érythrée
@@ -297,9 +297,9 @@ ES:
   officialName: Espagne
   otherNames:
     - Presides Iles Canaries
-    - Royaume d’Espagne
+    - Royaume d'Espagne
 ET:
-  officialName: République démocratique fédérale d’Éthiopie
+  officialName: République démocratique fédérale d'Éthiopie
   otherNames:
     - Ethiopia
     - Ethiopie
@@ -430,8 +430,9 @@ HR:
   otherNames:
     - République de Croatie
 HT:
-  officialName: République d’Haïti
+  officialName: République d'Haïti
   otherNames:
+    - Haïti
     - Haiti
 HU:
   officialName: Hongrie
@@ -444,7 +445,7 @@ ID:
 IE:
   officialName: Irlande
   otherNames:
-    - L’Irlande
+    - L'Irlande
 IL:
   officialName: l'État d'Israël
   otherNames:
@@ -492,7 +493,7 @@ JO:
 JP:
   officialName: Japon
   otherNames:
-    - l’État du Japon
+    - l'État du Japon
 KE:
   officialName: République du Kenya
   otherNames:
@@ -802,7 +803,7 @@ PW:
   otherNames:
     - Palaos
 PS:
-  officialName: l’État de Palestine
+  officialName: l'État de Palestine
   otherNames:
     - State of Palestine
     - Palestine
@@ -937,7 +938,7 @@ SY:
 SZ:
   officialName: Eswatini
   otherNames:
-    - Royaume d’Eswatini
+    - Royaume d'Eswatini
 TC:
   officialName: îles Turques-et-Caïques
   otherNames:
