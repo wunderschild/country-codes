@@ -265,14 +265,11 @@ DO:
   officialName: République Dominicaine
   otherNames:
 DZ:
-  officialName: République Démocratique Populaire Algérienne
+  officialName: République algérienne démocratique et populaire
   otherNames:
     - Algerie
     - Algérie
-DZ​:
-  officialName: Algérie
-  otherNames:
-    - République algérienne démocratique et populair
+    - RADP
 EC:
   officialName: Équateur
   otherNames:
@@ -324,11 +321,8 @@ FK:
 FM:
   officialName: États fédérés de Micronésie
   otherNames:
-FM​:
-  officialName: Micronésie
-  otherNames:
+    - Micronésie
     - Micronesie
-    - États fédérés de Micronésie
 FO:
   officialName: Îles Féroé
   otherNames:
@@ -439,11 +433,6 @@ HT:
   officialName: République d’Haïti
   otherNames:
     - Haiti
-    - Haïti
-HT;:
-  officialName: Haïti
-  otherNames:
-    - République d’Haïti
 HU:
   officialName: Hongrie
   otherNames:
