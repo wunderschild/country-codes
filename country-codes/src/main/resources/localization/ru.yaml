@@ -386,7 +386,7 @@ GM:
 GN:
   officialName: Гвинея
   otherNames:
-    - Гвинeйская Республика
+    - Гвинейская Республика
 GP:
   officialName: Гваделупа
   otherNames:
@@ -803,10 +803,9 @@ RE:
   officialName: Реюньон
   otherNames:
 RS:
-  officialName: Сeрбия
+  officialName: Республика Сербия
   otherNames:
     - Сербия
-    - Республика Сербия
 RW:
   officialName: Руанда
   otherNames:
@@ -819,11 +818,11 @@ SB:
   officialName: Соломоновы Острова
   otherNames:
 SC:
-  officialName: Сейшeльские Острова
+  officialName: Сейшельские Острова
   otherNames:
     - Сейшелы
     - Сейшельские Острова
-    - Республика Сейшeльские Острова
+    - Республика Сейшельские Острова
 SS:
   officialName: Южный Судан
   otherNames:
@@ -877,7 +876,7 @@ SR:
 ST:
   officialName: Сан-Томе и Принсипи
   otherNames:
-    - Демократическая Республика Сан-Томe и Принсипи
+    - Демократическая Республика Сан-Томе и Принсипи
 SV:
   officialName: Сальвадор
   otherNames:
@@ -912,7 +911,7 @@ TH:
   officialName: Таиланд
   otherNames:
     - Сиам
-    - Королeвство Таиланд
+    - Королевство Таиланд
 TJ:
   officialName: Таджикистан
   otherNames:
@@ -925,10 +924,10 @@ TL:
   officialName: Восточный Тимор
   otherNames:
     - Демократическая Республика Восточный Тимор
-    - Тимор-Лeшти
+    - Тимор-Лешти
     - Демократическая Республика Тимор-Лесте
-    - Тимор-Лeсте
-    - Демократическая Республика Тимор-Лeшти
+    - Тимор-Лесте
+    - Демократическая Республика Тимор-Лешти
 TM:
   officialName: Туркмения
   otherNames:
