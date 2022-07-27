@@ -247,7 +247,9 @@ BJ:
 BL:
   officialName: Territorial Collectivity of Saint-Barthélemy
   otherNames:
+    - Territorial Collectivity of Saint-Barthelemy
     - Saint Barthélemy
+    - Saint Barthelemy
     - St. Barths
     - St. Barts
 BM:
@@ -315,7 +317,9 @@ CH:
 CI:
   officialName: Republic of Côte d'Ivoire
   otherNames:
+    - Republic of Cote d'Ivoire
     - Côte d'Ivoire
+    - Cote d'Ivoire
     - The Ivory Coast
     - Ivory Coast
 AQ:
@@ -389,6 +393,7 @@ CU:
 CW:
   officialName: Country of Curaçao
   otherNames:
+    - Country of Curacao
     - Curaçao
     - Curacao
 CY:
@@ -827,6 +832,7 @@ SM:
 ST:
   officialName: Democratic Republic of São Tomé and Príncipe
   otherNames:
+    - Democratic Republic of Sao Tome and Principe
     - Saint Thomas and Prince
     - São Tomé and Príncipe
     - Sao Tome and Principe
@@ -994,8 +1000,9 @@ US:
   officialName: United States of America
   otherNames:
     - United States
-    - U.S.
+    - U.S.A.
     - USA
+    - U.S.
     - US
 UY:
   officialName: Oriental Republic of Uruguay
