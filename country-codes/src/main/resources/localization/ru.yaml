@@ -1,20 +1,3 @@
-AU:
-  officialName: Австралия
-  otherNames:
-    - Австралийский Союз
-    - Содружество Австралии
-RU:
-  officialName: Российская Федерация
-  otherNames:
-    - Россия
-    - РФ
-    - Абхазия
-    - Южная Осетия
-    - Крым
-FR:
-  officialName: Франция
-  otherNames:
-    - Французская Республика
 AD:
   officialName: Княжество Андорра
   otherNames:
@@ -63,6 +46,11 @@ AT:
   officialName: Австрия
   otherNames:
     - Австрийская Республика
+AU:
+  officialName: Австралия
+  otherNames:
+    - Австралийский Союз
+    - Содружество Австралии
 AW:
   officialName: Аруба
   otherNames:
@@ -112,6 +100,10 @@ BJ:
   officialName: Бенин
   otherNames:
     - Республика Бенин
+BL:
+  officialName: Сен-Бартелеми
+  otherNames:
+    - Сен-Бартельми
 BM:
   officialName: Бермудские Острова
   otherNames:
@@ -161,10 +153,6 @@ BZ:
   officialName: Белиз
   otherNames:
     - Британский Гондурас
-BL:
-  officialName: Сен-Бартелеми
-  otherNames:
-    - Сен-Бартельми
 CA:
   officialName: Канада
   otherNames:
@@ -280,6 +268,10 @@ EC:
   officialName: Эквадор
   otherNames:
     - Республика Эквадор
+EE:
+  officialName: Эстония
+  otherNames:
+    - Эстонская Республика
 EG:
   officialName: Египет
   otherNames:
@@ -287,10 +279,47 @@ EG:
 EH:
   officialName: Западная Сахара
   otherNames:
-GR:
-  officialName: Греция
+ER:
+  officialName: Эритрея
   otherNames:
-    - Греческая Республика
+    - Государство Эритрея
+ES:
+  officialName: Испания
+  otherNames:
+    - Королевство Испания
+ET:
+  officialName: Эфиопия
+  otherNames:
+    - Федеративная Демократическая Республика Эфиопия
+    - Абиссиния
+FI:
+  officialName: Финляндия
+  otherNames:
+    - Финляндская Республика
+FJ:
+  officialName: Фиджи
+  otherNames:
+    - Республика Фиджи
+FK:
+  officialName: Фолклендские острова
+  otherNames:
+    - Мальвинские острова
+FM:
+  officialName: Микронезия
+  otherNames:
+    - Федеративные Штаты Микронезии
+FO:
+  officialName: Фарерские острова
+  otherNames:
+    - Фареры
+FR:
+  officialName: Франция
+  otherNames:
+    - Французская Республика
+GA:
+  officialName: Габон
+  otherNames:
+    - Габонская Республика
 GB:
   officialName: Великобритания
   otherNames:
@@ -301,57 +330,6 @@ GB:
     - Соединенное Королевство
     - Соединённое Королевство
     - Соединённое Королевство Великобритании и Северной Ирландии
-GQ:
-  officialName: Экваториальная Гвинея
-  otherNames:
-    - Республика Экваториальная Гвинея
-SZ:
-  officialName: Эсватини
-  otherNames:
-    - Королевство Эсватини
-    - Королевство Свазиленд
-    - Свазиленд
-ET:
-  officialName: Эфиопия
-  otherNames:
-    - Федеративная Демократическая Республика Эфиопия
-    - Абиссиния
-EE:
-  officialName: Эстония
-  otherNames:
-    - Эстонская Республика
-ER:
-  officialName: Эритрея
-  otherNames:
-    - Государство Эритрея
-ES:
-  officialName: Испания
-  otherNames:
-    - Королевство Испания
-FI:
-  officialName: Финляндия
-  otherNames:
-    - Финляндская Республика
-FJ:
-  officialName: Фиджи
-  otherNames:
-    - Республика Фиджи
-FM:
-  officialName: Микронезия
-  otherNames:
-    - Федеративные Штаты Микронезии
-FO:
-  officialName: Фарерские острова
-  otherNames:
-    - Фареры
-FK:
-  officialName: Фолклендские острова
-  otherNames:
-    - Мальвинские острова
-GA:
-  officialName: Габон
-  otherNames:
-    - Габонская Республика
 GD:
   officialName: Гренада
   otherNames:
@@ -390,6 +368,14 @@ GN:
 GP:
   officialName: Гваделупа
   otherNames:
+GQ:
+  officialName: Экваториальная Гвинея
+  otherNames:
+    - Республика Экваториальная Гвинея
+GR:
+  officialName: Греция
+  otherNames:
+    - Греческая Республика
 GS:
   officialName: Южная Георгия и Южные Сандвичевы Острова
   otherNames:
@@ -560,6 +546,11 @@ LI:
   officialName: Лихтенштейн
   otherNames:
     - Княжество Лихтенштейн
+LK:
+  officialName: Шри-Ланка
+  otherNames:
+    - Демократическая Социалистическая Республика Шри-Ланка
+    - Цейлон
 LR:
   officialName: Либерия
   otherNames:
@@ -584,11 +575,6 @@ LY:
   officialName: Ливия
   otherNames:
     - Государство Ливия
-LK:
-  officialName: Шри-Ланка
-  otherNames:
-    - Демократическая Социалистическая Республика Шри-Ланка
-    - Цейлон
 MA:
   officialName: Марокко
   otherNames:
@@ -796,16 +782,24 @@ QA:
   officialName: Государство Катар
   otherNames:
     - Катар
-RO:
-  officialName: Румыния
-  otherNames:
 RE:
   officialName: Реюньон
+  otherNames:
+RO:
+  officialName: Румыния
   otherNames:
 RS:
   officialName: Республика Сербия
   otherNames:
     - Сербия
+RU:
+  officialName: Российская Федерация
+  otherNames:
+    - Россия
+    - РФ
+    - Абхазия
+    - Южная Осетия
+    - Крым
 RW:
   officialName: Руанда
   otherNames:
@@ -823,10 +817,6 @@ SC:
     - Сейшелы
     - Сейшельские Острова
     - Республика Сейшельские Острова
-SS:
-  officialName: Южный Судан
-  otherNames:
-    - Республика Южный Судан
 SD:
   officialName: Судан
   otherNames:
@@ -873,6 +863,10 @@ SR:
   officialName: Суринам
   otherNames:
     - Республика Суринам
+SS:
+  officialName: Южный Судан
+  otherNames:
+    - Республика Южный Судан
 ST:
   officialName: Сан-Томе и Принсипи
   otherNames:
@@ -889,6 +883,12 @@ SY:
   otherNames:
     - Сирийская республика
     - Сирия
+SZ:
+  officialName: Эсватини
+  otherNames:
+    - Королевство Эсватини
+    - Королевство Свазиленд
+    - Свазиленд
 TC:
   officialName: Теркс и Кайкос
   otherNames:
@@ -1031,6 +1031,10 @@ WS:
   officialName: Независимое государство Самоа
   otherNames:
     - Самоа
+XK:
+  officialName: Республика Косово
+  otherNames:
+    - Косово
 YE:
   officialName: Йеменская Республика
   otherNames:
@@ -1038,10 +1042,6 @@ YE:
 YT:
   officialName: Майотта
   otherNames:
-XK:
-  officialName: Республика Косово
-  otherNames:
-    - Косово
 ZA:
   officialName: Южно-Африканская Республика
   otherNames:

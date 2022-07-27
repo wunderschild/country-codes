@@ -35,6 +35,10 @@ AO:
   officialName: République d'Angola
   otherNames:
     - Angola
+AQ:
+  officialName: Antarctique
+  otherNames:
+    - L'Antarctique
 AR:
   officialName: République Argentine
   otherNames:
@@ -242,6 +246,12 @@ CZ:
     - Tchéquie
     - Republique Tcheque
     - Tchecoslovaquie
+DE:
+  officialName: République fédérale d'Allemagne
+  otherNames:
+    - Allemagne
+    - RFA
+    - Allemagne De L'ouest R.f.a
 DJ:
   officialName: Djibouti
   otherNames:
@@ -250,12 +260,6 @@ DK:
   officialName: Danemark
   otherNames:
     - Royaume de Danemark
-DE:
-  officialName: République fédérale d'Allemagne
-  otherNames:
-    - Allemagne
-    - RFA
-    - Allemagne De L'ouest R.f.a
 DM:
   officialName: Dominique
   otherNames:
@@ -351,14 +355,14 @@ GF:
   officialName: Guyane
   otherNames:
     - Guyane française
-GH:
-  officialName: Ghana
-  otherNames:
-    - République du Ghana
 GG:
   officialName: Guernsey
   otherNames:
     - Bailliage de Guernesey
+GH:
+  officialName: Ghana
+  otherNames:
+    - République du Ghana
 GI:
   officialName: Gibraltar
   otherNames:
@@ -508,16 +512,14 @@ KH:
   officialName: Cambodge
   otherNames:
     - Royaume du Cambodge
+KI:
+  officialName: Kiribati
+  otherNames:
+    - République des Kiribati
 KM:
   officialName: Comores
   otherNames:
     - Union des Comores
-KZ:
-  officialName: République du Kazakhstan
-  otherNames:
-    - Kazakhstan
-    - Kazakstan
-    - Qazaqstan
 KN:
   officialName: Saint-Christophe-et-Niévès
   otherNames:
@@ -547,10 +549,12 @@ KY:
   officialName: Îles Caïmanes
   otherNames:
     - Îles Caïmanes
-KI:
-  officialName: Kiribati
+KZ:
+  officialName: République du Kazakhstan
   otherNames:
-    - République des Kiribati
+    - Kazakhstan
+    - Kazakstan
+    - Qazaqstan
 LA:
   officialName: Laos
   otherNames:
@@ -587,6 +591,10 @@ LT:
   officialName: Lituanie
   otherNames:
     - République de Lituanie
+LU:
+  officialName: Luxembourg
+  otherNames:
+    - Grand-Duché de Luxembourg
 LV:
   officialName: Lettonie
   otherNames:
@@ -595,10 +603,6 @@ LY:
   officialName: Libye
   otherNames:
     - l'État de Libye
-LU:
-  officialName: Luxembourg
-  otherNames:
-    - Grand-Duché de Luxembourg
 MA:
   officialName: Maroc
   otherNames:
@@ -614,10 +618,6 @@ MD:
     - Moldova
     - République de Moldova
     - République de Moldavie
-MG:
-  officialName: Madagascar
-  otherNames:
-    - République de Madagascar
 ME:
   officialName: Monténégro
   otherNames:
@@ -626,6 +626,10 @@ MF:
   officialName: Saint-Martin
   otherNames:
     - Antilles françaises
+MG:
+  officialName: Madagascar
+  otherNames:
+    - République de Madagascar
 MH:
   officialName: Îles Marshall
   otherNames:
@@ -650,6 +654,10 @@ MN:
   officialName: Mongolie
   otherNames:
     - Pays mongol
+MO:
+  officialName: Macao
+  otherNames:
+    - Région administrative spéciale de Macao de la république populaire de Chine
 MP:
   officialName: Northern Mariana Islands
   otherNames:
@@ -663,10 +671,6 @@ MR:
   otherNames:
     - République islamique de Mauritanie
     - Mauritanie
-MO:
-  officialName: Macao
-  otherNames:
-    - Région administrative spéciale de Macao de la république populaire de Chine
 MS:
   officialName: Montserrat
   otherNames:
@@ -755,6 +759,10 @@ NZ:
   officialName: Nouvelle-Zélande
   otherNames:
     - Nouvelle Zelande
+OM:
+  officialName: Sultanat d'Oman
+  otherNames:
+    - Oman
 PA:
   officialName: Panama
   otherNames:
@@ -778,6 +786,10 @@ PH:
   officialName: Philippines
   otherNames:
     - République des Philippines
+PK:
+  officialName: Pakistan
+  otherNames:
+    - République islamique du Pakistan
 PL:
   officialName: Pologne
   otherNames:
@@ -794,14 +806,6 @@ PR:
   officialName: Porto Rico
   otherNames:
     - État libre associé de Porto Rico
-PK:
-  officialName: Pakistan
-  otherNames:
-    - République islamique du Pakistan
-PW:
-  officialName: République des Palaos
-  otherNames:
-    - Palaos
 PS:
   officialName: l'État de Palestine
   otherNames:
@@ -813,14 +817,14 @@ PT:
   otherNames:
     - Iles Acores Maderes
     - République portugaise
+PW:
+  officialName: République des Palaos
+  otherNames:
+    - Palaos
 PY:
   officialName: Paraguay
   otherNames:
     - République du Paraguay
-OM:
-  officialName: Sultanat d'Oman
-  otherNames:
-    - Oman
 QA:
   officialName: Qatar
   otherNames:
@@ -1080,6 +1084,10 @@ WS:
     - Samoa
     - Samoa Occidentales
     - l'État indépendant des Samoa occidentales
+XK:
+  officialName: Kosovo
+  otherNames:
+    - République du Kosovo
 YE:
   officialName: République du Yémen
   otherNames:
@@ -1104,11 +1112,3 @@ ZW:
   otherNames:
     - Republic of Zimbabwe
     - République du Zimbabwe
-XK:
-  officialName: Kosovo
-  otherNames:
-    - République du Kosovo
-AQ:
-  officialName: Antarctique
-  otherNames:
-    - L'Antarctique
