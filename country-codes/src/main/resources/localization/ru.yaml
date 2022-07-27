@@ -4,21 +4,21 @@ AU:
     - Австралийский Союз
     - Содружество Австралии
 RU:
-  officialName: Россия
+  officialName: Российская Федерация
   otherNames:
-    - Российская Федерация
+    - Россия
     - РФ
     - Абхазия
     - Южная Осетия
+    - Крым
 FR:
   officialName: Франция
   otherNames:
     - Французская Республика
 AD:
-  officialName: Андорра
+  officialName: Княжество Андорра
   otherNames:
     - Андорра
-    - Княжество Андорра
 AE:
   officialName: Объединённые Арабские Эмираты
   otherNames:
