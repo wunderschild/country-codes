@@ -134,7 +134,6 @@ BQ:
 BR:
   officialName: République fédérative du Brésil
   otherNames:
-    - Bresil
     - Brésil
 BS:
   officialName: Bahamas
@@ -156,7 +155,6 @@ BY:
   otherNames:
     - Belarus
     - Bielorussie
-    - Belarus(Bielorussie)
     - République du Bélarus
 BZ:
   officialName: Belize
@@ -190,7 +188,6 @@ CI:
   officialName: République de Côte d'Ivoire
   otherNames:
     - Côte d'Ivoire
-    - Cote D'ivoire
     - RCI
 CK:
   officialName: Îles Cook
@@ -229,7 +226,6 @@ CV:
 CW:
   officialName: Curaçao
   otherNames:
-    - Antilles Neerlandaises
     - Antilles Néerlandaises
     - Curacao
 CX:
@@ -245,7 +241,7 @@ CZ:
   otherNames:
     - Tchéquie
     - Republique Tcheque
-    - Tchecoslovaquie
+    - Tchécoslovaquie
 DE:
   officialName: République fédérale d'Allemagne
   otherNames:
@@ -342,6 +338,7 @@ GB:
   officialName: Royaume-Uni
   otherNames:
     - Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
+    - Grande-Bretagne
 GD:
   officialName: Grenade
   otherNames:
@@ -1059,6 +1056,7 @@ VG:
   otherNames:
     - Îles Vierges Britaniques
     - Les îles Vierges britanniques
+    - Iles Vierges
 VI:
   officialName: Îles Vierges des États-Unis
   otherNames:
