@@ -1,5 +1,7 @@
 package io.wunderschild.country_codes
 
+import java.text.Normalizer
+
 /**
  * Allows to make a lookup for a country by indexed fields.
  *
@@ -13,6 +15,12 @@ class LookupTable(countries: Seq[Country], indexedFields: Seq[String]) extends S
       case v @ Some(_: Any) => v
       case _                => Option(anyVal)
     }
+  }
+
+  private def getHashCode(str: String): Int = {
+    val normalizer = Normalizer.normalize(str.toLowerCase, Normalizer.Form.NFD)
+    val normalizedStr = normalizer.replaceAll("\\p{InCombiningDiacriticalMarks}+", "")
+    normalizedStr.hashCode
   }
 
   private lazy val holder: Map[Int, Country] = {
@@ -29,7 +37,7 @@ class LookupTable(countries: Seq[Country], indexedFields: Seq[String]) extends S
           case None              => values
         }
       }
-      val hashes = values.map(name => name.toString.toLowerCase.hashCode)
+      val hashes = values.map(name => getHashCode(name.toString))
       lookup ++ hashes.map(hash => (hash, country)).toMap
     }
   }
@@ -41,7 +49,7 @@ class LookupTable(countries: Seq[Country], indexedFields: Seq[String]) extends S
    */
   def lookup(query: Any): Option[Country] = {
     val queryExp = Option(query).getOrElse(return None)
-    val hash = queryExp.toString.toLowerCase.hashCode
+    val hash = getHashCode(queryExp.toString)
     holder.get(hash)
   }
 
