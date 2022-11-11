@@ -1,5 +1,5 @@
 name := "country-codes"
-version := "0.0.8"
+version := "0.0.9"
 
 val jacksonVersion = "2.10.5"
 
