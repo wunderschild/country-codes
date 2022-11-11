@@ -1,6 +1,6 @@
 ThisBuild / organization := "io.wunderschild"
-ThisBuild / scalaVersion := "2.12.12"
-ThisBuild / crossScalaVersions := Seq("2.11.12", "2.12.12")
+ThisBuild / scalaVersion := "2.13.10"
+ThisBuild / crossScalaVersions := Seq("2.12.17", "2.13.10")
 
 lazy val root = (project in file("."))
   .settings(commonSettings, name := "country-codes-root", publish / skip := true)
