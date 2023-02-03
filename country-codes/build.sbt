@@ -1,7 +1,7 @@
 name := "country-codes"
 version := "0.0.10"
 
-val jacksonVersion = "2.13.15"
+val jacksonVersion = "2.13.5"
 
 libraryDependencies ++= Seq(
   "org.scala-lang"                   % "scala-reflect"           % scalaVersion.value,
