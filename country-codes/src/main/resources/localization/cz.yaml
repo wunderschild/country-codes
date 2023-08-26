@@ -1,0 +1,987 @@
+AD:
+  officialName: Andorrské knížectví
+  otherNames:
+    - Andorra
+AE:
+  officialName: Spojené arabské emiráty
+  otherNames:
+    - Emiráty
+    - S.A.E.
+    - SAE
+AF:
+  officialName: Afghánský islámský emirát
+  otherNames:
+    - Islámský emirát Afghánistán
+    - Afghánská islámská republika
+    - Islámská republika Afghánistán
+    - IRA
+    - Afghánistán
+AG:
+  officialName: Antigua a Barbuda
+  otherNames:
+AI:
+  officialName: Anguilla
+  otherNames:
+AL:
+  officialName: Albánská republika
+  otherNames:
+    - Albánie
+AM:
+  officialName: Arménská republika
+  otherNames:
+    - Arménie
+AO:
+  officialName: Angolská republika
+  otherNames:
+    - Angola
+AQ:
+  officialName: Antarktida
+  otherNames:
+AR:
+  officialName: Argentinská republika
+  otherNames:
+    - Argentina
+AS:
+  officialName: Americká Samoa
+  otherNames:
+AT:
+  officialName: Rakouská republika
+  otherNames:
+    - Rakousko
+AU:
+  officialName: Australské společenství
+  otherNames:
+    - Austrálie
+AW:
+  officialName: Aruba
+  otherNames:
+AX:
+  officialName: Provincie Alandy
+  otherNames:
+    - Alandy
+    - Ålandy
+AZ:
+  officialName: Ázerbájdžánská republika
+  otherNames:
+    - Ázerbájdžán
+BA:
+  officialName: Bosna a Hercegovina
+  otherNames:
+    - Bosna
+    - BiH
+BB:
+  officialName: Barbados
+  otherNames:
+BD:
+  officialName: Bangladéšská lidová republika
+  otherNames:
+    - Bangladéšská republika
+    - Bangladéš
+BE:
+  officialName: Belgické království
+  otherNames:
+    - Belgie
+BF:
+  officialName: Burkina Faso
+  otherNames:
+BG:
+  officialName: Bulharská republika
+  otherNames:
+    - Bulharsko
+BH:
+  officialName: Království Bahrajn
+  otherNames:
+    - Bahrajn
+BI:
+  officialName: Burundská republika
+  otherNames:
+    - Burundi
+BJ:
+  officialName: Beninská republika
+  otherNames:
+    - Benin
+BL:
+  officialName: Společenství Svatý Bartoloměj
+  otherNames:
+    - Svatý Bartoloměj
+BM:
+  officialName: Bermudské ostrovy
+  otherNames:
+    - Bermudy
+BN:
+  officialName: Stát Brunej Darussalam
+  otherNames:
+    - Brunej
+BO:
+  officialName: Bolivijský mnohonárodnostní stát
+  otherNames:
+    - Bolívie
+BQ:
+  officialName: Karibské Nizozemsko
+  otherNames:
+    - Bonaire, Svatý Eustach a Saba
+BR:
+  officialName: Brazilská federativní republika
+  otherNames:
+    - Brazílie
+BS:
+  officialName: Bahamské společenství
+  otherNames:
+    - Bahamy
+BT:
+  officialName: Bhútánské království
+  otherNames:
+    - Bhútán
+BV:
+  officialName: Bouvetův ostrov
+  otherNames:
+BW:
+  officialName: Botswanská republika
+  otherNames:
+    - Botswana
+BY:
+  officialName: Běloruská republika
+  otherNames:
+    - Bělorusko
+BZ:
+  officialName: Belize
+  otherNames:
+CA:
+  officialName: Kanada
+  otherNames:
+CC:
+  officialName: Území Kokosové (Keelingovy) ostrovy
+  otherNames:
+    - Kokosové (Keelingovy) ostrovy
+    - Keelingovy ostrovy
+    - Kokosové ostrovy
+CD:
+  officialName: Konžská demokratická republika
+  otherNames:
+    - Demokratická republika Kongo
+    - Kongo (Kinshasa)
+    - Kongo-Kinshasa
+CF:
+  officialName: Středoafrická republika
+  otherNames:
+    - SAR
+CG:
+  officialName: Konžská republika
+  otherNames:
+    - Kongo (Brazzaville)
+    - Kongo-Brazzaville
+CH:
+  officialName: Švýcarská konfederace
+  otherNames:
+    - Švýcarsko
+CI:
+  officialName: Republika Pobřeží slonoviny
+  otherNames:
+    - Pobřeží slonoviny
+    - Côte d'Ivoire
+CK:
+  officialName: Cookovy ostrovy
+  otherNames:
+CL:
+  officialName: Chilská republika
+  otherNames:
+    - Chile
+CM:
+  officialName: Kamerunská republika
+  otherNames:
+    - Kamerun
+CN:
+  officialName: Čínská lidová republika
+  otherNames:
+    - Čína
+    - ČLR
+CO:
+  officialName: Kolumbijská republika
+  otherNames:
+    - Kolumbie
+CR:
+  officialName: Kostarická republika
+  otherNames:
+    - Kostarika
+CU:
+  officialName: Kubánská republika
+  otherNames:
+    - Kuba
+CV:
+  officialName: Kapverdská republika
+  otherNames:
+    - Kapverdy
+CW:
+  officialName: Země Curaçao
+  otherNames:
+    - Curaçao
+CX:
+  officialName: Území Vánoční ostrov
+  otherNames:
+    - Vánoční ostrov
+CY:
+  officialName: Kyperská republika
+  otherNames:
+    - Kypr
+CZ:
+  officialName: Česká republika
+  otherNames:
+    - Česko
+DE:
+  officialName: Spolková republika Německo
+  otherNames:
+    - Německo
+    - SRN
+DJ:
+  officialName: Džibutská republika
+  otherNames:
+    - Džibutsko
+DK:
+  officialName: Dánské království
+  otherNames:
+    - Dánsko
+DM:
+  officialName: Dominické společenství
+  otherNames:
+    - Dominika
+DO:
+  officialName: Dominikánská republika
+  otherNames:
+DZ:
+  officialName: Alžírská demokratická a lidová republika
+  otherNames:
+    - Alžírsko
+EC:
+  officialName: Ekvádorská republika
+  otherNames:
+    - Ekvádor
+EE:
+  officialName: Estonská republika
+  otherNames:
+    - Estonsko
+EG:
+  officialName: Egyptská arabská republika
+  otherNames:
+    - Egypt
+EH:
+  officialName: Saharská arabská demokratická republika
+  otherNames:
+    - Západní Sahara
+    - SADR
+ER:
+  officialName: Stát Eritrea
+  otherNames:
+    - Eritrea
+ES:
+  officialName: Španělské království
+  otherNames:
+    - Španělsko
+ET:
+  officialName: Etiopská federativní demokratická republika
+  otherNames:
+    - Etiopie
+FI:
+  officialName: Finská republika
+  otherNames:
+    - Finsko
+FJ:
+  officialName: Fidžijská republika
+  otherNames:
+    - Fidži
+FK:
+  officialName: Falklandy
+  otherNames:
+    - Malvíny
+FM:
+  officialName: Federativní státy Mikronésie
+  otherNames:
+    - Mikronésie
+    - FSM
+FO:
+  officialName: Faerské ostrovy
+  otherNames:
+FR:
+  officialName: Francouzská republika
+  otherNames:
+    - Francie
+GA:
+  officialName: Gabonská republika
+  otherNames:
+    - Gabon
+GB:
+  officialName: Spojené království Velké Británie a Severního Irska
+  otherNames:
+    - Velká Británie a Severní Irsko
+    - Velká Británie
+    - Británie
+    - Spojené království
+GD:
+  officialName: Grenada
+  otherNames:
+GE:
+  officialName: Gruzie
+  otherNames:
+GF:
+  officialName: Francouzská Guyana
+  otherNames:
+GG:
+  officialName: Rychtářství Guernsey
+  otherNames:
+    - Guernsey
+GH:
+  officialName: Ghanská republika
+  otherNames:
+    - Ghana
+GI:
+  officialName: Gibraltar
+  otherNames:
+GL:
+  officialName: Grónsko
+  otherNames:
+GM:
+  officialName: Gambijská republika
+  otherNames:
+    - Gambie
+GN:
+  officialName: Guinejská republika
+  otherNames:
+    - Guinea
+GP:
+  officialName: Guadeloupe
+  otherNames:
+GQ:
+  officialName: Republika Rovníková Guinea
+  otherNames:
+    - Rovníková Guinea
+GR:
+  officialName: Řecká republika
+  otherNames:
+    - Řecko
+GS:
+  officialName: Jižní Georgie a Jižní Sandwichovy ostrovy
+  otherNames:
+GT:
+  officialName: Guatemalská republika
+  otherNames:
+    - Guatemala
+GU:
+  officialName: Guam
+  otherNames:
+GW:
+  officialName: Republika Guinea-Bissau
+  otherNames:
+    - Guinea-Bissau
+GY:
+  officialName: Guyanská kooperativní republika
+  otherNames:
+    - Guyana
+HK:
+  officialName: Hongkong
+  otherNames:
+HM:
+  officialName: Heardův ostrov a MacDonaldovy ostrovy
+  otherNames:
+HN:
+  officialName: Honduraská republika
+  otherNames:
+    - Honduras
+HR:
+  officialName: Chorvatská republika
+  otherNames:
+    - Chorvatsko
+HT:
+  officialName: Republika Haiti
+  otherNames:
+    - Haiti
+HU:
+  officialName: Maďarsko
+  otherNames:
+ID:
+  officialName: Indonéská republika
+  otherNames:
+    - Indonésie
+IE:
+  officialName: Irsko
+  otherNames:
+IL:
+  officialName: Stát Izrael
+  otherNames:
+    - Izrael
+IM:
+  officialName: Ostrov Man
+  otherNames:
+    - Mann
+IN:
+  officialName: Indická republika
+  otherNames:
+    - Indie
+IO:
+  officialName: Britské indickooceánské území
+  otherNames:
+IQ:
+  officialName: Irácká republika
+  otherNames:
+    - Irák
+IR:
+  officialName: Íránská islámská republika
+  otherNames:
+    - Írán
+    - Persie
+IS:
+  officialName: Island
+  otherNames:
+IT:
+  officialName: Italská republika
+  otherNames:
+    - Itálie
+JE:
+  officialName: Rychtářství Jersey
+  otherNames:
+    - Jersey
+JM:
+  officialName: Jamajka
+  otherNames:
+JO:
+  officialName: Jordánské hášimovské království
+  otherNames:
+    - Jordánsko
+JP:
+  officialName: Japonsko
+  otherNames:
+KE:
+  officialName: Keňská republika
+  otherNames:
+    - Keňa
+KG:
+  officialName: Kyrgyzská republika
+  otherNames:
+    - Kyrgyzstán
+KH:
+  officialName: Kambodžské království
+  otherNames:
+    - Kambodža
+    - Kampučia
+KI:
+  officialName: Republika Kiribati
+  otherNames:
+    - Kiribati
+KM:
+  officialName: Komorský svaz
+  otherNames:
+    - Komory
+KN:
+  officialName: Federace Svatý Kryštof a Nevis
+  otherNames:
+    - Svatý Kryštof a Nevis
+KP:
+  officialName: Korejská lidově demokratická republika
+  otherNames:
+    - Severní Korea
+    - KLDR
+KR:
+  officialName: Korejská republika
+  otherNames:
+    - Jižní Korea
+KW:
+  officialName: Stát Kuvajt
+  otherNames:
+    - Kuvajt
+KY:
+  officialName: Kajmanské ostrovy
+  otherNames:
+KZ:
+  officialName: Republika Kazachstán
+  otherNames:
+    - Kazachstán
+LA:
+  officialName: Laoská lidově demokratická republika
+  otherNames:
+    - Laos
+LB:
+  officialName: Libanonská republika
+  otherNames:
+    - Libanon
+LC:
+  officialName: Svatá Lucie
+  otherNames:
+LI:
+  officialName: Lichtenštejnské knížectví
+  otherNames:
+    - Lichtenštejnsko
+LK:
+  officialName: Šrílanská demokratická socialistická republika
+  otherNames:
+    - Šrí Lanka
+    - Srí Lanka
+LR:
+  officialName: Liberijská republika
+  otherNames:
+    - Libérie
+LS:
+  officialName: Lesothské království
+  otherNames:
+    - Lesotho
+LT:
+  officialName: Litevská republika
+  otherNames:
+    - Litva
+LU:
+  officialName: Lucemburské velkovévodství
+  otherNames:
+    - Lucembursko
+LV:
+  officialName: Lotyšská republika
+  otherNames:
+    - Lotyšsko
+LY:
+  officialName: Libyjský stát
+  otherNames:
+    - Libye
+MA:
+  officialName: Marocké království
+  otherNames:
+    - Maroko
+MC:
+  officialName: Monacké knížectví
+  otherNames:
+    - Monako
+MD:
+  officialName: Moldavská republika
+  otherNames:
+    - Moldavsko
+ME:
+  officialName: Černá Hora
+  otherNames:
+MF:
+  officialName: Saint-Martin
+  otherNames:
+MG:
+  officialName: Madagaskarská republika
+  otherNames:
+    - Madagaskar
+MH:
+  officialName: Republika Marshallovy ostrovy
+  otherNames:
+    - Marshallovy ostrovy
+MK:
+  officialName: Republika Severní Makedonie
+  otherNames:
+    - Severní Makedonie
+    - Makedonie
+ML:
+  officialName: Republika Mali
+  otherNames:
+    - Mali
+MM:
+  officialName: Republika Myanmarský svaz
+  otherNames:
+    - Myanmar
+    - Barma
+MN:
+  officialName: Mongolsko
+  otherNames:
+MO:
+  officialName: Zvláštní administrativní oblast Čínské lidové republiky Macao
+  otherNames:
+    - Macao
+    - Macau
+MP:
+  officialName: Společenství Severních Marian
+  otherNames:
+    - Severní Mariany
+MQ:
+  officialName: Martinik
+  otherNames:
+MR:
+  officialName: Mauritánská islámská republika
+  otherNames:
+    - Mauritánie
+    - Mauretánie
+MS:
+  officialName: Montserrat
+  otherNames:
+MT:
+  officialName: Maltská republika
+  otherNames:
+    - Malta
+MU:
+  officialName: Mauricijská republika
+  otherNames:
+    - Mauricius
+MV:
+  officialName: Maledivská republika
+  otherNames:
+    - Maledivy
+MW:
+  officialName: Malawiská republika
+  otherNames:
+    - Malawi
+MX:
+  officialName: Spojené státy mexické
+  otherNames:
+    - Mexiko
+MY:
+  officialName: Malajsie
+  otherNames:
+MZ:
+  officialName: Mosambická republika
+  otherNames:
+    - Mosambik
+NA:
+  officialName: Namibijská republika
+  otherNames:
+    - Namibie
+NC:
+  officialName: Nová Kaledonie
+  otherNames:
+NE:
+  officialName: Nigerská republika
+  otherNames:
+    - Niger
+NF:
+  officialName: Území Norfolk
+  otherNames:
+    - Norfolk
+NG:
+  officialName: Nigerijská federativní republika
+  otherNames:
+    - Nigérie
+NI:
+  officialName: Nikaragujská republika
+  otherNames:
+    - Nikaragua
+NL:
+  officialName: Nizozemsko
+  otherNames:
+NO:
+  officialName: Norské království
+  otherNames:
+    - Norsko
+NP:
+  officialName: Nepálská federativní demokratická republika
+  otherNames:
+    - Nepál
+NR:
+  officialName: Republika Nauru
+  otherNames:
+    - Nauru
+NU:
+  officialName: Niue
+  otherNames:
+NZ:
+  officialName: Nový Zéland
+  otherNames:
+OM:
+  officialName: Sultanát Omán
+  otherNames:
+    - Omán
+PA:
+  officialName: Panamská republika
+  otherNames:
+    - Panama
+PE:
+  officialName: Peruánská republika
+  otherNames:
+    - Peru
+PF:
+  officialName: Francouzská Polynésie
+  otherNames:
+PG:
+  officialName: Nezávislý stát Papua Nová Guinea
+  otherNames:
+    - Papua Nová Guinea
+    - Papua-Nová Guinea
+PH:
+  officialName: Filipínská republika
+  otherNames:
+    - Filipíny
+PK:
+  officialName: Pákistánská islámská republika
+  otherNames:
+    - Pákistán
+PL:
+  officialName: Polská republika
+  otherNames:
+    - Polsko
+PM:
+  officialName: Teritoriální společenství Saint Pierre a Miquelon
+  otherNames:
+    - Saint Pierre a Miquelon
+PN:
+  officialName: Pitcairnovy ostrovy
+  otherNames:
+PR:
+  officialName: Portorické společenství
+  otherNames:
+    - Portoriko
+PS:
+  officialName: Stát Palestina
+  otherNames:
+    - Palestina
+PT:
+  officialName: Portugalská republika
+  otherNames:
+    - Portugalsko
+PW:
+  officialName: Republika Palau
+  otherNames:
+    - Palau
+PY:
+  officialName: Paraguayská republika
+  otherNames:
+    - Paraguay
+QA:
+  officialName: Stát Katar
+  otherNames:
+    - Katar
+RE:
+  officialName: Réunion
+  otherNames:
+RO:
+  officialName: Rumunsko
+  otherNames:
+RS:
+  officialName: Srbská republika
+  otherNames:
+    - Srbsko
+RU:
+  officialName: Ruská federace
+  otherNames:
+    - Rusko
+RW:
+  officialName: Rwandská republika
+  otherNames:
+    - Rwanda
+SA:
+  officialName: Království Saúdská Arábie
+  otherNames:
+    - Saúdská Arábie
+SB:
+  officialName: Šalomounovy ostrovy
+  otherNames:
+    - Šalamounovy ostrovy
+SC:
+  officialName: Seychelská republika
+  otherNames:
+    - Seychely
+SD:
+  officialName: Súdánská republika
+  otherNames:
+    - Súdán
+SE:
+  officialName: Švédské království
+  otherNames:
+    - Švédsko
+SG:
+  officialName: Singapurská republika
+  otherNames:
+    - Singapur
+SH:
+  officialName: Svatá Helena, Ascension a Tristan da Cunha
+  otherNames:
+SI:
+  officialName: Slovinská republika
+  otherNames:
+    - Slovinsko
+SJ:
+  officialName: Špicberky a Jan Mayen
+  otherNames:
+SK:
+  officialName: Slovenská republika
+  otherNames:
+    - Slovensko
+SL:
+  officialName: Republika Sierra Leone
+  otherNames:
+    - Sierra Leone
+SM:
+  officialName: Republika San Marino
+  otherNames:
+    - San Marino
+SN:
+  officialName: Senegalská republika
+  otherNames:
+    - Senegal
+SO:
+  officialName: Somálská federativní republika
+  otherNames:
+    - Somálsko
+SR:
+  officialName: Surinamská republika
+  otherNames:
+    - Surinam
+SS:
+  officialName: Jihosúdánská republika
+  otherNames:
+    - Jižní Súdán
+ST:
+  officialName: Demokratická republika Svatý Tomáš a Princův ostrov
+  otherNames:
+    - Svatý Tomáš a Princův ostrov
+SV:
+  officialName: Salvadorská republika
+  otherNames:
+    - Salvador
+SX:
+  officialName: Svatý Martin
+  otherNames:
+SY:
+  officialName: Syrská arabská republika
+  otherNames:
+    - Sýrie
+SZ:
+  officialName: Svazijské království
+  otherNames:
+    - Svazijsko
+TC:
+  officialName: Ostrovy Turks a Caicos
+  otherNames:
+    - Turks a Caicos
+TD:
+  officialName: Čadská republika
+  otherNames:
+    - Čad
+TF:
+  officialName: Francouzská jižní a antarktická území
+  otherNames:
+    - TAAF
+TG:
+  officialName: Tožská republika
+  otherNames:
+    - Togo
+TH:
+  officialName: Thajské království
+  otherNames:
+    - Thajsko
+    - Siam
+TJ:
+  officialName: Republika Tádžikistán
+  otherNames:
+    - Tádžikistán
+TK:
+  officialName: Tokelau
+  otherNames:
+TL:
+  officialName: Demokratická republika Východní Timor
+  otherNames:
+    - Východní Timor
+    - Timor Leste
+TM:
+  officialName: Turkmenistán
+  otherNames:
+TN:
+  officialName: Tuniská republika
+  otherNames:
+    - Tunisko
+TO:
+  officialName: Království Tonga
+  otherNames:
+    - Tonga
+TR:
+  officialName: Turecká republika
+  otherNames:
+    - Turecko
+TT:
+  officialName: Republika Trinidad a Tobago
+  otherNames:
+    - Trinidad a Tobago
+TV:
+  officialName: Tuvalu
+  otherNames:
+    - Elliceovy ostrovy
+    - Lagunové ostrovy
+TW:
+  officialName: Čínská republika
+  otherNames:
+    - Tchaj-wan
+    - Taiwan
+TZ:
+  officialName: Tanzanská sjednocená republika
+  otherNames:
+    - Tanzanie
+UA:
+  officialName: Ukrajina
+  otherNames:
+UG:
+  officialName: Ugandská republika
+  otherNames:
+    - Uganda
+UM:
+  officialName: Menší odlehlé ostrovy Spojených států amerických
+  otherNames:
+    - Menší odlehlé ostrovy Spojených států
+    - Menší odlehlé ostrovy USA
+US:
+  officialName: Spojené státy americké
+  otherNames:
+    - Spojené státy
+    - U.S.A.
+    - USA
+    - U.S.
+    - US
+UY:
+  officialName: Uruguayská východní republika
+  otherNames:
+    - Uruguay
+UZ:
+  officialName: Republika Uzbekistán
+  otherNames:
+    - Uzbekistán
+VA:
+  officialName: Městský stát Vatikán
+  otherNames:
+    - Vatikán
+VC:
+  officialName: Svatý Vincenc a Grenadiny
+  otherNames:
+VE:
+  officialName: Bolívarovská republika Venezuela
+  otherNames:
+    - Venezuela
+VG:
+  officialName: Britské Panenské ostrovy
+  otherNames:
+VI:
+  officialName: Americké Panenské ostrovy
+  otherNames:
+VN:
+  officialName: Vietnamská socialistická republika
+  otherNames:
+    - Vietnam
+VU:
+  officialName: Republika Vanuatu
+  otherNames:
+    - Vanuatu
+    - Nové Hebridy
+WF:
+  officialName: Teritorium ostrovů Wallis a Futuna
+  otherNames:
+    - Wallis a Futuna
+WS:
+  officialName: Nezávislý stát Samoa
+  otherNames:
+    - Samoa
+XK:
+  officialName: Kosovská republika
+  otherNames:
+    - Kosovo
+YE:
+  officialName: Jemenská republika
+  otherNames:
+    - Jemen
+YT:
+  officialName: Mayotte
+  otherNames:
+ZA:
+  officialName: Jihoafrická republika
+  otherNames:
+    - Jižní Afrika
+    - JAR
+ZM:
+  officialName: Zambijská republika
+  otherNames:
+    - Zambie
+ZW:
+  officialName: Zimbabwská republika
+  otherNames:
+    - Zimbabwe
