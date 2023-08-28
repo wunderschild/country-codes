@@ -9,8 +9,9 @@ AE:
     - U.A.E.
     - UAE
 AF:
-  officialName: Islamic Republic of Afghanistan
+  officialName: Islamic Emirate of Afghanistan
   otherNames:
+    - Islamic Republic of Afghanistan
     - Afghanistan
 AG:
   officialName: Antigua and Barbuda
@@ -79,9 +80,9 @@ BE:
   otherNames:
     - Belgium
 BF:
-  officialName: Republic of Burkina Faso
+  officialName: Burkina Faso
   otherNames:
-    - Burkina Faso
+    - Republic of Upper Volta
 BG:
   officialName: Republic of Bulgaria
   otherNames:
@@ -110,7 +111,7 @@ BM:
   officialName: Bermuda
   otherNames:
 BN:
-  officialName: Nation of Brunei, the Abode of Peace
+  officialName: Brunei Darussalam
   otherNames:
     - Brunei
 BO:
@@ -275,7 +276,8 @@ EG:
 EH:
   officialName: Sahrawi Arab Democratic Republic
   otherNames:
-    - Saharawi
+    - Sahrawi Republic
+    - Western Sahara
     - SADR
 ER:
   officialName: State of Eritrea
@@ -334,9 +336,9 @@ GD:
   officialName: Grenada
   otherNames:
 GE:
-  officialName: Republic of Georgia
+  officialName: Georgia
   otherNames:
-    - Georgia
+    - Republic of Georgia
 GF:
   officialName: Territorial Collectivity of French Guiana
   otherNames:
@@ -424,9 +426,9 @@ ID:
   otherNames:
     - Indonesia
 IE:
-  officialName: Republic of Ireland
+  officialName: Ireland
   otherNames:
-    - Ireland
+    - Republic of Ireland
 IL:
   officialName: State of Israel
   otherNames:
@@ -472,9 +474,8 @@ JO:
   otherNames:
     - Jordan
 JP:
-  officialName: State of Japan
+  officialName: Japan
   otherNames:
-    - Japan
 KE:
   officialName: Republic of Kenya
   otherNames:
@@ -686,10 +687,10 @@ NI:
   otherNames:
     - Nicaragua
 NL:
-  officialName: Kingdom of the Netherlands
+  officialName: Netherlands
   otherNames:
     - The Netherlands
-    - Netherlands
+    - Holland
 NO:
   officialName: Kingdom of Norway
   otherNames:
@@ -919,9 +920,9 @@ TJ:
   otherNames:
     - Tajikistan
 TK:
-  officialName: Tokelau Islands
+  officialName: Tokelau
   otherNames:
-    - Tokelau
+    - Tokelau Islands
     - Union Islands
 TL:
   officialName: Democratic Republic of Timor-Leste
@@ -941,8 +942,10 @@ TO:
   otherNames:
     - Tonga
 TR:
-  officialName: Republic of Turkey
+  officialName: Republic of Türkiye
   otherNames:
+    - Türkiye
+    - Republic of Turkey
     - Turkey
 TT:
   officialName: Republic of Trinidad and Tobago
@@ -969,9 +972,18 @@ UG:
   otherNames:
     - Uganda
 UM:
-  officialName: New Nantucket
+  officialName: United States Minor Outlying Islands
   otherNames:
     - Baker Island
+    - New Nantucket
+    - Howland Island
+    - Jarvis Island
+    - Johnston Atoll
+    - Kingman Reef
+    - Midway Atoll
+    - Palmyra Atoll
+    - Wake Island
+    - Navassa Island
 US:
   officialName: United States of America
   otherNames:
@@ -1024,6 +1036,7 @@ VU:
   officialName: Republic of Vanuatu
   otherNames:
     - Vanuatu
+    - New Hebrides
 WF:
   officialName: Territory of the Wallis and Futuna Islands
   otherNames:
