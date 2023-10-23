@@ -19,8 +19,19 @@ object ISOCountryCodes {
     }
   }
 
+  private val countriesPath = "/countries"
+
   /**
-   * Create lookup table that can be used for fast search of country by name.
+   * Returns a sequence of supported ISO Codes.
+   */
+  def listSupported: Seq[String] = {
+    using(getClass.getResourceAsStream(s"$countriesPath/hint")) { stream =>
+      Source.fromInputStream(stream).getLines.toSeq
+    }
+  }
+
+  /**
+   * Creates a lookup table that can be used for fast search of country by name.
    *
    * @param localization language to be used for the country names
    */
@@ -33,11 +44,7 @@ object ISOCountryCodes {
     val mapper = new ObjectMapper(new YAMLFactory())
     mapper.registerModule(DefaultScalaModule)
 
-    val countriesPath = "/countries"
-
-    val countryDataPaths = using(getClass.getResourceAsStream("/countries/hint")) { stream =>
-      Source.fromInputStream(stream).getLines.map(country => s"$countriesPath/$country.yaml").toList
-    }
+    val countryDataPaths = listSupported.map(country => s"$countriesPath/$country.yaml")
 
     def readMap(path: String): mT = using(getClass.getResourceAsStream(path)) {
       stream => mapper.readValue(stream, classOf[mT])
